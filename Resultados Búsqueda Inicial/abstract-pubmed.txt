@@ -1,0 +1,135 @@
+1. Contemp Clin Trials Commun. 2020 Jun 29;19:100604. doi: 
+10.1016/j.conctc.2020.100604. eCollection 2020 Sep.
+
+Enhancing vocational training in corrections: A type 1 hybrid randomized 
+controlled trial protocol for evaluating virtual reality job interview training 
+among returning citizens preparing for community re-entry.
+
+Smith MJ(1), Mitchell JA(1), Blajeski S(1), Parham B(1)(2), Harrington MM(1), 
+Ross B(1), Sinco B(1), Brydon DM(1)(3), Johnson JE(4), Cuddeback GS(5), Smith 
+JD(6), Jordan N(6)(7), Bell MD(8), McGeorge R(9), Kaminski K(9), Suganuma A(10), 
+Kubiak SP(11).
+
+Author information:
+(1)University of Michigan School of Social Work, Ann Arbor, MI, USA.
+(2)University of Michigan Department of Psychology, Ann Arbor, MI, USA.
+(3)University of Denver Graduate School of Social Work, Denver, CO, USA.
+(4)Michigan State University Division of Public Health, East Lansing, MI, USA.
+(5)University of North Carolina at Chapel Hill School of Social Work, Chapel 
+Hill, NC, USA.
+(6)Northwestern University Feinberg School of Medicine Department of Psychiatry 
+and Behavioral Sciences, Chicago, IL, USA.
+(7)Hines VA Center of Innovation for Complex Chronic Healthcare, USA.
+(8)Yale School of Medicine, Department of Psychiatry, West Haven, CT, USA.
+(9)Michigan Department of Corrections, Lansing, MI, USA.
+(10)Washtenaw County Sheriff's Office, Ann Arbor, MI, USA.
+(11)Wayne State University School of Social Work, Detroit, MI, USA.
+
+The Michigan Department of Corrections operates the Vocational Villages, which 
+are skilled trades training programs set within prisons that include an 
+immersive educational community using virtual reality, robotics, and other 
+technologies to develop employable trades. An enhancement to the Vocational 
+Villages could be an evidence-based job interview training component. Recently, 
+we conducted a series of randomized controlled trials funded by the National 
+Institute of Mental Health to evaluate the efficacy of virtual reality job 
+interview training (VR-JIT). The results suggested that the use of VR-JIT was 
+associated with improved job interview skills and a greater likelihood of 
+receiving job offers within 6 months. The primary goal of this study is to 
+report on the protocol we developed to evaluate the effectiveness of VR-JIT at 
+improving interview skills, increasing job offers, and reducing recidivism when 
+delivered within two Vocational Villages via a randomized controlled trial and 
+process evaluation. Our aims are to: (1) evaluate whether services-as-usual in 
+combination with VR-JIT, compared to services-as-usual alone, enhances 
+employment outcomes and reduces recidivism among returning citizens enrolled in 
+the Vocational Villages; (2) evaluate mechanisms of employment outcomes and 
+explore mechanisms of recidivism; and (3) conduct a multilevel, mixed-method 
+process evaluation of VR-JIT implementation to assess the adoptability, 
+acceptability, scalability, feasibility, and implementation costs of VR-JIT.
+
+© 2020 Published by Elsevier Inc.
+
+DOI: 10.1016/j.conctc.2020.100604
+PMCID: PMC7339026
+PMID: 32671283
+
+Conflict of interest statement: Dr. Matthew Smith will receive royalties on 
+sales of an adapted, unpublished (at the time of this submission) version of 
+virtual reality job interview training (VR-JIT) that will focus on meeting the 
+needs of transition-age youth with autism spectrum disorders. Dr. Smith's 
+research on the effectiveness of the adapted version of VR-JIT is independent of 
+the protocol proposed in this manuscript that will be evaluating the original 
+version of VR-JIT. No other authors report any conflicts of interest.
+
+
+2. Trials. 2011 Jun 9;12:144. doi: 10.1186/1745-6215-12-144.
+
+Social validity of randomised controlled trials in health services research and 
+intellectual disabilities: a qualitative exploration of stakeholder views.
+
+Robotham D(1), King M, Canagasabey A, Inchley-Mort S, Hassiotis A.
+
+Author information:
+(1)Mental Health Foundation, Sea Containers House, 20 Upper Ground, London SE1 
+9QB, UK. Drobotham@mhf.org.uk
+
+BACKGROUND: Randomised controlled trials (RCTs) are the gold standard of 
+evidence-based practice in medicine but they have had limited influence in the 
+field of intellectual disabilities. Previous literature suggests that 
+participants and professionals have limited tolerance for this type of research 
+methodology. However, it is not known how well service users, carers and other 
+health professionals understand and accept the need for RCTs, and why it is 
+important for individuals with intellectual disabilities to be included in this 
+kind of research.
+METHODS: We examined individual perceptions of RCTs in 51 participants (18 
+carers, 6 service users and 27 professionals) using semi-structured interviews. 
+A framework approach was adopted in the analysis of data.
+RESULTS: We found that participants had concerns about capacity and resource 
+allocation but held positive views towards this type of research methodology. 
+Understanding of the principles behind RCTs was poor amongst service users and a 
+minority of carers, but mediated by previous exposure to research for 
+professionals.
+CONCLUSIONS: The social validity of RCTs in intellectual disabilities may be 
+compromised by lack of understanding of the design and the on-going concerns 
+about obtaining informed consent especially in incapacitated adults. However, 
+the overall finding that the need for this form of research was seen in a 
+positive light suggests that there is a turning point in the perceptions of 
+stakeholders working in intellectual disabilities services. We recommend that 
+researchers include on-going education on RCT design during trials, tailoring it 
+to all stakeholders with emphasis on strong service user and care involvement. 
+This could be a pivotal element in improving acceptability of, and recruitment 
+to RCTs.
+
+DOI: 10.1186/1745-6215-12-144
+PMCID: PMC3135548
+PMID: 21658215 [Indexed for MEDLINE]
+
+
+3. Annu Int Conf IEEE Eng Med Biol Soc. 2012;2012:6768-71. doi: 
+10.1109/EMBC.2012.6347548.
+
+The effect of aging on human brain spatial processing performance.
+
+Samadani AA(1), Moussavi Z.
+
+Author information:
+(1)Electrical and Computer Engineering Department, University of Waterloo, 
+Waterloo, ON N2L 3G1, Canada. asamadani@uwaterloo.ca
+
+Cognitive abilities similar to other mental or physical abilities develop and 
+change during the course of life. Spatial processing is a cognitive ability, 
+which has been suggested to deteriorate by age. The focus of this paper is to 
+study the change of real time egocentric spatial processing in humans by age. 
+For this, an interactive computer game played with a 2DOF manipulandum was 
+designed. The game consists of goal-oriented motor tasks, in which the player 
+must move the robot arm toward a desired spatial cue in a virtual 2D environment 
+in every trial for a total number of 72 trials. The spatial cues are four final 
+destinations and a starting location, which change their position in every new 
+trial of the game. 37 individuals with no cognitive impairment were split into 3 
+groups according to different age range (children, young, and elderly) and 
+participated in this experiment. Their spatial processing ability was assessed 
+and compared between the age groups. The results show the children (7-12 y) and 
+elderly (65(+) y) performed very similar and significantly worse than the young 
+adult participants.
+
+DOI: 10.1109/EMBC.2012.6347548
+PMID: 23367483 [Indexed for MEDLINE]

@@ -1,0 +1,1723 @@
+1: Mayer-Benarous H, Benarous X, Vonthron F, Cohen D. Music Therapy for Children
+With Autistic Spectrum Disorder and/or Other Neurodevelopmental Disorders: A
+Systematic Review. Front Psychiatry. 2021 Apr 9;12:643234. doi:
+10.3389/fpsyt.2021.643234. PMID: 33897497; PMCID: PMC8062803.
+
+2: Brainstorm Consortium; Anttila V, Bulik-Sullivan B, Finucane HK, Walters RK,
+Bras J, Duncan L, Escott-Price V, Falcone GJ, Gormley P, Malik R, Patsopoulos
+NA, Ripke S, Wei Z, Yu D, Lee PH, Turley P, Grenier-Boley B, Chouraki V,
+Kamatani Y, Berr C, Letenneur L, Hannequin D, Amouyel P, Boland A, Deleuze JF,
+Duron E, Vardarajan BN, Reitz C, Goate AM, Huentelman MJ, Kamboh MI, Larson EB,
+Rogaeva E, St George-Hyslop P, Hakonarson H, Kukull WA, Farrer LA, Barnes LL,
+Beach TG, Demirci FY, Head E, Hulette CM, Jicha GA, Kauwe JSK, Kaye JA, Leverenz
+JB, Levey AI, Lieberman AP, Pankratz VS, Poon WW, Quinn JF, Saykin AJ, Schneider
+LS, Smith AG, Sonnen JA, Stern RA, Van Deerlin VM, Van Eldik LJ, Harold D, Russo
+G, Rubinsztein DC, Bayer A, Tsolaki M, Proitsi P, Fox NC, Hampel H, Owen MJ,
+Mead S, Passmore P, Morgan K, Nöthen MM, Rossor M, Lupton MK, Hoffmann P,
+Kornhuber J, Lawlor B, McQuillin A, Al-Chalabi A, Bis JC, Ruiz A, Boada M,
+Seshadri S, Beiser A, Rice K, van der Lee SJ, De Jager PL, Geschwind DH,
+Riemenschneider M, Riedel-Heller S, Rotter JI, Ransmayr G, Hyman BT, Cruchaga C,
+Alegret M, Winsvold B, Palta P, Farh KH, Cuenca-Leon E, Furlotte N, Kurth T,
+Ligthart L, Terwindt GM, Freilinger T, Ran C, Gordon SD, Borck G, Adams HHH,
+Lehtimäki T, Wedenoja J, Buring JE, Schürks M, Hrafnsdottir M, Hottenga JJ,
+Penninx B, Artto V, Kaunisto M, Vepsäläinen S, Martin NG, Montgomery GW, Kurki
+MI, Hämäläinen E, Huang H, Huang J, Sandor C, Webber C, Muller-Myhsok B,
+Schreiber S, Salomaa V, Loehrer E, Göbel H, Macaya A, Pozo-Rosich P, Hansen T,
+Werge T, Kaprio J, Metspalu A, Kubisch C, Ferrari MD, Belin AC, van den
+Maagdenberg AMJM, Zwart JA, Boomsma D, Eriksson N, Olesen J, Chasman DI, Nyholt
+DR, Avbersek A, Baum L, Berkovic S, Bradfield J, Buono RJ, Catarino CB, Cossette
+P, De Jonghe P, Depondt C, Dlugos D, Ferraro TN, French J, Hjalgrim H, Jamnadas-
+Khoda J, Kälviäinen R, Kunz WS, Lerche H, Leu C, Lindhout D, Lo W, Lowenstein D,
+McCormack M, Møller RS, Molloy A, Ng PW, Oliver K, Privitera M, Radtke R,
+Ruppert AK, Sander T, Schachter S, Schankin C, Scheffer I, Schoch S, Sisodiya
+SM, Smith P, Sperling M, Striano P, Surges R, Thomas GN, Visscher F, Whelan CD,
+Zara F, Heinzen EL, Marson A, Becker F, Stroink H, Zimprich F, Gasser T, Gibbs
+R, Heutink P, Martinez M, Morris HR, Sharma M, Ryten M, Mok KY, Pulit S, Bevan
+S, Holliday E, Attia J, Battey T, Boncoraglio G, Thijs V, Chen WM, Mitchell B,
+Rothwell P, Sharma P, Sudlow C, Vicente A, Markus H, Kourkoulis C, Pera J,
+Raffeld M, Silliman S, Boraska Perica V, Thornton LM, Huckins LM, William Rayner
+N, Lewis CM, Gratacos M, Rybakowski F, Keski-Rahkonen A, Raevuori A, Hudson JI,
+Reichborn-Kjennerud T, Monteleone P, Karwautz A, Mannik K, Baker JH, O'Toole JK,
+Trace SE, Davis OSP, Helder SG, Ehrlich S, Herpertz-Dahlmann B, Danner UN, van
+Elburg AA, Clementi M, Forzan M, Docampo E, Lissowska J, Hauser J, Tortorella A,
+Maj M, Gonidakis F, Tziouvas K, Papezova H, Yilmaz Z, Wagner G, Cohen-Woods S,
+Herms S, Julià A, Rabionet R, Dick DM, Ripatti S, Andreassen OA, Espeseth T,
+Lundervold AJ, Steen VM, Pinto D, Scherer SW, Aschauer H, Schosser A, Alfredsson
+L, Padyukov L, Halmi KA, Mitchell J, Strober M, Bergen AW, Kaye W, Szatkiewicz
+JP, Cormand B, Ramos-Quiroga JA, Sánchez-Mora C, Ribasés M, Casas M, Hervas A,
+Arranz MJ, Haavik J, Zayats T, Johansson S, Williams N, Dempfle A, Rothenberger
+A, Kuntsi J, Oades RD, Banaschewski T, Franke B, Buitelaar JK, Arias Vasquez A,
+Doyle AE, Reif A, Lesch KP, Freitag C, Rivero O, Palmason H, Romanos M, Langley
+K, Rietschel M, Witt SH, Dalsgaard S, Børglum AD, Waldman I, Wilmot B, Molly N,
+Bau CHD, Crosbie J, Schachar R, Loo SK, McGough JJ, Grevet EH, Medland SE,
+Robinson E, Weiss LA, Bacchelli E, Bailey A, Bal V, Battaglia A, Betancur C,
+Bolton P, Cantor R, Celestino-Soper P, Dawson G, De Rubeis S, Duque F, Green A,
+Klauck SM, Leboyer M, Levitt P, Maestrini E, Mane S, De-Luca DM, Parr J, Regan
+R, Reichenberg A, Sandin S, Vorstman J, Wassink T, Wijsman E, Cook E, Santangelo
+S, Delorme R, Rogé B, Magalhaes T, Arking D, Schulze TG, Thompson RC, Strohmaier
+J, Matthews K, Melle I, Morris D, Blackwood D, McIntosh A, Bergen SE, Schalling
+M, Jamain S, Maaser A, Fischer SB, Reinbold CS, Fullerton JM, Guzman-Parra J,
+Mayoral F, Schofield PR, Cichon S, Mühleisen TW, Degenhardt F, Schumacher J,
+Bauer M, Mitchell PB, Gershon ES, Rice J, Potash JB, Zandi PP, Craddock N,
+Ferrier IN, Alda M, Rouleau GA, Turecki G, Ophoff R, Pato C, Anjorin A, Stahl E,
+Leber M, Czerski PM, Cruceanu C, Jones IR, Posthuma D, Andlauer TFM, Forstner
+AJ, Streit F, Baune BT, Air T, Sinnamon G, Wray NR, MacIntyre DJ, Porteous D,
+Homuth G, Rivera M, Grove J, Middeldorp CM, Hickie I, Pergadia M, Mehta D, Smit
+JH, Jansen R, de Geus E, Dunn E, Li QS, Nauck M, Schoevers RA, Beekman AT,
+Knowles JA, Viktorin A, Arnold P, Barr CL, Bedoya-Berrio G, Bienvenu OJ,
+Brentani H, Burton C, Camarena B, Cappi C, Cath D, Cavallini M, Cusi D, Darrow
+S, Denys D, Derks EM, Dietrich A, Fernandez T, Figee M, Freimer N, Gerber G,
+Grados M, Greenberg E, Hanna GL, Hartmann A, Hirschtritt ME, Hoekstra PJ, Huang
+A, Huyser C, Illmann C, Jenike M, Kuperman S, Leventhal B, Lochner C, Lyon GJ,
+Macciardi F, Madruga-Garrido M, Malaty IA, Maras A, McGrath L, Miguel EC, Mir P,
+Nestadt G, Nicolini H, Okun MS, Pakstis A, Paschou P, Piacentini J, Pittenger C,
+Plessen K, Ramensky V, Ramos EM, Reus V, Richter MA, Riddle MA, Robertson MM,
+Roessner V, Rosário M, Samuels JF, Sandor P, Stein DJ, Tsetsos F, Van
+Nieuwerburgh F, Weatherall S, Wendland JR, Wolanczyk T, Worbe Y, Zai G, Goes FS,
+McLaughlin N, Nestadt PS, Grabe HJ, Depienne C, Konkashbaev A, Lanzagorta N,
+Valencia-Duarte A, Bramon E, Buccola N, Cahn W, Cairns M, Chong SA, Cohen D,
+Crespo-Facorro B, Crowley J, Davidson M, DeLisi L, Dinan T, Donohoe G, Drapeau
+E, Duan J, Haan L, Hougaard D, Karachanak-Yankova S, Khrunin A, Klovins J,
+Kučinskas V, Lee Chee Keong J, Limborska S, Loughland C, Lönnqvist J, Maher B,
+Mattheisen M, McDonald C, Murphy KC, Nenadic I, van Os J, Pantelis C, Pato M,
+Petryshen T, Quested D, Roussos P, Sanders AR, Schall U, Schwab SG, Sim K, So
+HC, Stögmann E, Subramaniam M, Toncheva D, Waddington J, Walters J, Weiser M,
+Cheng W, Cloninger R, Curtis D, Gejman PV, Henskens F, Mattingsdal M, Oh SY,
+Scott R, Webb B, Breen G, Churchhouse C, Bulik CM, Daly M, Dichgans M, Faraone
+SV, Guerreiro R, Holmans P, Kendler KS, Koeleman B, Mathews CA, Price A, Scharf
+J, Sklar P, Williams J, Wood NW, Cotsapas C, Palotie A, Smoller JW, Sullivan P,
+Rosand J, Corvin A, Neale BM, Schott JM, Anney R, Elia J, Grigoroiu-Serbanescu
+M, Edenberg HJ, Murray R. Analysis of shared heritability in common disorders of
+the brain. Science. 2018 Jun 22;360(6395):eaap8757. doi:
+10.1126/science.aap8757. PMID: 29930110; PMCID: PMC6097237.
+
+3: Fiske A, Henningsen P, Buyx A. Your Robot Therapist Will See You Now: Ethical
+Implications of Embodied Artificial Intelligence in Psychiatry, Psychology, and
+Psychotherapy. J Med Internet Res. 2019 May 9;21(5):e13216. doi: 10.2196/13216.
+PMID: 31094356; PMCID: PMC6532335.
+
+4: Grabowski K, Rynkiewicz A, Lassalle A, Baron-Cohen S, Schuller B, Cummins N,
+Baird A, Podgórska-Bednarz J, Pieniążek A, Łucka I. Emotional expression in
+psychiatric conditions: New technology for clinicians. Psychiatry Clin Neurosci.
+2019 Feb;73(2):50-62. doi: 10.1111/pcn.12799. Epub 2018 Dec 25. PMID: 30565801.
+
+5: Spanakis M, Xylouri I, Patelarou E, Patelarou A. A Literature Review of High-
+Tech Physiotherapy Interventions in the Elderly with Neurological Disorders. Int
+J Environ Res Public Health. 2022 Jul 28;19(15):9233. doi:
+10.3390/ijerph19159233. PMID: 35954587; PMCID: PMC9368072.
+
+6: Xavier J, Cohen D. Multidimensional impairments. Handb Clin Neurol.
+2020;174:159-169. doi: 10.1016/B978-0-444-64148-9.00012-0. PMID: 32977875.
+
+7: Iosa M, Verrelli CM, Gentile AE, Ruggieri M, Polizzi A. Gaming Technology for
+Pediatric Neurorehabilitation: A Systematic Review. Front Pediatr. 2022 Jan
+28;10:775356. doi: 10.3389/fped.2022.775356. PMID: 35155305; PMCID: PMC8832052.
+
+8: Sharpee TO, Destexhe A, Kawato M, Sekulić V, Skinner FK, Wójcik DK,
+Chintaluri C, Cserpán D, Somogyvári Z, Kim JK, Kilpatrick ZP, Bennett MR, Josić
+K, Elices I, Arroyo D, Levi R, Rodriguez FB, Varona P, Hwang E, Kim B, Han HB,
+Kim T, McKenna JT, Brown RE, McCarley RW, Choi JH, Rankin J, Popp PO, Rinzel J,
+Tabas A, Rupp A, Balaguer-Ballester E, Maturana MI, Grayden DB, Cloherty SL,
+Kameneva T, Ibbotson MR, Meffin H, Koren V, Lochmann T, Dragoi V, Obermayer K,
+Psarrou M, Schilstra M, Davey N, Torben-Nielsen B, Steuber V, Ju H, Yu J, Hines
+ML, Chen L, Yu Y, Kim J, Leahy W, Shlizerman E, Birgiolas J, Gerkin RC, Crook
+SM, Viriyopase A, Memmesheimer RM, Gielen S, Dabaghian Y, DeVito J, Perotti L,
+Kim AJ, Fenk LM, Cheng C, Maimon G, Zhao C, Widmer Y, Sprecher S, Senn W, Halnes
+G, Mäki-Marttunen T, Keller D, Pettersen KH, Andreassen OA, Einevoll GT, Yamada
+Y, Steyn-Ross ML, Alistair Steyn-Ross D, Mejias JF, Murray JD, Kennedy H, Wang
+XJ, Kruscha A, Grewe J, Benda J, Lindner B, Badel L, Ohta K, Tsuchimoto Y,
+Kazama H, Kahng B, Tam ND, Pollonini L, Zouridakis G, Soh J, Kim D, Yoo M,
+Palmer SE, Culmone V, Bojak I, Ferrario A, Merrison-Hort R, Borisyuk R, Kim CS,
+Tezuka T, Joo P, Rho YA, Burton SD, Bard Ermentrout G, Jeong J, Urban NN,
+Marsalek P, Kim HH, Moon SH, Lee DW, Lee SB, Lee JY, Molkov YI, Hamade K, Teka
+W, Barnett WH, Kim T, Markin S, Rybak IA, Forro C, Dermutz H, Demkó L, Vörös J,
+Babichev A, Huang H, Verduzco-Flores S, Dos Santos F, Andras P, Metzner C,
+Schweikard A, Zurowski B, Roach JP, Sander LM, Zochowski MR, Skilling QM,
+Ognjanovski N, Aton SJ, Zochowski M, Wang SJ, Ouyang G, Guang J, Zhang M,
+Michael Wong KY, Zhou C, Robinson PA, Sanz-Leon P, Drysdale PM, Fung F,
+Abeysuriya RG, Rennie CJ, Zhao X, Choe Y, Yang HF, Mi Y, Lin X, Wu S, Liedtke J,
+Schottdorf M, Wolf F, Yamamura Y, Wickens JR, Rumbell T, Ramsey J, Reyes A,
+Draguljić D, Hof PR, Luebke J, Weaver CM, He H, Yang X, Ma H, Xu Z, Wang Y, Baek
+K, Morris LS, Kundu P, Voon V, Agnes EJ, Vogels TP, Podlaski WF, Giese M, Kuravi
+P, Vogels R, Seeholzer A, Podlaski W, Ranjan R, Vogels T, Torres JJ, Baroni F,
+Latorre R, Gips B, Lowet E, Roberts MJ, de Weerd P, Jensen O, van der Eerden J,
+Goodarzinick A, Niry MD, Valizadeh A, Pariz A, Parsi SS, Warburton JM, Marucci
+L, Tamagnini F, Brown J, Tsaneva-Atanasova K, Kleberg FI, Triesch J, Moezzi B,
+Iannella N, Schaworonkow N, Plogmacher L, Goldsworthy MR, Hordacre B, McDonnell
+MD, Ridding MC, Zapotocky M, Smit D, Fouquet C, Trembleau A, Dasgupta S,
+Nishikawa I, Aihara K, Toyoizumi T, Robb DT, Mellen N, Toporikova N, Tang R,
+Tang YY, Liang G, Kiser SA, Howard JH Jr, Goncharenko J, Voronenko SO, Ahamed T,
+Stephens G, Yger P, Lefebvre B, Spampinato GLB, Esposito E, et Olivier Marre MS,
+Choi H, Song MH, Chung S, Lee DD, Sompolinsky H, Phillips RS, Smith J,
+Chatzikalymniou AP, Ferguson K, Alex Cayco Gajic N, Clopath C, Angus Silver R,
+Gleeson P, Marin B, Sadeh S, Quintana A, Cantarelli M, Dura-Bernal S, Lytton WW,
+Davison A, Li L, Zhang W, Wang D, Song Y, Park S, Choi I, Shin HS, Choi H,
+Pasupathy A, Shea-Brown E, Huh D, Sejnowski TJ, Vogt SM, Kumar A, Schmidt R, Van
+Wert S, Schiff SJ, Veale R, Scheutz M, Lee SW, Gallinaro J, Rotter S, Rubchinsky
+LL, Cheung CC, Ratnadurai-Giridharan S, Shomali SR, Ahmadabadi MN, Shimazaki H,
+Nader Rasuli S, Zhao X, Rasch MJ, Wilting J, Priesemann V, Levina A, Rudelt L,
+Lizier JT, Spinney RE, Rubinov M, Wibral M, Bak JH, Pillow J, Zaho Y, Park IM,
+Kang J, Park HJ, Jang J, Paik SB, Choi W, Lee C, Song M, Lee H, Park Y, Yilmaz
+E, Baysal V, Ozer M, Saska D, Nowotny T, Chan HK, Diamond A, Herrmann CS, Murray
+MM, Ionta S, Hutt A, Lefebvre J, Weidel P, Duarte R, Morrison A, Lee JH, Iyer R,
+Mihalas S, Koch C, Petrovici MA, Leng L, Breitwieser O, Stöckel D, Bytschok I,
+Martel R, Bill J, Schemmel J, Meier K, Esler TB, Burkitt AN, Kerr RR, Tahayori
+B, Nolte M, Reimann MW, Muller E, Markram H, Parziale A, Senatore R, Marcelli A,
+Skiker K, Maouene M, Neymotin SA, Seidenstein A, Lakatos P, Sanger TD, Menzies
+RJ, McLauchlan C, van Albada SJ, Kedziora DJ, Neymotin S, Kerr CC, Suter BA,
+Shepherd GMG, Ryu J, Lee SH, Lee J, Lee HJ, Lim D, Wang J, Lee H, Jung N, Anh
+Quang L, Maeng SE, Lee TH, Lee JW, Park CH, Ahn S, Moon J, Choi YS, Kim J, Jun
+SB, Lee S, Lee HW, Jo S, Jun E, Yu S, Goetze F, Lai PY, Kim S, Kwag J, Jang HJ,
+Filipović M, Reig R, Aertsen A, Silberberg G, Bachmann C, Buttler S, Jacobs H,
+Dillen K, Fink GR, Kukolja J, Kepple D, Giaffar H, Rinberg D, Shea S, Koulakov
+A, Bahuguna J, Tetzlaff T, Kotaleski JH, Kunze T, Peterson A, Knösche T, Kim M,
+Kim H, Park JS, Yeon JW, Kim SP, Kang JH, Lee C, Spiegler A, Petkoski S, Palva
+MJ, Jirsa VK, Saggio ML, Siep SF, Stacey WC, Bernar C, Choung OH, Jeong Y, Lee
+YI, Kim SH, Jeong M, Lee J, Kwon J, Kralik JD, Jahng J, Hwang DU, Kwon JH, Park
+SM, Kim S, Kim H, Kim PS, Yoon S, Lim S, Park C, Miller T, Clements K, Ahn S, Ji
+EH, Issa FA, Baek J, Oba S, Yoshimoto J, Doya K, Ishii S, Mosqueiro TS, Strube-
+Bloss MF, Smith B, Huerta R, Hadrava M, Hlinka J, Bos H, Helias M, Welzig CM,
+Harper ZJ, Kim WS, Shin IS, Baek HM, Han SK, Richter R, Vitay J, Beuth F, Hamker
+FH, Toppin K, Guo Y, Graham BP, Kale PJ, Gollo LL, Stern M, Abbott LF, Fedorov
+LA, Giese MA, Ardestani MH, Faraji MJ, Preuschoff K, Gerstner W, van Gendt MJ,
+Briaire JJ, Kalkman RK, Frijns JHM, Lee WH, Frangou S, Fulcher BD, Tran PHP,
+Fornito A, Gliske SV, Lim E, Holman KA, Fink CG, Kim JS, Mu S, Briggman KL,
+Sebastian Seung H; the EyeWirers; Wegener D, Bohnenkamp L, Ernst UA, Devor A,
+Dale AM, Lines GT, Edwards A, Tveito A, Hagen E, Senk J, Diesmann M, Schmidt M,
+Bakker R, Shen K, Bezgin G, Hilgetag CC, van Albada SJ, Sun H, Sourina O, Huang
+GB, Klanner F, Denk C, Glomb K, Ponce-Alvarez A, Gilson M, Ritter P, Deco G,
+Witek MAG, Clarke EF, Hansen M, Wallentin M, Kringelbach ML, Vuust P, Klingbeil
+G, De Schutter E, Chen W, Zang Y, Hong S, Takashima A, Zamora C, Gallimore AR,
+Goldschmidt D, Manoonpong P, Karoly PJ, Freestone DR, Soundry D, Kuhlmann L,
+Paninski L, Cook M, Lee J, Fishman YI, Cohen YE, Roberts JA, Cocchi L, Sweeney
+Y, Lee S, Jung WS, Kim Y, Jung Y, Song YK, Chavane F, Soman K, Muralidharan V,
+Srinivasa Chakravarthy V, Shivkumar S, Mandali A, Pragathi Priyadharsini B,
+Mehta H, Davey CE, Brinkman BAW, Kekona T, Rieke F, Buice M, De Pittà M, Berry
+H, Brunel N, Breakspear M, Marsat G, Drew J, Chapman PD, Daly KC, Bradle SP, Seo
+SB, Su J, Kavalali ET, Blackwell J, Shiau L, Buhry L, Basnayake K, Lee SH, Levy
+BA, Baker CI, Leleu T, Philips RT, Chhabria K. 25th Annual Computational
+Neuroscience Meeting: CNS-2016. BMC Neurosci. 2016 Aug 18;17 Suppl 1(Suppl
+1):54. doi: 10.1186/s12868-016-0283-6. PMID: 27534393; PMCID: PMC5001212.
+
+9: Schnabel RB, Marinelli EA, Arbelo E, Boriani G, Boveda S, Buckley CM, Camm
+AJ, Casadei B, Chua W, Dagres N, de Melis M, Desteghe L, Diederichsen SZ,
+Duncker D, Eckardt L, Eisert C, Engler D, Fabritz L, Freedman B, Gillet L,
+Goette A, Guasch E, Svendsen JH, Hatem SN, Haeusler KG, Healey JS, Heidbuchel H,
+Hindricks G, Hobbs FDR, Hübner T, Kotecha D, Krekler M, Leclercq C, Lewalter T,
+Lin H, Linz D, Lip GYH, Løchen ML, Lucassen W, Malaczynska-Rajpold K, Massberg
+S, Merino JL, Meyer R, Mont L, Myers MC, Neubeck L, Niiranen T, Oeff M, Oldgren
+J, Potpara TS, Psaroudakis G, Pürerfellner H, Ravens U, Rienstra M, Rivard L,
+Scherr D, Schotten U, Shah D, Sinner MF, Smolnik R, Steinbeck G, Steven D,
+Svennberg E, Thomas D, True Hills M, van Gelder IC, Vardar B, Palà E, Wakili R,
+Wegscheider K, Wieloch M, Willems S, Witt H, Ziegler A, Daniel Zink M, Kirchhof
+P. Early diagnosis and better rhythm management to improve outcomes in patients
+with atrial fibrillation: the 8th AFNET/EHRA consensus conference. Europace.
+2023 Feb 8;25(1):6-27. doi: 10.1093/europace/euac062. PMID: 35894842; PMCID:
+PMC9907557.
+
+10: Marshall CR, Howrigan DP, Merico D, Thiruvahindrapuram B, Wu W, Greer DS,
+Antaki D, Shetty A, Holmans PA, Pinto D, Gujral M, Brandler WM, Malhotra D, Wang
+Z, Fajarado KVF, Maile MS, Ripke S, Agartz I, Albus M, Alexander M, Amin F,
+Atkins J, Bacanu SA, Belliveau RA Jr, Bergen SE, Bertalan M, Bevilacqua E,
+Bigdeli TB, Black DW, Bruggeman R, Buccola NG, Buckner RL, Bulik-Sullivan B,
+Byerley W, Cahn W, Cai G, Cairns MJ, Campion D, Cantor RM, Carr VJ, Carrera N,
+Catts SV, Chambert KD, Cheng W, Cloninger CR, Cohen D, Cormican P, Craddock N,
+Crespo-Facorro B, Crowley JJ, Curtis D, Davidson M, Davis KL, Degenhardt F, Del
+Favero J, DeLisi LE, Dikeos D, Dinan T, Djurovic S, Donohoe G, Drapeau E, Duan
+J, Dudbridge F, Eichhammer P, Eriksson J, Escott-Price V, Essioux L, Fanous AH,
+Farh KH, Farrell MS, Frank J, Franke L, Freedman R, Freimer NB, Friedman JI,
+Forstner AJ, Fromer M, Genovese G, Georgieva L, Gershon ES, Giegling I, Giusti-
+Rodríguez P, Godard S, Goldstein JI, Gratten J, de Haan L, Hamshere ML, Hansen
+M, Hansen T, Haroutunian V, Hartmann AM, Henskens FA, Herms S, Hirschhorn JN,
+Hoffmann P, Hofman A, Huang H, Ikeda M, Joa I, Kähler AK, Kahn RS, Kalaydjieva
+L, Karjalainen J, Kavanagh D, Keller MC, Kelly BJ, Kennedy JL, Kim Y, Knowles
+JA, Konte B, Laurent C, Lee P, Lee SH, Legge SE, Lerer B, Levy DL, Liang KY,
+Lieberman J, Lönnqvist J, Loughland CM, Magnusson PKE, Maher BS, Maier W, Mallet
+J, Mattheisen M, Mattingsdal M, McCarley RW, McDonald C, McIntosh AM, Meier S,
+Meijer CJ, Melle I, Mesholam-Gately RI, Metspalu A, Michie PT, Milani L,
+Milanova V, Mokrab Y, Morris DW, Müller-Myhsok B, Murphy KC, Murray RM, Myin-
+Germeys I, Nenadic I, Nertney DA, Nestadt G, Nicodemus KK, Nisenbaum L, Nordin
+A, O'Callaghan E, O'Dushlaine C, Oh SY, Olincy A, Olsen L, O'Neill FA, Van Os J,
+Pantelis C, Papadimitriou GN, Parkhomenko E, Pato MT, Paunio T; Psychosis
+Endophenotypes International Consortium; Perkins DO, Pers TH, Pietiläinen O,
+Pimm J, Pocklington AJ, Powell J, Price A, Pulver AE, Purcell SM, Quested D,
+Rasmussen HB, Reichenberg A, Reimers MA, Richards AL, Roffman JL, Roussos P,
+Ruderfer DM, Salomaa V, Sanders AR, Savitz A, Schall U, Schulze TG, Schwab SG,
+Scolnick EM, Scott RJ, Seidman LJ, Shi J, Silverman JM, Smoller JW, Söderman E,
+Spencer CCA, Stahl EA, Strengman E, Strohmaier J, Stroup TS, Suvisaari J,
+Svrakic DM, Szatkiewicz JP, Thirumalai S, Tooney PA, Veijola J, Visscher PM,
+Waddington J, Walsh D, Webb BT, Weiser M, Wildenauer DB, Williams NM, Williams
+S, Witt SH, Wolen AR, Wormley BK, Wray NR, Wu JQ, Zai CC, Adolfsson R,
+Andreassen OA, Blackwood DHR, Bramon E, Buxbaum JD, Cichon S, Collier DA, Corvin
+A, Daly MJ, Darvasi A, Domenici E, Esko T, Gejman PV, Gill M, Gurling H, Hultman
+CM, Iwata N, Jablensky AV, Jönsson EG, Kendler KS, Kirov G, Knight J, Levinson
+DF, Li QS, McCarroll SA, McQuillin A, Moran JL, Mowry BJ, Nöthen MM, Ophoff RA,
+Owen MJ, Palotie A, Pato CN, Petryshen TL, Posthuma D, Rietschel M, Riley BP,
+Rujescu D, Sklar P, St Clair D, Walters JTR, Werge T, Sullivan PF, O'Donovan MC,
+Scherer SW, Neale BM, Sebat J; CNV and Schizophrenia Working Groups of the
+Psychiatric Genomics Consortium. Contribution of copy number variants to
+schizophrenia from a genome-wide study of 41,321 subjects. Nat Genet. 2017
+Jan;49(1):27-35. doi: 10.1038/ng.3725. Epub 2016 Nov 21. Erratum in: Nat Genet.
+2017 Mar 30;49(4):651. Erratum in: Nat Genet. 2017 Sep 27;49(10 ):1558. PMID:
+27869829; PMCID: PMC5737772.
+
+11: Khamassi M, Mirolli M, Wallraven C. Editorial: Neurorobotics explores the
+human senses. Front Neurorobot. 2023 May 22;17:1214871. doi:
+10.3389/fnbot.2023.1214871. PMID: 37283783; PMCID: PMC10240048.
+
+12: Miguel Cruz A, Ríos Rincón AM, Rodríguez Dueñas WR, Quiroga Torres DA,
+Bohórquez-Heredia AF. What does the literature say about using robots on
+children with disabilities? Disabil Rehabil Assist Technol. 2017
+Jul;12(5):429-440. doi: 10.1080/17483107.2017.1318308. Epub 2017 Apr 25. PMID:
+28440095.
+
+13: Saleh MA, Hanapiah FA, Hashim H. Robot applications for autism: a
+comprehensive review. Disabil Rehabil Assist Technol. 2021 Aug;16(6):580-602.
+doi: 10.1080/17483107.2019.1685016. Epub 2020 Jul 24. PMID: 32706602.
+
+14: Szymona B, Maciejewski M, Karpiński R, Jonak K, Radzikowska-Büchner E,
+Niderla K, Prokopiak A. Robot-Assisted Autism Therapy (RAAT). Criteria and Types
+of Experiments Using Anthropomorphic and Zoomorphic Robots. Review of the
+Research. Sensors (Basel). 2021 May 27;21(11):3720. doi: 10.3390/s21113720.
+PMID: 34071829; PMCID: PMC8198717.
+
+15: Wass SV, Porayska-Pomsta K. The uses of cognitive training technologies in
+the treatment of autism spectrum disorders. Autism. 2014 Nov;18(8):851-71. doi:
+10.1177/1362361313499827. Epub 2013 Oct 15. PMID: 24129912.
+
+16: DiPietro J, Kelemen A, Liang Y, Sik-Lanyi C. Computer- and Robot-Assisted
+Therapies to Aid Social and Intellectual Functioning of Children with Autism
+Spectrum Disorder. Medicina (Kaunas). 2019 Aug 5;55(8):440. doi:
+10.3390/medicina55080440. PMID: 31387274; PMCID: PMC6724404.
+
+17: Chang YL, Luo DH, Huang TR, Goh JOS, Yeh SL, Fu LC. Identifying Mild
+Cognitive Impairment by Using Human-Robot Interactions. J Alzheimers Dis.
+2022;85(3):1129-1142. doi: 10.3233/JAD-215015. PMID: 34897086.
+
+18: Alabdulkareem A, Alhakbani N, Al-Nafjan A. A Systematic Review of Research
+on Robot-Assisted Therapy for Children with Autism. Sensors (Basel). 2022 Jan
+26;22(3):944. doi: 10.3390/s22030944. PMID: 35161697; PMCID: PMC8840582.
+
+19: Pontikas CM, Tsoukalas E, Serdari A. A map of assistive technology educative
+instruments in neurodevelopmental disorders. Disabil Rehabil Assist Technol.
+2022 Oct;17(7):738-746. doi: 10.1080/17483107.2020.1839580. Epub 2020 Oct 30.
+PMID: 33125855.
+
+20: Pennisi P, Tonacci A, Tartarisco G, Billeci L, Ruta L, Gangemi S, Pioggia G.
+Autism and social robotics: A systematic review. Autism Res. 2016
+Feb;9(2):165-83. doi: 10.1002/aur.1527. Epub 2015 Oct 20. PMID: 26483270.
+
+21: Cravedi E, Deniau E, Giannitelli M, Xavier J, Hartmann A, Cohen D. Tourette
+syndrome and other neurodevelopmental disorders: a comprehensive review. Child
+Adolesc Psychiatry Ment Health. 2017 Dec 4;11:59. doi:
+10.1186/s13034-017-0196-x. PMID: 29225671; PMCID: PMC5715991.
+
+22: Gerłowska J, Furtak-Niczyporuk M, Rejdak K. Robotic assistance for people
+with dementia: a viable option for the future? Expert Rev Med Devices. 2020
+Jun;17(6):507-518. doi: 10.1080/17434440.2020.1770592. Epub 2020 Jun 8. PMID:
+32511027.
+
+23: Rudovic O, Lee J, Dai M, Schuller B, Picard RW. Personalized machine
+learning for robot perception of affect and engagement in autism therapy. Sci
+Robot. 2018 Jun 27;3(19):eaao6760. doi: 10.1126/scirobotics.aao6760. PMID:
+33141688.
+
+24: Shic F, Goodwin M. Introduction to Technologies in the Daily Lives of
+Individuals with Autism. J Autism Dev Disord. 2015 Dec;45(12):3773-6. doi:
+10.1007/s10803-015-2640-1. PMID: 26530715.
+
+25: Nagai Y. Predictive learning: its key role in early cognitive development.
+Philos Trans R Soc Lond B Biol Sci. 2019 Apr 29;374(1771):20180030. doi:
+10.1098/rstb.2018.0030. PMID: 30852990; PMCID: PMC6452246.
+
+26: Chevalier P, Ghiglino D, Floris F, Priolo T, Wykowska A. Visual and Hearing
+Sensitivity Affect Robot-Based Training for Children Diagnosed With Autism
+Spectrum Disorder. Front Robot AI. 2022 Jan 12;8:748853. doi:
+10.3389/frobt.2021.748853. PMID: 35096980; PMCID: PMC8790526.
+
+27: Lopez-Soley E, Martinez-Heras E, Andorra M, Solanes A, Radua J, Montejo C,
+Alba-Arbalat S, Sola-Valls N, Pulido-Valdeolivas I, Sepulveda M, Romero-Pinel L,
+Munteis E, Martínez-Rodríguez JE, Blanco Y, Martinez-Lapiscina EH, Villoslada P,
+Saiz A, Solana E, Llufriu S. Dynamics and Predictors of Cognitive Impairment
+along the Disease Course in Multiple Sclerosis. J Pers Med. 2021 Oct
+28;11(11):1107. doi: 10.3390/jpm11111107. PMID: 34834459; PMCID: PMC8624684.
+
+28: Naik B, Mehta A, Shah M. Denouements of machine learning and multimodal
+diagnostic classification of Alzheimer's disease. Vis Comput Ind Biomed Art.
+2020 Nov 5;3(1):26. doi: 10.1186/s42492-020-00062-w. PMID: 33151420; PMCID:
+PMC7642580.
+
+29: Gkiolnta E, Zygopoulou M, Syriopoulou-Delli CK. Robot programming for a
+child with autism spectrum disorder: a pilot study. Int J Dev Disabil. 2023 May
+17;69(3):424-431. doi: 10.1080/20473869.2023.2194568. PMID: 37213592; PMCID:
+PMC10197989.
+
+30: Costescu CA, Vanderborght B, David DO. Reversal Learning Task in Children
+with Autism Spectrum Disorder: A Robot-Based Approach. J Autism Dev Disord. 2015
+Nov;45(11):3715-25. doi: 10.1007/s10803-014-2319-z. PMID: 25479815.
+
+31: Sohn M, Yang J, Sohn J, Lee JH. Digital healthcare for dementia and
+cognitive impairment: A scoping review. Int J Nurs Stud. 2023 Apr;140:104413.
+doi: 10.1016/j.ijnurstu.2022.104413. Epub 2022 Dec 5. PMID: 36821951.
+
+32: Paldam E, Roepstorff A, Steensgaard R, Lundsgaard SS, Steensig J, Gebauer L.
+A robot or a dumper truck? Facilitating play-based social learning across
+neurotypes. Autism Dev Lang Impair. 2022 Mar 21;7:23969415221086714. doi:
+10.1177/23969415221086714. PMID: 36382066; PMCID: PMC9620708.
+
+33: Salhi I, Qbadou M, Gouraguine S, Mansouri K, Lytridis C, Kaburlasos V.
+Towards Robot-Assisted Therapy for Children With Autism-The Ontological
+Knowledge Models and Reinforcement Learning-Based Algorithms. Front Robot AI.
+2022 Apr 6;9:713964. doi: 10.3389/frobt.2022.713964. PMID: 35462779; PMCID:
+PMC9020227.
+
+34: den Brok WL, Sterkenburg PS. Self-controlled technologies to support skill
+attainment in persons with an autism spectrum disorder and/or an intellectual
+disability: a systematic literature review. Disabil Rehabil Assist Technol. 2015
+Jan;10(1):1-10. doi: 10.3109/17483107.2014.921248. Epub 2014 May 22. PMID:
+24848443.
+
+35: Syriopoulou-Delli CK, Gkiolnta E. Review of assistive technology in the
+training of children with autism spectrum disorders. Int J Dev Disabil. 2020 Jan
+20;68(2):73-85. doi: 10.1080/20473869.2019.1706333. PMID: 35309695; PMCID:
+PMC8928843.
+
+36: Lytridis C, Kaburlasos VG, Bazinas C, Papakostas GA, Sidiropoulos G,
+Nikopoulou VA, Holeva V, Papadopoulou M, Evangeliou A. Behavioral Data Analysis
+of Robot-Assisted Autism Spectrum Disorder (ASD) Interventions Based on Lattice
+Computing Techniques. Sensors (Basel). 2022 Jan 14;22(2):621. doi:
+10.3390/s22020621. PMID: 35062582; PMCID: PMC8778181.
+
+37: Yeh SW, Lin LF, Tam KW, Tsai CP, Hong CH, Kuan YC. Efficacy of robot-
+assisted gait training in multiple sclerosis: A systematic review and meta-
+analysis. Mult Scler Relat Disord. 2020 Mar 3;41:102034. doi:
+10.1016/j.msard.2020.102034. Epub ahead of print. PMID: 32200337.
+
+38: Mertz L. AI, Virtual Reality, and Robots Advancing Autism Diagnosis and
+Therapy. IEEE Pulse. 2021 Sep-Oct;12(5):6-10. doi: 10.1109/MPULS.2021.3113092.
+PMID: 34714733.
+
+39: Wan G, Deng F, Jiang Z, Song S, Hu D, Chen L, Wang H, Li M, Chen G, Yan T,
+Su J, Zhang J. FECTS: A Facial Emotion Cognition and Training System for Chinese
+Children with Autism Spectrum Disorder. Comput Intell Neurosci. 2022 Apr
+27;2022:9213526. doi: 10.1155/2022/9213526. PMID: 35528364; PMCID: PMC9068315.
+
+40: Soares EE, Bausback K, Beard CL, Higinbotham M, Bunge EL, Gengoux GW. Social
+Skills Training for Autism Spectrum Disorder: a Meta-analysis of In-person and
+Technological Interventions. J Technol Behav Sci. 2021;6(1):166-180. doi:
+10.1007/s41347-020-00177-0. Epub 2020 Nov 17. PMID: 33225056; PMCID: PMC7670840.
+
+41: Sakka S. Rob'Autism Project: Social Learning at the Center of the Therapy.
+Stud Health Technol Inform. 2023 Aug 23;306:340-347. doi: 10.3233/SHTI230641.
+PMID: 37638934.
+
+42: Tanet A, Hubert-Barthelemy A, Crespin GC, Bodeau N, Cohen D, Saint-Georges
+C; GPIS Study Group. A Developmental and Sequenced One-to-One Educational
+Intervention for Autism Spectrum Disorder: A Randomized Single-Blind Controlled
+Trial. Front Pediatr. 2016 Sep 26;4:99. doi: 10.3389/fped.2016.00099. PMID:
+27725927; PMCID: PMC5035746.
+
+43: Leung C, Wong KC, So WWY, Tse ZCK, Li D, Cao Y, Shum DHK. The application of
+technology to improve cognition in older adults: A review and suggestions for
+future directions. Psych J. 2022 Aug;11(4):583-599. doi: 10.1002/pchj.565. Epub
+2022 Jun 8. PMID: 35675967; PMCID: PMC9543085.
+
+44: Marko MK, Crocetti D, Hulst T, Donchin O, Shadmehr R, Mostofsky SH.
+Behavioural and neural basis of anomalous motor learning in children with
+autism. Brain. 2015 Mar;138(Pt 3):784-97. doi: 10.1093/brain/awu394. Epub 2015
+Jan 20. PMID: 25609685; PMCID: PMC4339776.
+
+45: Morales Pantoja IE, Smirnova L, Muotri AR, Wahlin KJ, Kahn J, Boyd JL,
+Gracias DH, Harris TD, Cohen-Karni T, Caffo BS, Szalay AS, Han F, Zack DJ,
+Etienne-Cummings R, Akwaboah A, Romero JC, Alam El Din DM, Plotkin JD, Paulhamus
+BL, Johnson EC, Gilbert F, Curley JL, Cappiello B, Schwamborn JC, Hill EJ, Roach
+P, Tornero D, Krall C, Parri R, Sillé F, Levchenko A, Jabbour RE, Kagan BJ,
+Berlinicke CA, Huang Q, Maertens A, Herrmann K, Tsaioun K, Dastgheyb R, Habela
+CW, Vogelstein JT, Hartung T. First Organoid Intelligence (OI) workshop to form
+an OI community. Front Artif Intell. 2023 Feb 28;6:1116870. doi:
+10.3389/frai.2023.1116870. PMID: 36925616; PMCID: PMC10013972.
+
+46: Banire B, Khowaja K, Mansoor B, Qaraqe M, Al Thani D. Reality-Based
+Technologies for Children with Autism Spectrum Disorder: A Recommendation for
+Food Intake Intervention. Adv Neurobiol. 2020;24:679-693. doi:
+10.1007/978-3-030-30402-7_26. PMID: 32006380.
+
+47: Kostrubiec V, Kruck J. Collaborative Research Project: Developing and
+Testing a Robot-Assisted Intervention for Children With Autism. Front Robot AI.
+2020 Mar 31;7:37. doi: 10.3389/frobt.2020.00037. PMID: 33501205; PMCID:
+PMC7805640.
+
+48: Nollace L, Cravero C, Abbou A, Mazda-Walter B, Bleibtreu A, Pereirra N,
+Sainte-Marie M, Cohen D, Giannitelli M. Autism and COVID-19: A Case Series in a
+Neurodevelopmental Unit. J Clin Med. 2020 Sep 11;9(9):2937. doi:
+10.3390/jcm9092937. PMID: 32932951; PMCID: PMC7564973.
+
+49: Akechi H, Kikuchi Y, Tojo Y, Hakarino K, Hasegawa T. Mind perception and
+moral judgment in autism. Autism Res. 2018 Sep;11(9):1239-1244. doi:
+10.1002/aur.1970. Epub 2018 Sep 13. PMID: 30277657.
+
+50: Bouhali R, Al-Tabaa H, Abdelfattah S, Atiyeh M, Esmaeili S, Al-Tabbakh H.
+Otisma: an integrated application and humanoid robot as an educational tool for
+children with autism. J Med Eng Technol. 2023 Jan;47(1):44-53. doi:
+10.1080/03091902.2022.2097327. Epub 2022 Jul 8. PMID: 35801981.
+
+51: Zheng Z, Young EM, Swanson AR, Weitlauf AS, Warren ZE, Sarkar N. Robot-
+Mediated Imitation Skill Training for Children With Autism. IEEE Trans Neural
+Syst Rehabil Eng. 2016 Jun;24(6):682-91. doi: 10.1109/TNSRE.2015.2475724. Epub
+2015 Sep 3. PMID: 26353376; PMCID: PMC4965236.
+
+52: Zhang S, Liu X, Sun M, Zhang Q, Li T, Li X, Xu J, Zhao X, Chen D, Feng X.
+Reversal of reserpine-induced depression and cognitive disorder in zebrafish by
+sertraline and Traditional Chinese Medicine (TCM). Behav Brain Funct. 2018 Jun
+14;14(1):13. doi: 10.1186/s12993-018-0145-8. PMID: 29898741; PMCID: PMC6001006.
+
+53: Amirova A, Rakhymbayeva N, Zhanatkyzy A, Telisheva Z, Sandygulova A. Effects
+of Parental Involvement in Robot-Assisted Autism Therapy. J Autism Dev Disord.
+2023 Jan;53(1):438-455. doi: 10.1007/s10803-022-05429-x. Epub 2022 Jan 28. PMID:
+35088233; PMCID: PMC9889445.
+
+54: Androwis GJ, Kwasnica MA, Niewrzol P, Popok P, Fakhoury FN, Sandroff BM, Yue
+GH, DeLuca J. Mobility and Cognitive Improvements Resulted from Overground
+Robotic Exoskeleton Gait-Training in Persons with MS. Annu Int Conf IEEE Eng Med
+Biol Soc. 2019 Jul;2019:4454-4457. doi: 10.1109/EMBC.2019.8857029. PMID:
+31946854.
+
+55: Yuan F, Klavon E, Liu Z, Lopez RP, Zhao X. A Systematic Review of Robotic
+Rehabilitation for Cognitive Training. Front Robot AI. 2021 May 11;8:605715.
+doi: 10.3389/frobt.2021.605715. PMID: 34046433; PMCID: PMC8144708.
+
+56: Saadatzi MN, Pennington RC, Welch KC, Graham JH. Small-Group Technology-
+Assisted Instruction: Virtual Teacher and Robot Peer for Individuals with Autism
+Spectrum Disorder. J Autism Dev Disord. 2018 Nov;48(11):3816-3830. doi:
+10.1007/s10803-018-3654-2. PMID: 29926295.
+
+57: Al-Nafjan A, Alhakbani N, Alabdulkareem A. Measuring Engagement in Robot-
+Assisted Therapy for Autistic Children. Behav Sci (Basel). 2023 Jul
+25;13(8):618. doi: 10.3390/bs13080618. PMID: 37622758; PMCID: PMC10451269.
+
+58: Zhang Y, Zhang C, Cheng L, Qi M. The Use of Deep Learning-Based Gesture
+Interactive Robot in the Treatment of Autistic Children Under Music Perception
+Education. Front Psychol. 2022 Feb 10;13:762701. doi: 10.3389/fpsyg.2022.762701.
+PMID: 35222179; PMCID: PMC8866172.
+
+59: Schadenberg BR, Reidsma D, Heylen DKJ, Evers V. Differences in Spontaneous
+Interactions of Autistic Children in an Interaction With an Adult and Humanoid
+Robot. Front Robot AI. 2020 Mar 5;7:28. doi: 10.3389/frobt.2020.00028. PMID:
+33501197; PMCID: PMC7805683.
+
+60: Yun SS, Choi J, Park SK, Bong GY, Yoo H. Social skills training for children
+with autism spectrum disorder using a robotic behavioral intervention system.
+Autism Res. 2017 Jul;10(7):1306-1323. doi: 10.1002/aur.1778. Epub 2017 May 2.
+PMID: 28464438.
+
+61: Granata C, Pino M, Legouverneur G, Vidal JS, Bidaud P, Rigaud AS. Robot
+services for elderly with cognitive impairment: testing usability of graphical
+user interfaces. Technol Health Care. 2013;21(3):217-31. doi:
+10.3233/THC-130718. PMID: 23792795.
+
+62: Sakatani K, Oyama K, Hu L. Deep Learning-Based Screening Test for Cognitive
+Impairment Using Basic Blood Test Data for Health Examination. Front Neurol.
+2020 Dec 14;11:588140. doi: 10.3389/fneur.2020.588140. PMID: 33381075; PMCID:
+PMC7769169.
+
+63: Gillesen JC, Barakova EI, Huskens BE, Feijs LM. From training to robot
+behavior: towards custom scenarios for robotics in training programs for ASD.
+IEEE Int Conf Rehabil Robot. 2011;2011:5975381. doi: 10.1109/ICORR.2011.5975381.
+PMID: 22275585.
+
+64: Palmdorf S, Stark AL, Nadolny S, Eliaß G, Karlheim C, Kreisel SH, Gruschka
+T, Trompetter E, Dockweiler C. Technology-Assisted Home Care for People With
+Dementia and Their Relatives: Scoping Review. JMIR Aging. 2021 Jan
+20;4(1):e25307. doi: 10.2196/25307. PMID: 33470935; PMCID: PMC7857954.
+
+65: Alghamdi M, Alhakbani N, Al-Nafjan A. Assessing the Potential of Robotics
+Technology for Enhancing Educational for Children with Autism Spectrum Disorder.
+Behav Sci (Basel). 2023 Jul 16;13(7):598. doi: 10.3390/bs13070598. PMID:
+37504045; PMCID: PMC10376628.
+
+66: Asl AM, Toribio-Guzmán JM, van der Roest H, Castro-González Á, Malfaz M,
+Salichs MA, Martin MF. The usability and feasibility validation of the social
+robot MINI in people with dementia and mild cognitive impairment; a study
+protocol. BMC Psychiatry. 2022 Dec 5;22(1):760. doi: 10.1186/s12888-022-04418-9.
+PMID: 36471336; PMCID: PMC9720935.
+
+67: Aresti-Bartolome N, Garcia-Zapirain B. Technologies as support tools for
+persons with autistic spectrum disorder: a systematic review. Int J Environ Res
+Public Health. 2014 Aug 4;11(8):7767-802. doi: 10.3390/ijerph110807767. PMID:
+25093654; PMCID: PMC4143832.
+
+68: Kokkoni E, Mavroudi E, Zehfroosh A, Galloway JC, Vidal R, Heinz J, Tanner
+HG. GEARing smart environments for pediatric motor rehabilitation. J Neuroeng
+Rehabil. 2020 Feb 10;17(1):16. doi: 10.1186/s12984-020-0647-0. PMID: 32041623;
+PMCID: PMC7011606.
+
+69: Kumazaki H, Muramatsu T, Yoshikawa Y, Corbett BA, Matsumoto Y, Higashida H,
+Yuhi T, Ishiguro H, Mimura M, Kikuchi M. Job interview training targeting
+nonverbal communication using an android robot for individuals with autism
+spectrum disorder. Autism. 2019 Aug;23(6):1586-1595. doi:
+10.1177/1362361319827134. Epub 2019 Feb 22. PMID: 30795694.
+
+70: Dautenhahn K. Socially intelligent robots: dimensions of human-robot
+interaction. Philos Trans R Soc Lond B Biol Sci. 2007 Apr 29;362(1480):679-704.
+doi: 10.1098/rstb.2006.2004. PMID: 17301026; PMCID: PMC2346526.
+
+71: Kim GH, Jeon S, Im K, Kwon H, Lee BH, Kim GY, Jeong H, Han NE, Seo SW, Cho
+H, Noh Y, Park SE, Kim H, Hwang JW, Yoon CW, Kim HJ, Ye BS, Chin JH, Kim JH, Suh
+MK, Lee JM, Kim ST, Choi MT, Kim MS, Heilman KM, Jeong JH, Na DL. Structural
+brain changes after traditional and robot-assisted multi-domain cognitive
+training in community-dwelling healthy elderly. PLoS One. 2015 Apr
+21;10(4):e0123251. doi: 10.1371/journal.pone.0123251. PMID: 25898367; PMCID:
+PMC4405358.
+
+72: Xavier J, Guedjou H, Anzalone SM, Boucenna S, Guigon E, Chetouani M, Cohen
+D. Toward a motor signature in autism: Studies from human-machine interaction.
+Encephale. 2019 Apr;45(2):182-187. doi: 10.1016/j.encep.2018.08.002. Epub 2018
+Nov 29. PMID: 30503684.
+
+73: Rakhymbayeva N, Amirova A, Sandygulova A. A Long-Term Engagement with a
+Social Robot for Autism Therapy. Front Robot AI. 2021 Jun 16;8:669972. doi:
+10.3389/frobt.2021.669972. PMID: 34222353; PMCID: PMC8241906.
+
+74: Chang YL, Moscovitch M. Sex differences in item and associative memory among
+older adults with amnestic mild cognitive impairment. Neuropsychologia. 2022 Nov
+5;176:108375. doi: 10.1016/j.neuropsychologia.2022.108375. Epub 2022 Sep 27.
+PMID: 36179862.
+
+75: Rakić M, Cabezas M, Kushibar K, Oliver A, Lladó X. Improving the detection
+of autism spectrum disorder by combining structural and functional MRI
+information. Neuroimage Clin. 2020;25:102181. doi: 10.1016/j.nicl.2020.102181.
+Epub 2020 Jan 17. PMID: 31982680; PMCID: PMC6994708.
+
+76: Kumazaki H, Yoshikawa Y, Muramatsu T, Haraguchi H, Fujisato H, Sakai K,
+Matsumoto Y, Ishiguro H, Sumiyoshi T, Mimura M. Group-Based Online Job Interview
+Training Program Using Virtual Robot for Individuals With Autism Spectrum
+Disorders. Front Psychiatry. 2022 Jan 24;12:704564. doi:
+10.3389/fpsyt.2021.704564. PMID: 35140635; PMCID: PMC8818697.
+
+77: van den Berk-Smeekens I, van Dongen-Boomsma M, De Korte MWP, Den Boer JC,
+Oosterling IJ, Peters-Scheffer NC, Buitelaar JK, Barakova EI, Lourens T, Staal
+WG, Glennon JC. Adherence and acceptability of a robot-assisted Pivotal Response
+Treatment protocol for children with autism spectrum disorder. Sci Rep. 2020 May
+15;10(1):8110. doi: 10.1038/s41598-020-65048-3. PMID: 32415231; PMCID:
+PMC7229010.
+
+78: Mazzei D, Lazzeri N, Billeci L, Igliozzi R, Mancini A, Ahluwalia A, Muratori
+F, De Rossi D. Development and evaluation of a social robot platform for therapy
+in autism. Annu Int Conf IEEE Eng Med Biol Soc. 2011;2011:4515-8. doi:
+10.1109/IEMBS.2011.6091119. PMID: 22255342.
+
+79: Kouroupa A, Laws KR, Irvine K, Mengoni SE, Baird A, Sharma S. The use of
+social robots with children and young people on the autism spectrum: A
+systematic review and meta-analysis. PLoS One. 2022 Jun 22;17(6):e0269800. doi:
+10.1371/journal.pone.0269800. PMID: 35731805; PMCID: PMC9216612.
+
+80: Zorcec T, Ilijoski B, Simlesa S, Ackovska N, Rosandic M, Popcevic K, Robins
+B, Nitzan N, Cappel D, Blum R. Enriching Human-Robot Interaction with Mobile App
+in Interventions of Children with Autism Spectrum Disorder. Pril (Makedon Akad
+Nauk Umet Odd Med Nauki). 2021 Oct 26;42(2):51-59. doi:
+10.2478/prilozi-2021-0021. PMID: 34699714.
+
+81: So WC, Wong MK, Lam WY, Cheng CH, Ku SY, Lam KY, Huang Y, Wong WL. Who is a
+better teacher for children with autism? Comparison of learning outcomes between
+robot-based and human-based interventions in gestural production and
+recognition. Res Dev Disabil. 2019 Mar;86:62-75. doi:
+10.1016/j.ridd.2019.01.002. Epub 2019 Jan 21. PMID: 30677695.
+
+82: Kumazaki H, Warren Z, Corbett BA, Yoshikawa Y, Matsumoto Y, Higashida H,
+Yuhi T, Ikeda T, Ishiguro H, Kikuchi M. Android Robot-Mediated Mock Job
+Interview Sessions for Young Adults with Autism Spectrum Disorder: A Pilot
+Study. Front Psychiatry. 2017 Sep 11;8:169. doi: 10.3389/fpsyt.2017.00169. PMID:
+28955254; PMCID: PMC5601082.
+
+83: Mancioppi G, Fiorini L, Rovini E, Cavallo F. The use of Motor and Cognitive
+Dual-Task quantitative assessment on subjects with mild cognitive impairment: A
+systematic review. Mech Ageing Dev. 2021 Jan;193:111393. doi:
+10.1016/j.mad.2020.111393. Epub 2020 Nov 11. PMID: 33188785.
+
+84: Silvera-Tawil D, Bruck S, Xiao Y, Bradford D. Socially-Assistive Robots to
+Support Learning in Students on the Autism Spectrum: Investigating Educator
+Perspectives and a Pilot Trial of a Mobile Platform to Remove Barriers to
+Implementation. Sensors (Basel). 2022 Aug 16;22(16):6125. doi:
+10.3390/s22166125. PMID: 36015887; PMCID: PMC9416372.
+
+85: Zhang Y, Song W, Tan Z, Wang Y, Lam CM, Hoi SP, Xiong Q, Chen J, Yi L.
+Theory of Robot Mind: False Belief Attribution to Social Robots in Children With
+and Without Autism. Front Psychol. 2019 Aug 9;10:1732. doi:
+10.3389/fpsyg.2019.01732. PMID: 31447726; PMCID: PMC6696951.
+
+86: Tanet A, Hubert-Barthelemy A, Clément MN, Soumille F, Crespin GC, Pellerin
+H, Allaert FA, Cohen D, Saint-Georges C; GPIS study group. Developmental and
+sequenced one-to-one educational intervention (DS1-EI) for autism spectrum
+disorder and intellectual disability: a two-year interim report of a randomized
+single-blind multicenter controlled trial. BMC Pediatr. 2020 May 29;20(1):263.
+doi: 10.1186/s12887-020-02156-z. PMID: 32471387; PMCID: PMC7260851.
+
+87: Georgescu AL, Koehler JC, Weiske J, Vogeley K, Koutsouleris N, Falter-Wagner
+C. Machine Learning to Study Social Interaction Difficulties in ASD. Front Robot
+AI. 2019 Nov 29;6:132. doi: 10.3389/frobt.2019.00132. PMID: 33501147; PMCID:
+PMC7805744.
+
+88: Huijnen CAGJ, Lexis MAS, Jansens R, de Witte LP. Roles, Strengths and
+Challenges of Using Robots in Interventions for Children with Autism Spectrum
+Disorder (ASD). J Autism Dev Disord. 2019 Jan;49(1):11-21. doi:
+10.1007/s10803-018-3683-x. PMID: 30019273.
+
+89: Saint-Georges C, Pagnier M, Ghattassi Z, Hubert-Barthelemy A, Tanet A,
+Clément MN, Soumille F, Crespin GC, Pellerin H, Cohen D; GPIS study group. A
+developmental and sequenced one-to-one educational intervention (DS1-EI) for
+autism spectrum disorder and intellectual disability: A three-year randomized,
+single-blind controlled trial. EClinicalMedicine. 2020 Sep 9;26:100537. doi:
+10.1016/j.eclinm.2020.100537. PMID: 33089127; PMCID: PMC7565367.
+
+90: Zoder-Martell KA, Floress MT, Schiuchetti MB, Markelz AM, Sayyeh L.
+Teachers' Willingness to Use a Telepresence Robot for Consultation with Students
+with Autism Spectrum Disorder. Contemp Sch Psychol. 2022;26(2):263-277. doi:
+10.1007/s40688-021-00359-4. Epub 2021 Mar 17. PMID: 33754083; PMCID: PMC7968139.
+
+91: Ouss L, Palestra G, Saint-Georges C, Leitgel Gille M, Afshar M, Pellerin H,
+Bailly K, Chetouani M, Robel L, Golse B, Nabbout R, Desguerre I, Guergova-Kuras
+M, Cohen D. Behavior and interaction imaging at 9 months of age predict
+autism/intellectual disability in high-risk infants with West syndrome. Transl
+Psychiatry. 2020 Feb 3;10(1):54. doi: 10.1038/s41398-020-0743-8. PMID: 32066713;
+PMCID: PMC7026100.
+
+92: Li B, Sharma A, Meng J, Purushwalkam S, Gowen E. Applying machine learning
+to identify autistic adults using imitation: An exploratory study. PLoS One.
+2017 Aug 16;12(8):e0182652. doi: 10.1371/journal.pone.0182652. PMID: 28813454;
+PMCID: PMC5558936.
+
+93: Santos L, Geminiani A, Schydlo P, Olivieri I, Santos-Victor J, Pedrocchi A.
+Design of a Robotic Coach for Motor, Social and Cognitive Skills Training Toward
+Applications With ASD Children. IEEE Trans Neural Syst Rehabil Eng.
+2021;29:1223-1232. doi: 10.1109/TNSRE.2021.3091320. Epub 2021 Jul 1. PMID:
+34152988.
+
+94: Li T, Wang B, Gao Y, Wang X, Yan T, Xiang J, Niu Y, Liu T, Chen D, Fang B,
+Xie Y, Funahashi S, Yan T; Alzheimer’s Disease Neuroimaging Initiative. APOE ε4
+and cognitive reserve effects on the functional network in the Alzheimer's
+disease spectrum. Brain Imaging Behav. 2021 Apr;15(2):758-771. doi:
+10.1007/s11682-020-00283-w. PMID: 32314201.
+
+95: Lin YR, Chi CH, Chang YL. Differential decay of gist and detail memory in
+older adults with amnestic mild cognitive impairment. Cortex. 2023
+Jul;164:112-128. doi: 10.1016/j.cortex.2023.04.002. Epub 2023 Apr 29. PMID:
+37207409.
+
+96: Cravedi E, Deniau E, Giannitelli M, Pellerin H, Czernecki V, Priou T, Xavier
+J, Consoli A, Hartmann A, Cohen D. Disentangling Tourette syndrome heterogeneity
+through hierarchical ascendant clustering. Dev Med Child Neurol. 2018
+Sep;60(9):942-950. doi: 10.1111/dmcn.13913. Epub 2018 May 10. PMID: 29748952.
+
+97: Yoshikawa Y, Kumazaki H, Matsumoto Y, Miyao M, Kikuchi M, Ishiguro H.
+Relaxing Gaze Aversion of Adolescents With Autism Spectrum Disorder in
+Consecutive Conversations With Human and Android Robot-A Preliminary Study.
+Front Psychiatry. 2019 Jun 14;10:370. doi: 10.3389/fpsyt.2019.00370. PMID:
+31258488; PMCID: PMC6587013.
+
+98: He Y, Su Q, Wang L, He W, Tan C, Zhang H, Ng ML, Yan N, Chen Y. The
+Characteristics of Intelligence Profile and Eye Gaze in Facial Emotion
+Recognition in Mild and Moderate Preschoolers With Autism Spectrum Disorder.
+Front Psychiatry. 2019 Jun 19;10:402. doi: 10.3389/fpsyt.2019.00402. PMID:
+31281268; PMCID: PMC6596453.
+
+99: Zhang L, Wade J, Bian D, Fan J, Swanson A, Weitlauf A, Warren Z, Sarkar N.
+Cognitive Load Measurement in a Virtual Reality-based Driving System for Autism
+Intervention. IEEE Trans Affect Comput. 2017 Apr-Jun;8(2):176-189. doi:
+10.1109/TAFFC.2016.2582490. Epub 2017 May 23. PMID: 28966730; PMCID: PMC5614512.
+
+100: Tofani M, Mustari M, Tiozzo E, Dall'Oglio I, Morelli D, Gawronski O, Salata
+M, Cantonetti L, Castelli E, Di Lallo D, Raponi M. The development of the
+International Classification of Functioning, Disability and Health for Child and
+Youth (ICF-CY) Core Sets: a systematic review. Disabil Rehabil. 2022 Oct
+22:1-10. doi: 10.1080/09638288.2022.2136269. Epub ahead of print. PMID:
+36271731.
+
+101: Law M, Sutherland C, Ahn HS, MacDonald BA, Peri K, Johanson DL, Vajsakovic
+DS, Kerse N, Broadbent E. Developing assistive robots for people with mild
+cognitive impairment and mild dementia: a qualitative study with older adults
+and experts in aged care. BMJ Open. 2019 Sep 24;9(9):e031937. doi:
+10.1136/bmjopen-2019-031937. PMID: 31551392; PMCID: PMC6773341.
+
+102: Srinivasan SM, Lynch KA, Bubela DJ, Gifford TD, Bhat AN. Effect of
+interactions between a child and a robot on the imitation and praxis performance
+of typically devloping children and a child with autism: a preliminary study.
+Percept Mot Skills. 2013 Jun;116(3):885-904. doi:
+10.2466/15.10.PMS.116.3.885-904. PMID: 24175461; PMCID: PMC8730714.
+
+103: Andriella A, Torras C, Abdelnour C, Alenyà G. Introducing CARESSER: A
+framework for in situ learning robot social assistance from expert knowledge and
+demonstrations. User Model User-adapt Interact. 2023;33(2):441-496. doi:
+10.1007/s11257-021-09316-5. Epub 2022 Mar 12. PMID: 35311217; PMCID: PMC8916953.
+
+104: De Luca R, Leonardi S, Spadaro L, Russo M, Aragona B, Torrisi M, Maggio MG,
+Bramanti A, Naro A, De Cola MC, Calabrò RS. Improving Cognitive Function in
+Patients with Stroke: Can Computerized Training Be the Future? J Stroke
+Cerebrovasc Dis. 2018 Apr;27(4):1055-1060. doi:
+10.1016/j.jstrokecerebrovasdis.2017.11.008. Epub 2017 Dec 6. PMID: 29221967.
+
+105: Park EA, Jung AR, Lee KA. The Humanoid Robot Sil-Bot in a Cognitive
+Training Program for Community-Dwelling Elderly People with Mild Cognitive
+Impairment during the COVID-19 Pandemic: A Randomized Controlled Trial. Int J
+Environ Res Public Health. 2021 Aug 3;18(15):8198. doi: 10.3390/ijerph18158198.
+PMID: 34360490; PMCID: PMC8345968.
+
+106: Takata K, Yoshikawa Y, Muramatsu T, Matsumoto Y, Ishiguro H, Mimura M,
+Kumazaki H. Social skills training using multiple humanoid robots for
+individuals with autism spectrum conditions. Front Psychiatry. 2023 Jul
+19;14:1168837. doi: 10.3389/fpsyt.2023.1168837. PMID: 37539327; PMCID:
+PMC10394831.
+
+107: So WC, Cheng CH, Lam WY, Wong T, Law WW, Huang Y, Ng KC, Tung HC, Wong W.
+Robot-based play-drama intervention may improve the narrative abilities of
+Chinese-speaking preschoolers with autism spectrum disorder. Res Dev Disabil.
+2019 Dec;95:103515. doi: 10.1016/j.ridd.2019.103515. Epub 2019 Oct 24. PMID:
+31670026.
+
+108: Casellato C, Gandolla M, Crippa A, Pedrocchi A. Robotic set-up to quantify
+hand-eye behavior in motor execution and learning of children with autism
+spectrum disorder. IEEE Int Conf Rehabil Robot. 2017 Jul;2017:953-958. doi:
+10.1109/ICORR.2017.8009372. PMID: 28813944.
+
+109: Siotto M, Germanotta M, Santoro M, Cipollini V, Guardati G, Papadopoulou D,
+Bray E, Mastrorosa A, Aprile I. Serotonin Levels and Cognitive Recovery in
+Patients with Subacute Stroke after Rehabilitation Treatment. Brain Sci. 2021
+May 15;11(5):642. doi: 10.3390/brainsci11050642. PMID: 34063444; PMCID:
+PMC8156601.
+
+110: Taheri A, Atyabi A, Meghdari A, Alemi M. Editorial: Human-robot interaction
+for children with special needs. Front Robot AI. 2023 Sep 13;10:1206079. doi:
+10.3389/frobt.2023.1206079. PMID: 37779575; PMCID: PMC10535079.
+
+111: Winser S, Lee SH, Law HS, Leung HY, Bello UM, Kannan P. Economic
+evaluations of physiotherapy interventions for neurological disorders: a
+systematic review. Disabil Rehabil. 2020 Apr;42(7):892-901. doi:
+10.1080/09638288.2018.1510993. Epub 2019 Jan 7. PMID: 30616401.
+
+112: Mihalache D, Sokol-Hessner P, Feng H, Askari F, Reyes N, Moody EJ, Mahoor
+MH, Sweeny TD. Gaze perception from head and pupil rotations in 2D and 3D:
+Typical development and the impact of autism spectrum disorder. PLoS One. 2022
+Oct 27;17(10):e0275281. doi: 10.1371/journal.pone.0275281. PMID: 36301975;
+PMCID: PMC9612464.
+
+113: Nikopoulou VA, Holeva V, Tatsiopoulou P, Kaburlasos VG, Evangeliou AE. A
+Pediatric Patient With Autism Spectrum Disorder and Comorbid Compulsive
+Behaviors Treated With Robot-Assisted Relaxation: A Case Report. Cureus. 2022
+Feb 20;14(2):e22409. doi: 10.7759/cureus.22409. PMID: 35371793; PMCID:
+PMC8941295.
+
+114: Yuan F, Zhou W, Dodge HH, Zhao X. Short: Causal structural learning of
+conversational engagement for socially isolated older adults. Smart Health
+(Amst). 2023 Jun;28:100384. doi: 10.1016/j.smhl.2023.100384. Epub 2023 Mar 21.
+PMID: 37065441; PMCID: PMC10101035.
+
+115: Cavalli G, Galeoto G, Sogos C, Berardi A, Tofani M. The efficacy of
+executive function interventions in children with autism spectrum disorder: a
+systematic review and meta-analysis. Expert Rev Neurother. 2022 Jan;22(1):77-84.
+doi: 10.1080/14737175.2022.2011215. Epub 2021 Dec 13. PMID: 34821185.
+
+116: Yoshihara Y, Lisi G, Yahata N, Fujino J, Matsumoto Y, Miyata J, Sugihara
+GI, Urayama SI, Kubota M, Yamashita M, Hashimoto R, Ichikawa N, Cahn W, van
+Haren NEM, Mori S, Okamoto Y, Kasai K, Kato N, Imamizu H, Kahn RS, Sawa A,
+Kawato M, Murai T, Morimoto J, Takahashi H. Overlapping but Asymmetrical
+Relationships Between Schizophrenia and Autism Revealed by Brain Connectivity.
+Schizophr Bull. 2020 Apr 17;46(5):1210–8. doi: 10.1093/schbul/sbaa021. Epub
+ahead of print. PMID: 32300809; PMCID: PMC7505174.
+
+117: Huijnen CAGJ, Lexis MAS, Jansens R, de Witte LP. How to Implement Robots in
+Interventions for Children with Autism? A Co-creation Study Involving People
+with Autism, Parents and Professionals. J Autism Dev Disord. 2017
+Oct;47(10):3079-3096. doi: 10.1007/s10803-017-3235-9. PMID: 28685411; PMCID:
+PMC5602062.
+
+118: Zhang L, Amat AZ, Zhao H, Swanson A, Weitlauf A, Warren Z, Sarkar N. Design
+of an Intelligent Agent to Measure Collaboration and Verbal-Communication Skills
+of Children with Autism Spectrum Disorder in Collaborative Puzzle Games. IEEE
+Trans Learn Technol. 2021 Jun;14(3):338-352. doi: 10.1109/tlt.2020.3029223. Epub
+2020 Oct 6. PMID: 35371383; PMCID: PMC8966619.
+
+119: Lecciso F, Levante A, Fabio RA, Caprì T, Leo M, Carcagnì P, Distante C,
+Mazzeo PL, Spagnolo P, Petrocchi S. Emotional Expression in Children With ASD: A
+Pre-Study on a Two-Group Pre-Post-Test Design Comparing Robot-Based and
+Computer-Based Training. Front Psychol. 2021 Jul 21;12:678052. doi:
+10.3389/fpsyg.2021.678052. PMID: 34366997; PMCID: PMC8334177.
+
+120: Popescu AL, Popescu N, Dobre C, Apostol ES, Popescu D. IoT and AI-Based
+Application for Automatic Interpretation of the Affective State of Children
+Diagnosed with Autism. Sensors (Basel). 2022 Mar 25;22(7):2528. doi:
+10.3390/s22072528. PMID: 35408139; PMCID: PMC9003434.
+
+121: Vernetti A, Shic F, Boccanfuso L, Macari S, Kane-Grade F, Milgramm A,
+Hilton E, Heymann P, Goodwin MS, Chawarska K. Atypical Emotional Electrodermal
+Activity in Toddlers with Autism Spectrum Disorder. Autism Res. 2020
+Sep;13(9):1476-1488. doi: 10.1002/aur.2374. Epub 2020 Sep 8. PMID: 32896980;
+PMCID: PMC10081486.
+
+122: Kumazaki H, Muramatsu T, Yoshikawa Y, Matsumoto Y, Miyao M, Ishiguro H,
+Mimura M, Minabe Y, Kikuchi M. How the Realism of Robot Is Needed for
+Individuals With Autism Spectrum Disorders in an Interview Setting. Front
+Psychiatry. 2019 Jul 11;10:486. doi: 10.3389/fpsyt.2019.00486. PMID: 31354547;
+PMCID: PMC6637027.
+
+123: Portnova GV, Proskurnina EV, Skorokhodov IV, Sokolova SV, Semirechenko AN,
+Varlamov AA. Salivary Oxytocin and Antioxidative Response to Robotic Touch in
+Adults with Autism Spectrum Disorder. Int J Mol Sci. 2023 Aug 1;24(15):12322.
+doi: 10.3390/ijms241512322. PMID: 37569698; PMCID: PMC10419114.
+
+124: So WC, Wong MK, Lam WY, Cheng CH, Yang JH, Huang Y, Ng P, Wong WL, Ho CL,
+Yeung KL, Lee CC. Robot-based intervention may reduce delay in the production of
+intransitive gestures in Chinese-speaking preschoolers with autism spectrum
+disorder. Mol Autism. 2018 May 24;9:34. doi: 10.1186/s13229-018-0217-5. PMID:
+29796238; PMCID: PMC5966929.
+
+125: Fuglerud KS, Solheim I. The Use of Social Robots for Supporting Language
+Training of Children. Stud Health Technol Inform. 2018;256:401-408. PMID:
+30371501.
+
+126: Aqeel A, Hassan A, Khan MA, Rehman S, Tariq U, Kadry S, Majumdar A,
+Thinnukool O. A Long Short-Term Memory Biomarker-Based Prediction Framework for
+Alzheimer's Disease. Sensors (Basel). 2022 Feb 14;22(4):1475. doi:
+10.3390/s22041475. PMID: 35214375; PMCID: PMC8874990.
+
+127: So WC, Wong MK, Lam CK, Lam WY, Chui AT, Lee TL, Ng HM, Chan CH, Fok DC.
+Using a social robot to teach gestural recognition and production in children
+with autism spectrum disorders. Disabil Rehabil Assist Technol. 2018
+Aug;13(6):527-539. doi: 10.1080/17483107.2017.1344886. Epub 2017 Jul 4. PMID:
+28673117.
+
+128: Srinivasan SM, Park IK, Neelly LB, Bhat AN. A comparison of the effects of
+rhythm and robotic interventions on repetitive behaviors and affective states of
+children with Autism Spectrum Disorder (ASD). Res Autism Spectr Disord. 2015 Oct
+1;18:51-63. doi: 10.1016/j.rasd.2015.07.004. PMID: 26251668; PMCID: PMC4523306.
+
+129: Srinivasan SM, Eigsti IM, Neelly L, Bhat AN. The effects of embodied rhythm
+and robotic interventions on the spontaneous and responsive social attention
+patterns of children with Autism Spectrum Disorder (ASD): A pilot randomized
+controlled trial. Res Autism Spectr Disord. 2016 Jul;27:54-72. doi:
+10.1016/j.rasd.2016.01.004. PMID: 27453721; PMCID: PMC4955647.
+
+130: Kim H, Oh M, Oh JS, Moon H, Chung SJ, Lee CS, Kim JS. Association of
+striatal dopaminergic neuronal integrity with cognitive dysfunction and cerebral
+cortical metabolism in Parkinson's disease with mild cognitive impairment. Nucl
+Med Commun. 2019 Dec;40(12):1216-1223. doi: 10.1097/MNM.0000000000001098. PMID:
+31584466.
+
+131: Jordan K, King M, Hellersteth S, Wirén A, Mulligan H. Feasibility of using
+a humanoid robot for enhancing attention and social skills in adolescents with
+autism spectrum disorder. Int J Rehabil Res. 2013 Sep;36(3):221-7. doi:
+10.1097/MRR.0b013e32835d0b43. PMID: 23328816.
+
+132: Ghiglino D, Floris F, De Tommaso D, Kompatsiari K, Chevalier P, Priolo T,
+Wykowska A. Artificial scaffolding: Augmenting social cognition by means of
+robot technology. Autism Res. 2023 May;16(5):997-1008. doi: 10.1002/aur.2906.
+Epub 2023 Feb 27. PMID: 36847354.
+
+133: Romero-García R, Martínez-Tomás R, Pozo P, de la Paz F, Sarriá E. Q-CHAT-
+NAO: A robotic approach to autism screening in toddlers. J Biomed Inform. 2021
+Jun;118:103797. doi: 10.1016/j.jbi.2021.103797. Epub 2021 Apr 30. PMID:
+33933653.
+
+134: Hou S, Liu N, Zou J, Yin X, Liu X, Zhang S, Chen J, Wei Z. Young children
+with autism show atypical prefrontal cortical responses to humanoid robots: An
+fNIRS study. Int J Psychophysiol. 2022 Nov;181:23-32. doi:
+10.1016/j.ijpsycho.2022.08.008. Epub 2022 Aug 28. PMID: 36037937.
+
+135: Sparaci L, Formica D, Lasorsa FR, Mazzone L, Valeri G, Vicari S. Untrivial
+Pursuit: Measuring Motor Procedures Learning in Children with Autism. Autism
+Res. 2015 Aug;8(4):398-411. doi: 10.1002/aur.1455. Epub 2015 Jan 30. PMID:
+25644641.
+
+136: Alnajjar F, Khalid S, Vogan AA, Shimoda S, Nouchi R, Kawashima R. Emerging
+Cognitive Intervention Technologies to Meet the Needs of an Aging Population: A
+Systematic Review. Front Aging Neurosci. 2019 Oct 24;11:291. doi:
+10.3389/fnagi.2019.00291. PMID: 31798439; PMCID: PMC6821684.
+
+137: Gerling K, Hebesberger D, Dondrup C, Körtner T, Hanheide M. Robot
+deployment in long-term care : Case study on using a mobile robot to support
+physiotherapy. Z Gerontol Geriatr. 2016 Jun;49(4):288-97. doi:
+10.1007/s00391-016-1065-6. Epub 2016 Jun 3. PMID: 27259706; PMCID: PMC4899482.
+
+138: Ali K, Shah S, Hughes CE. In-the-Wild Affect Analysis of Children with ASD
+Using Heart Rate. Sensors (Basel). 2023 Jul 21;23(14):6572. doi:
+10.3390/s23146572. PMID: 37514866; PMCID: PMC10385085.
+
+139: Srinivasan SM, Kaur M, Park IK, Gifford TD, Marsh KL, Bhat AN. The Effects
+of Rhythm and Robotic Interventions on the Imitation/Praxis, Interpersonal
+Synchrony, and Motor Performance of Children with Autism Spectrum Disorder
+(ASD): A Pilot Randomized Controlled Trial. Autism Res Treat. 2015;2015:736516.
+doi: 10.1155/2015/736516. Epub 2015 Dec 17. PMID: 26793394; PMCID: PMC4697072.
+
+140: Araújo T, Teixeira JP, Rodrigues PM. Smart-Data-Driven System for Alzheimer
+Disease Detection through Electroencephalographic Signals. Bioengineering
+(Basel). 2022 Mar 28;9(4):141. doi: 10.3390/bioengineering9040141. PMID:
+35447701; PMCID: PMC9031324.
+
+141: Vanderlinden JA, Holden RM, Scott SH, Boyd JG. Cerebral Perfusion in
+Hemodialysis Patients: A Feasibility Study. Can J Kidney Health Dis. 2021 May
+6;8:20543581211010654. doi: 10.1177/20543581211010654. PMID: 34017595; PMCID:
+PMC8114747.
+
+142: Liu J, Zhou Y, Duan S, Hu X. Memristive neural network circuit
+implementation of associative learning with overshadowing and blocking. Cogn
+Neurodyn. 2023 Aug;17(4):1029-1043. doi: 10.1007/s11571-022-09882-3. Epub 2022
+Sep 24. PMID: 37522035; PMCID: PMC10374514.
+
+143: Wang B, Niu Y, Miao L, Cao R, Yan P, Guo H, Li D, Guo Y, Yan T, Wu J, Xiang
+J, Zhang H. Decreased Complexity in Alzheimer's Disease: Resting-State fMRI
+Evidence of Brain Entropy Mapping. Front Aging Neurosci. 2017 Nov 20;9:378. doi:
+10.3389/fnagi.2017.00378. PMID: 29209199; PMCID: PMC5701971.
+
+144: Astrand E, Wardak C, Ben Hamed S. Selective visual attention to drive
+cognitive brain-machine interfaces: from concepts to neurofeedback and
+rehabilitation applications. Front Syst Neurosci. 2014 Aug 12;8:144. doi:
+10.3389/fnsys.2014.00144. PMID: 25161613; PMCID: PMC4130369.
+
+145: So WC, Cheng CH, Lam WY, Huang Y, Ng KC, Tung HC, Wong W. A Robot-Based
+Play-Drama Intervention May Improve the Joint Attention and Functional Play
+Behaviors of Chinese-Speaking Preschoolers with Autism Spectrum Disorder: A
+Pilot Study. J Autism Dev Disord. 2020 Feb;50(2):467-481. doi:
+10.1007/s10803-019-04270-z. PMID: 31655965.
+
+146: Aprile I, Guardati G, Cipollini V, Papadopoulou D, Mastrorosa A, Castelli
+L, Monteleone S, Redolfi A, Galeri S, Germanotta M. Robotic Rehabilitation: An
+Opportunity to Improve Cognitive Functions in Subjects With Stroke. An
+Explorative Study. Front Neurol. 2020 Nov 19;11:588285. doi:
+10.3389/fneur.2020.588285. PMID: 33329334; PMCID: PMC7710798.
+
+147: Raghunath N, Pereyda C, Frow JF, Cook D, Schmitter-Edgecombe M. Learning-
+Enabled Robotic Assistive Support: Understanding Older Adult Opinions and
+Comparing Them to Younger Adult Opinions. Gerontechnology. 2020 Jul
+28;19(3):10.4017/gt.2020.19.003.07. doi: 10.4017/gt.2020.19.003.07. PMID:
+33776608; PMCID: PMC7993754.
+
+148: Amirova A, CohenMiller A, Sandygulova A. The effects of the COVID-19
+pandemic on the well-being of children with autism spectrum disorder: Parents'
+perspectives. Front Psychiatry. 2022 Jul 25;13:913902. doi:
+10.3389/fpsyt.2022.913902. PMID: 35958650; PMCID: PMC9359431.
+
+149: Srinivasan SM, Eigsti IM, Gifford T, Bhat AN. The effects of embodied
+rhythm and robotic interventions on the spontaneous and responsive verbal
+communication skills of children with Autism Spectrum Disorder (ASD): A further
+outcome of a pilot randomized controlled trial. Res Autism Spectr Disord. 2016
+Jul;27:73-87. doi: 10.1016/j.rasd.2016.04.001. Epub 2016 Apr 23. PMID: 27668011;
+PMCID: PMC5033125.
+
+150: Gunes H, Celiktutan O, Sariyanidi E. Live human-robot interactive public
+demonstrations with automatic emotion and personality prediction. Philos Trans R
+Soc Lond B Biol Sci. 2019 Apr 29;374(1771):20180026. doi:
+10.1098/rstb.2018.0026. PMID: 30853000; PMCID: PMC6452249.
+
+151: Bertamini G, Perzolli S, Bentenuto A, Paolizzi E, Furlanello C, Venuti P.
+Child-therapist interaction features impact Autism treatment response
+trajectories. Res Dev Disabil. 2023 Apr;135:104452. doi:
+10.1016/j.ridd.2023.104452. Epub 2023 Feb 14. PMID: 36796270.
+
+152: Guinchat V, Vlamynck E, Diaz L, Chambon C, Pouzenc J, Cravero C, Baeza-
+Velasco C, Hamonet C, Xavier J, Cohen D. Compressive Garments in Individuals
+with Autism and Severe Proprioceptive Dysfunction: A Retrospective Exploratory
+Case Series. Children (Basel). 2020 Jul 13;7(7):77. doi:
+10.3390/children7070077. PMID: 32668622; PMCID: PMC7401870.
+
+153: Macari S, Chen X, Brunissen L, Yhang E, Brennan-Wydra E, Vernetti A,
+Volkmar F, Chang J, Chawarska K. Puppets facilitate attention to social cues in
+children with ASD. Autism Res. 2021 Sep;14(9):1975-1985. doi: 10.1002/aur.2552.
+Epub 2021 Aug 4. PMID: 34350712; PMCID: PMC8434944.
+
+154: Zhang S, Wang S, Liu R, Dong H, Zhang X, Tai X. A bibliometric analysis of
+research trends of artificial intelligence in the treatment of autistic spectrum
+disorders. Front Psychiatry. 2022 Aug 29;13:967074. doi:
+10.3389/fpsyt.2022.967074. PMID: 36104988; PMCID: PMC9464861.
+
+155: Niu Y, Wang B, Zhou M, Xue J, Shapour H, Cao R, Cui X, Wu J, Xiang J.
+Dynamic Complexity of Spontaneous BOLD Activity in Alzheimer's Disease and Mild
+Cognitive Impairment Using Multiscale Entropy Analysis. Front Neurosci. 2018 Oct
+1;12:677. doi: 10.3389/fnins.2018.00677. PMID: 30327587; PMCID: PMC6174248.
+
+156: Huijnen CAGJ, Lexis MAS, Jansens R, de Witte LP. Mapping Robots to Therapy
+and Educational Objectives for Children with Autism Spectrum Disorder. J Autism
+Dev Disord. 2016 Jun;46(6):2100-2114. doi: 10.1007/s10803-016-2740-6. PMID:
+26909762; PMCID: PMC4860202.
+
+157: Pires G, Cruz A, Jesus D, Yasemin M, Nunes UJ, Sousa T, Castelo-Branco M. A
+new error-monitoring brain-computer interface based on reinforcement learning
+for people with autism spectrum disorders. J Neural Eng. 2022 Dec 12;19(6). doi:
+10.1088/1741-2552/aca798. PMID: 36541535.
+
+158: Olivito G, Lupo M, Iacobacci C, Clausi S, Romano S, Masciullo M, Molinari
+M, Cercignani M, Bozzali M, Leggio M. Structural cerebellar correlates of
+cognitive functions in spinocerebellar ataxia type 2. J Neurol. 2018
+Mar;265(3):597-606. doi: 10.1007/s00415-018-8738-6. Epub 2018 Jan 22. PMID:
+29356974.
+
+159: Zwicker JG, Mayson TA. Effectiveness of treadmill training in children with
+motor impairments: an overview of systematic reviews. Pediatr Phys Ther. 2010
+Winter;22(4):361-77. doi: 10.1097/PEP.0b013e3181f92e54. PMID: 21068636.
+
+160: Javed H, Park CH. Interactions With an Empathetic Agent: Regulating
+Emotions and Improving Engagement in Autism. IEEE Robot Autom Mag. 2019
+Jun;26(2):40-48. doi: 10.1109/mra.2019.2904638. Epub 2019 Apr 11. PMID:
+34887653; PMCID: PMC8653506.
+
+161: Piccinini G, Imbimbo I, Ricciardi D, Coraci D, Santilli C, Lo Monaco MR,
+Loreti C, Vulpiani MC, Silveri MC, Padua L. The impact of cognitive reserve on
+the effectiveness of balance rehabilitation in Parkinson's disease. Eur J Phys
+Rehabil Med. 2018 Aug;54(4):554-559. doi: 10.23736/S1973-9087.17.04837-7. Epub
+2017 Nov 16. PMID: 29144106.
+
+162: Fan J, Ullal A, Beuscher L, Mion LC, Newhouse P, Sarkar N. Field Testing of
+Ro-Tri, a Robot-Mediated Triadic Interaction for Older Adults. Int J Soc Robot.
+2021;13(7):1711-1727. doi: 10.1007/s12369-021-00760-2. Epub 2021 Feb 21. PMID:
+33643494; PMCID: PMC7897418.
+
+163: Li YC, Lin KC, Chen CL, Yao G, Chang YJ, Lee YY, Liu CT. A Comparative
+Efficacy Study of Robotic Priming of Bilateral Approach in Stroke
+Rehabilitation. Front Neurol. 2021 Jul 12;12:658567. doi:
+10.3389/fneur.2021.658567. PMID: 34322077; PMCID: PMC8310953.
+
+164: Mengoni SE, Irvine K, Thakur D, Barton G, Dautenhahn K, Guldberg K, Robins
+B, Wellsted D, Sharma S. Feasibility study of a randomised controlled trial to
+investigate the effectiveness of using a humanoid robot to improve the social
+skills of children with autism spectrum disorder (Kaspar RCT): a study protocol.
+BMJ Open. 2017 Jun 22;7(6):e017376. doi: 10.1136/bmjopen-2017-017376. PMID:
+28645986; PMCID: PMC5726066.
+
+165: Korneder J, Louie WG, Pawluk CM, Abbas I, Brys M, Rooney F. Robot-mediated
+interventions for teaching children with ASD: A new intraverbal skill. Assist
+Technol. 2022 Nov 2;34(6):707-716. doi: 10.1080/10400435.2021.1930284. Epub 2021
+May 28. PMID: 33983864.
+
+166: Benarous X, Cohen D. L'erreur est humaine ? Intérêt des modèles chaotiques
+dans l'étude des troubles psychiatriques de l'adulte et du développement de
+l'enfant [To err is human? Interests of chaotic models to study adult
+psychiatric disorders and developmental disorders]. Encephale. 2016
+Feb;42(1):82-9. French. doi: 10.1016/j.encep.2015.06.002. Epub 2015 Jul 29.
+PMID: 26231988.
+
+167: Javed H, Park CH. Promoting Social Engagement With a Multi-Role Dancing
+Robot for In-Home Autism Care. Front Robot AI. 2022 Jun 20;9:880691. doi:
+10.3389/frobt.2022.880691. PMID: 36203792; PMCID: PMC9532014.
+
+168: Li M, Li X, Xie L, Liu J, Wang F, Wang Z. Assisted therapeutic system based
+on reinforcement learning for children with autism. Comput Assist Surg
+(Abingdon). 2019 Oct;24(sup2):94-104. doi: 10.1080/24699322.2019.1649072. Epub
+2019 Aug 14. PMID: 31411501.
+
+169: Fogelson DM, Rutledge C, Zimbro KS. The Impact of Robotic Companion Pets on
+Depression and Loneliness for Older Adults with Dementia During the COVID-19
+Pandemic. J Holist Nurs. 2022 Dec;40(4):397-409. doi: 10.1177/08980101211064605.
+Epub 2021 Dec 10. PMID: 34889146; PMCID: PMC9629053.
+
+170: Kumazaki H, Muramatsu T, Yoshikawa Y, Haraguchi H, Sono T, Matsumoto Y,
+Ishiguro H, Kikuchi M, Sumiyoshi T, Mimura M. Enhancing Communication Skills of
+Individuals With Autism Spectrum Disorders While Maintaining Social Distancing
+Using Two Tele-Operated Robots. Front Psychiatry. 2021 Jan 25;11:598688. doi:
+10.3389/fpsyt.2020.598688. PMID: 33569014; PMCID: PMC7868394.
+
+171: Covarrubias M, Gatti E, Bordegoni M, Cugini U, Mansutti A. Improving manual
+skills in persons with disabilities (PWD) through a multimodal assistance
+system. Disabil Rehabil Assist Technol. 2014 Jul;9(4):335-43. doi:
+10.3109/17483107.2013.799238. Epub 2013 May 21. PMID: 23692410.
+
+172: Billard A, Robins B, Nadel J, Dautenhahn K. Building Robota, a mini-
+humanoid robot for the rehabilitation of children with autism. Assist Technol.
+2007 Spring;19(1):37-49. doi: 10.1080/10400435.2007.10131864. PMID: 17461289.
+
+173: Xavier J, Johnson S, Cohen D. From child-peer similarity in imitative
+behavior to matched peer-mediated interventions in autism. Front Psychol. 2023
+Aug 2;14:1173627. doi: 10.3389/fpsyg.2023.1173627. PMID: 37599766; PMCID:
+PMC10433193.
+
+174: Tsolaki M, Zygouris S, Lazarou I, Kompatsiaris I, Chatzileontiadis L, Votis
+C, Tzovaras D, Karakostas A, Karagkiozi C, Dimitriou T, Tsiatsios T, Dimitriadis
+S, Tarnanas I, Dranidis D, Bamidis P. Our experience with informative and
+communication technologies (ICT) in dementia. Hell J Nucl Med. 2015 Sep-Dec;18
+Suppl 1:131-9. PMID: 26665222.
+
+175: Idei H, Murata S, Yamashita Y, Ogata T. Paradoxical sensory reactivity
+induced by functional disconnection in a robot model of neurodevelopmental
+disorder. Neural Netw. 2021 Jun;138:150-163. doi: 10.1016/j.neunet.2021.01.033.
+Epub 2021 Feb 12. PMID: 33652371.
+
+176: Warren ZE, Zheng Z, Swanson AR, Bekele E, Zhang L, Crittendon JA, Weitlauf
+AF, Sarkar N. Can Robotic Interaction Improve Joint Attention Skills? J Autism
+Dev Disord. 2015 Nov;45(11):3726-34. doi: 10.1007/s10803-013-1918-4. PMID:
+24014194; PMCID: PMC3949684.
+
+177: Shin MH, McLaren J, Ramsey A, Sullivan JL, Moo L. Improving a Mobile
+Telepresence Robot for People With Alzheimer Disease and Related Dementias:
+Semistructured Interviews With Stakeholders. JMIR Aging. 2022 May 3;5(2):e32322.
+doi: 10.2196/32322. PMID: 35503518; PMCID: PMC9115649.
+
+178: De Luca R, Russo M, Naro A, Tomasello P, Leonardi S, Santamaria F, Desireè
+L, Bramanti A, Silvestri G, Bramanti P, Calabrò RS. Effects of virtual reality-
+based training with BTs-Nirvana on functional recovery in stroke patients:
+preliminary considerations. Int J Neurosci. 2018 Sep;128(9):791-796. doi:
+10.1080/00207454.2017.1403915. Epub 2018 Feb 2. PMID: 29148855.
+
+179: Boucenna S, Cohen D, Meltzoff AN, Gaussier P, Chetouani M. Robots Learn to
+Recognize Individuals from Imitative Encounters with People and Avatars. Sci
+Rep. 2016 Feb 4;6:19908. doi: 10.1038/srep19908. PMID: 26844862; PMCID:
+PMC4741103.
+
+180: Haffey A, Press C, O'Connell G, Chakrabarti B. Autistic traits modulate
+mimicry of social but not nonsocial rewards. Autism Res. 2013 Dec;6(6):614-20.
+doi: 10.1002/aur.1323. Epub 2013 Aug 12. PMID: 23939872.
+
+181: Tilmont Pittala E, Saint-Georges-Chaumet Y, Favrot C, Tanet A, Cohen D,
+Saint-Georges C. Clinical outcomes of interactive, intensive and individual (3i)
+play therapy for children with ASD: a two-year follow-up study. BMC Pediatr.
+2018 May 12;18(1):165. doi: 10.1186/s12887-018-1126-7. PMID: 29753322; PMCID:
+PMC5948870.
+
+182: Muthu P, Tan Y, Latha S, Dhanalakshmi S, Lai KW, Wu X. Discernment on
+assistive technology for the care and support requirements of older adults and
+differently-abled individuals. Front Public Health. 2023 Jan 9;10:1030656. doi:
+10.3389/fpubh.2022.1030656. PMID: 36699937; PMCID: PMC9869388.
+
+183: Alcorn AM, Ainger E, Charisi V, Mantinioti S, Petrović S, Schadenberg BR,
+Tavassoli T, Pellicano E. Educators' Views on Using Humanoid Robots With
+Autistic Learners in Special Education Settings in England. Front Robot AI. 2019
+Nov 1;6:107. doi: 10.3389/frobt.2019.00107. PMID: 33501122; PMCID: PMC7805648.
+
+184: Zhang Z, Chen G, Zhang J, Yan T, Go R, Fukuyama H, Wu J, Han Y, Li C.
+Tactile Angle Discrimination Decreases due to Subjective Cognitive Decline in
+Alzheimer's Disease. Curr Alzheimer Res. 2020;17(2):168-176. doi:
+10.2174/1567205017666200309104033. PMID: 32148194.
+
+185: Wu X, Deng H, Jian S, Chen H, Li Q, Gong R, Wu J. Global trends and
+hotspots in the digital therapeutics of autism spectrum disorders: a
+bibliometric analysis from 2002 to 2022. Front Psychiatry. 2023 May
+15;14:1126404. doi: 10.3389/fpsyt.2023.1126404. PMID: 37255688; PMCID:
+PMC10225518.
+
+186: Knight VF, Wright J, Wilson K, Hooper A. Teaching Digital, Block-Based
+Coding of Robots to High School Students with Autism Spectrum Disorder and
+Challenging Behavior. J Autism Dev Disord. 2019 Aug;49(8):3113-3126. doi:
+10.1007/s10803-019-04033-w. PMID: 31055684.
+
+187: Fachantidis N, Syriopoulou-Delli CK, Vezyrtzis I, Zygopoulou M. Beneficial
+effects of robot-mediated class activities on a child with ASD and his typical
+classmates. Int J Dev Disabil. 2019 Feb 7;66(3):245-253. doi:
+10.1080/20473869.2019.1565725. PMID: 34141387; PMCID: PMC8115465.
+
+188: So WC, Cheng CH, Law WW, Wong T, Lee C, Kwok FY, Lee SH, Lam KY. Robot
+dramas may improve joint attention of Chinese-speaking low-functioning children
+with autism: stepped wedge trials. Disabil Rehabil Assist Technol. 2023
+Feb;18(2):195-204. doi: 10.1080/17483107.2020.1841836. Epub 2020 Nov 13. PMID:
+33186058.
+
+189: Yan T, Wang Y, Weng Z, Du W, Liu T, Chen D, Li X, Wu J, Han Y. Early-Stage
+Identification and Pathological Development of Alzheimer's Disease Using
+Multimodal MRI. J Alzheimers Dis. 2019;68(3):1013-1027. doi: 10.3233/JAD-181049.
+PMID: 30958352.
+
+190: Idei H, Murata S, Yamashita Y, Ogata T. Homogeneous Intrinsic Neuronal
+Excitability Induces Overfitting to Sensory Noise: A Robot Model of
+Neurodevelopmental Disorder. Front Psychiatry. 2020 Aug 12;11:762. doi:
+10.3389/fpsyt.2020.00762. PMID: 32903328; PMCID: PMC7434834.
+
+191: Zilz W, Pang Y. Application of assistive technology in inclusive
+classrooms. Disabil Rehabil Assist Technol. 2021 Oct;16(7):684-686. doi:
+10.1080/17483107.2019.1695963. Epub 2019 Dec 9. PMID: 31814471.
+
+192: De Luca R, Calabrò RS, Gervasi G, De Salvo S, Bonanno L, Corallo F, De Cola
+MC, Bramanti P. Is computer-assisted training effective in improving
+rehabilitative outcomes after brain injury? A case-control hospital-based study.
+Disabil Health J. 2014 Jul;7(3):356-60. doi: 10.1016/j.dhjo.2014.04.003. Epub
+2014 Apr 19. PMID: 24947578.
+
+193: Shin M, Ok MW, Choo S, Hossain G, Bryant DP, Kang E. A content analysis of
+research on technology use for teaching mathematics to students with
+disabilities: word networks and topic modeling. Int J STEM Educ. 2023;10(1):23.
+doi: 10.1186/s40594-023-00414-x. Epub 2023 Mar 26. PMID: 37009060; PMCID:
+PMC10039814.
+
+194: Sawik B, Tobis S, Baum E, Suwalska A, Kropińska S, Stachnik K, Pérez-
+Bernabeu E, Cildoz M, Agustin A, Wieczorowska-Tobis K. Robots for Elderly Care:
+Review, Multi-Criteria Optimization Model and Qualitative Case Study. Healthcare
+(Basel). 2023 Apr 30;11(9):1286. doi: 10.3390/healthcare11091286. PMID:
+37174828; PMCID: PMC10178192.
+
+195: Warren Z, Zheng Z, Das S, Young EM, Swanson A, Weitlauf A, Sarkar N. Brief
+Report: Development of a Robotic Intervention Platform for Young Children with
+ASD. J Autism Dev Disord. 2015 Dec;45(12):3870-6. doi:
+10.1007/s10803-014-2334-0. PMID: 25503680; PMCID: PMC4466216.
+
+196: Cabral C, Morgado PM, Campos Costa D, Silveira M; Alzheimer׳s Disease
+Neuroimaging Initiative. Predicting conversion from MCI to AD with FDG-PET brain
+images at different prodromal stages. Comput Biol Med. 2015 Mar;58:101-9. doi:
+10.1016/j.compbiomed.2015.01.003. Epub 2015 Jan 12. PMID: 25625698.
+
+197: Saiano M, Pellegrino L, Casadio M, Summa S, Garbarino E, Rossi V,
+Dall'Agata D, Sanguineti V. Natural interfaces and virtual environments for the
+acquisition of street crossing and path following skills in adults with Autism
+Spectrum Disorders: a feasibility study. J Neuroeng Rehabil. 2015 Feb 19;12:17.
+doi: 10.1186/s12984-015-0010-z. PMID: 25885279; PMCID: PMC4344805.
+
+198: Clabaugh C, Mahajan K, Jain S, Pakkar R, Becerra D, Shi Z, Deng E, Lee R,
+Ragusa G, Matarić M. Long-Term Personalization of an In-Home Socially Assistive
+Robot for Children With Autism Spectrum Disorders. Front Robot AI. 2019 Nov
+6;6:110. doi: 10.3389/frobt.2019.00110. PMID: 33501125; PMCID: PMC7805891.
+
+199: Fachantidis N, Syriopoulou-Delli CK, Zygopoulou M. Τhe effectiveness of
+socially assistive robotics in children with autism spectrum disorder. Int J Dev
+Disabil. 2018 Oct 22;66(2):113-121. doi: 10.1080/20473869.2018.1495391. PMID:
+34141373; PMCID: PMC8132921.
+
+200: Wästlund E, Sponseller K, Pettersson O, Bared A. Evaluating gaze-driven
+power wheelchair with navigation support for persons with disabilities. J
+Rehabil Res Dev. 2015;52(7):815-26. doi: 10.1682/JRRD.2014.10.0228. PMID:
+26744901.
+
+201: Oh W, Kim TH, You JSH. Self-perception and anticipated efficacy of the
+anti-dementia multimodal program in 100 older adults with mild cognitive
+impairment. NeuroRehabilitation. 2023;52(3):403-412. doi: 10.3233/NRE-220253.
+PMID: 36806520.
+
+202: De Luca R, Leonardi S, Portaro S, Le Cause M, De Domenico C, Colucci PV,
+Pranio F, Bramanti P, Calabrò RS. Innovative use of virtual reality in autism
+spectrum disorder: A case-study. Appl Neuropsychol Child. 2021 Jan;10(1):90-100.
+doi: 10.1080/21622965.2019.1610964. Epub 2019 May 15. PMID: 31092007.
+
+203: Lindsay S, Hounsell KG. Adapting a robotics program to enhance
+participation and interest in STEM among children with disabilities: a pilot
+study. Disabil Rehabil Assist Technol. 2017 Oct;12(7):694-704. doi:
+10.1080/17483107.2016.1229047. Epub 2016 Oct 20. PMID: 27762644.
+
+204: Wu CY, Yang CL, Chuang LL, Lin KC, Chen HC, Chen MD, Huang WC. Effect of
+therapist-based versus robot-assisted bilateral arm training on motor control,
+functional performance, and quality of life after chronic stroke: a clinical
+trial. Phys Ther. 2012 Aug;92(8):1006-16. doi: 10.2522/ptj.20110282. Epub 2012
+Apr 19. PMID: 22517782.
+
+205: Vallart E, Gicquel L. Accompagner l’enfant avec autisme grâce aux outils
+numériques [Supporting an ASD child with digital tools]. Soins Psychiatr. 2017
+Jul-Aug;38(311):30-33. French. doi: 10.1016/j.spsy.2017.04.009. PMID: 28683883.
+
+206: Boman IL, Bartfai A. The first step in using a robot in brain injury
+rehabilitation: patients' and health-care professionals' perspective. Disabil
+Rehabil Assist Technol. 2015;10(5):365-70. doi: 10.3109/17483107.2014.913712.
+Epub 2014 Apr 28. PMID: 24766268.
+
+207: Matsuda S, Nunez E, Hirokawa M, Yamamoto J, Suzuki K. Facilitating Social
+Play for Children with PDDs: Effects of Paired Robotic Devices. Front Psychol.
+2017 Jun 28;8:1029. doi: 10.3389/fpsyg.2017.01029. PMID: 28701971; PMCID:
+PMC5487447.
+
+208: Hwang YIJ, Foley KR, Elley K, Brown S, Joy-Leong D, Li X, Grove R, Trollor
+J, Pellicano E, Zheng L. Experiences of Performing Daily Activities in Middle-
+Aged and Older Autistic Adults: A Qualitative Study. J Autism Dev Disord. 2023
+May;53(5):2037-2049. doi: 10.1007/s10803-022-05473-7. Epub 2022 Feb 25. PMID:
+35217945; PMCID: PMC10123035.
+
+209: Abbaspour S, Fotouhi F, Sedaghatbaf A, Fotouhi H, Vahabi M, Linden M. A
+Comparative Analysis of Hybrid Deep Learning Models for Human Activity
+Recognition. Sensors (Basel). 2020 Oct 7;20(19):5707. doi: 10.3390/s20195707.
+PMID: 33036479; PMCID: PMC7582332.
+
+210: Egido-García V, Estévez D, Corrales-Paredes A, Terrón-López MJ, Velasco-
+Quintana PJ. Integration of a Social Robot in a Pedagogical and Logopedic
+Intervention with Children: A Case Study. Sensors (Basel). 2020 Nov
+13;20(22):6483. doi: 10.3390/s20226483. PMID: 33202827; PMCID: PMC7697257.
+
+211: Yahata N, Morimoto J, Hashimoto R, Lisi G, Shibata K, Kawakubo Y, Kuwabara
+H, Kuroda M, Yamada T, Megumi F, Imamizu H, Náñez JE Sr, Takahashi H, Okamoto Y,
+Kasai K, Kato N, Sasaki Y, Watanabe T, Kawato M. A small number of abnormal
+brain connections predicts adult autism spectrum disorder. Nat Commun. 2016 Apr
+14;7:11254. doi: 10.1038/ncomms11254. PMID: 27075704; PMCID: PMC4834637.
+
+212: Veronesi C, Trimarco B, Botticelli N, Armani G, Bentenuto A, Fiorello F,
+Picchiotti G, Sogos C. Use of the PARO robot as a social mediator in a sample of
+children with neurodevelopmental disorders and typical development. Clin Ter.
+2023 Mar-Apr;174(2):132-138. doi: 10.7417/CT.2023.2509. PMID: 36920129.
+
+213: Fassina G, Santos L, Geminiani A, Caglio A, Annunziata S, Olivieri I,
+Pedrocchi A. Development of an Interactive Total Body Robot Enhanced Imitation
+Therapy for ASD children. IEEE Int Conf Rehabil Robot. 2022 Jul;2022:1-6. doi:
+10.1109/ICORR55369.2022.9896536. PMID: 36176149.
+
+214: So WC, Law WW, Cheng CH, Lee C, Ng KC, Kwok FY, Lam HW, Lam KY. Comparing
+the effectiveness of robot-based to human-based intervention in improving joint
+attention in autistic children. Front Psychiatry. 2023 May 5;14:1114907. doi:
+10.3389/fpsyt.2023.1114907. PMID: 37215656; PMCID: PMC10196491.
+
+215: Kumazaki H, Warren Z, Swanson A, Yoshikawa Y, Matsumoto Y, Takahashi H,
+Sarkar N, Ishiguro H, Mimura M, Minabe Y, Kikuchi M. Can Robotic Systems Promote
+Self-Disclosure in Adolescents with Autism Spectrum Disorder? A Pilot Study.
+Front Psychiatry. 2018 Feb 9;9:36. doi: 10.3389/fpsyt.2018.00036. PMID:
+29479324; PMCID: PMC5811466.
+
+216: Kumazaki H. [Current Status of Robotic Research for Individuals with Autism
+Spectrum Disorders]. Brain Nerve. 2019 Jul;71(7):785-791. Japanese. doi:
+10.11477/mf.1416201350. PMID: 31289252.
+
+217: Javed H, Lee W, Park CH. Toward an Automated Measure of Social Engagement
+for Children With Autism Spectrum Disorder-A Personalized Computational Modeling
+Approach. Front Robot AI. 2020 Apr 15;7:43. doi: 10.3389/frobt.2020.00043.
+Erratum in: Front Robot AI. 2020 May 27;7:67. PMID: 33501211; PMCID: PMC7805713.
+
+218: Knight VF, Wright J, DeFreese A. Teaching Robotics Coding to a Student with
+ASD and Severe Problem Behavior. J Autism Dev Disord. 2019 Jun;49(6):2632-2636.
+doi: 10.1007/s10803-019-03888-3. PMID: 30734176.
+
+219: Kasari C, Freeman S, Mundy P, Sigman MD. Attention regulation by children
+with Down syndrome: coordinated joint attention and social referencing looks. Am
+J Ment Retard. 1995 Sep;100(2):128-36. PMID: 8527109.
+
+220: Santos L, Silva B, Maddaloni F, Geminiani A, Caglio A, Annunziata S,
+Olivieri I, Barata C, Santos-Victor J, Pedrocchi A. Sharing Worlds: Design of a
+Real-Time Attention Classifier for Robotic Therapy of ASD Children<sup></sup>.
+IEEE Int Conf Rehabil Robot. 2022 Jul;2022:1-6. doi:
+10.1109/ICORR55369.2022.9896506. PMID: 36176158.
+
+221: Silva V, Soares F, Leão CP, Esteves JS, Vercelli G. Skeleton Driven Action
+Recognition Using an Image-Based Spatial-Temporal Representation and Convolution
+Neural Network. Sensors (Basel). 2021 Jun 25;21(13):4342. doi:
+10.3390/s21134342. PMID: 34201991; PMCID: PMC8271982.
+
+222: Oh W, Park H, Hallett M, You JSH. The Effectiveness of a Multimodal Brain
+Empowerment Program in Mild Cognitive Impairment: A Single-Blind, Quasi-
+Randomized Experimental Study. J Clin Med. 2023 Jul 26;12(15):4895. doi:
+10.3390/jcm12154895. PMID: 37568297; PMCID: PMC10419895.
+
+223: Espinosa-Garamendi E, Labra-Ruiz NA, Naranjo L, Chávez-Mejía CA,
+Valenzuela-Alarcón E, Mendoza-Torreblanca JG. Habilitation of Executive
+Functions in Pediatric Congenital Heart Disease Patients through
+LEGO<sup>®</sup>-Based Therapy: A Quasi-Experimental Study. Healthcare (Basel).
+2022 Nov 23;10(12):2348. doi: 10.3390/healthcare10122348. PMID: 36553872; PMCID:
+PMC9777737.
+
+224: Soleiman P, Moradi H, Mehralizadeh B, Ameri H, Arriaga RI, Pouretemad HR,
+Baghbanzadeh N, Vahid LK. Fully robotic social environment for teaching and
+practicing affective interaction: Case of teaching emotion recognition skills to
+children with autism spectrum disorder, a pilot study. Front Robot AI. 2023 May
+3;10:1088582. doi: 10.3389/frobt.2023.1088582. PMID: 37207048; PMCID:
+PMC10190599.
+
+225: Moscoso A, Julien A, Tanet A, Consoli A, Pagnard M, Trevisan F, Kemlin I,
+Rodriguez D, Cohen D. Clinical Management of Children and Adolescents with
+Neurofibromatosis Type 1 Like Phenotypes and Complex Behavioural Manifestations:
+A Multidisciplinary and Dimensional Approach. Case Rep Psychiatry. 2019 Dec
+31;2019:4764031. doi: 10.1155/2019/4764031. PMID: 32089936; PMCID: PMC7011498.
+
+226: Kumazaki H, Warren Z, Swanson A, Yoshikawa Y, Matsumoto Y, Ishiguro H,
+Sarkar N, Minabe Y, Kikuchi M. Impressions of Humanness for Android Robot may
+Represent an Endophenotype for Autism Spectrum Disorders. J Autism Dev Disord.
+2018 Feb;48(2):632-634. doi: 10.1007/s10803-017-3365-0. PMID: 29086211.
+
+227: Duret C, Hutin E, Lehenaff L, Gracies JM. Do all sub acute stroke patients
+benefit from robot-assisted therapy? A retrospective study. Restor Neurol
+Neurosci. 2015;33(1):57-65. doi: 10.3233/RNN-140418. PMID: 25420902.
+
+228: Suárez-Araujo CP, García Báez P, Cabrera-León Y, Prochazka A, Rodríguez
+Espinosa N, Fernández Viadero C, Neuroimaging Initiative FTAD. A Real-Time
+Clinical Decision Support System, for Mild Cognitive Impairment Detection, Based
+on a Hybrid Neural Architecture. Comput Math Methods Med. 2021 Jun
+21;2021:5545297. doi: 10.1155/2021/5545297. PMID: 34257699; PMCID: PMC8257364.
+
+229: McCleery JP. Comment on Technology-Based Intervention Research for
+Individuals on the Autism Spectrum. J Autism Dev Disord. 2015 Dec;45(12):3832-5.
+doi: 10.1007/s10803-015-2627-y. PMID: 26537909.
+
+230: Desideri L, Negrini M, Cutrone MC, Rouame A, Malavasi M, Hoogerwerf EJ,
+Bonifacci P, Di Sarro R. Exploring the Use of a Humanoid Robot to Engage
+Children with Autism Spectrum Disorder (ASD). Stud Health Technol Inform.
+2017;242:501-509. PMID: 28873845.
+
+231: Solana E, Martinez-Heras E, Montal V, Vilaplana E, Lopez-Soley E, Radua J,
+Sola-Valls N, Montejo C, Blanco Y, Pulido-Valdeolivas I, Sepúlveda M, Andorra M,
+Berenguer J, Villoslada P, Martinez-Lapiscina EH, Prados F, Saiz A, Fortea J,
+Llufriu S. Regional grey matter microstructural changes and volume loss
+according to disease duration in multiple sclerosis patients. Sci Rep. 2021 Aug
+19;11(1):16805. doi: 10.1038/s41598-021-96132-x. PMID: 34413373; PMCID:
+PMC8376987.
+
+232: Silva K, Lima M, Fafiães C, Sinval J, de Sousa L. Preliminary Test of the
+Potential of Contact With Dogs to Elicit Spontaneous Imitation in Children and
+Adults With Severe Autism Spectrum Disorder. Am J Occup Ther. 2020
+Jan/Feb;74(1):7401205070p1-7401205070p8. doi: 10.5014/ajot.2020.031849. PMID:
+32078518; PMCID: PMC7018472.
+
+233: Kang N, Han X, Li Z, Liu T, Mi X, Li Y, Guo X, Han D, Yang N. Rapamycin
+Affects the Hippocampal SNARE Complex to Alleviate Cognitive Dysfunction Induced
+by Surgery in Aged Rats. Brain Sci. 2023 Mar 31;13(4):598. doi:
+10.3390/brainsci13040598. PMID: 37190563; PMCID: PMC10136734.
+
+234: Raffard S, Bortolon C, Khoramshahi M, Salesse RN, Burca M, Marin L, Bardy
+BG, Billard A, Macioce V, Capdevielle D. Humanoid robots versus humans: How is
+emotional valence of facial expressions recognized by individuals with
+schizophrenia? An exploratory study. Schizophr Res. 2016 Oct;176(2-3):506-513.
+doi: 10.1016/j.schres.2016.06.001. Epub 2016 Jun 10. PMID: 27293136.
+
+235: Montesano L, Díaz M, Bhaskar S, Minguez J. Towards an intelligent
+wheelchair system for users with cerebral palsy. IEEE Trans Neural Syst Rehabil
+Eng. 2010 Apr;18(2):193-202. doi: 10.1109/TNSRE.2009.2039592. Epub 2010 Jan 12.
+PMID: 20071276.
+
+236: Scarcella I, Marino F, Failla C, Doria G, Chilà P, Minutoli R, Vetrano N,
+Vagni D, Pignolo L, Di Cara M, Settimo C, Quartarone A, Cerasa A, Pioggia G.
+Information and communication technologies-based interventions for children with
+autism spectrum conditions: a systematic review of randomized control trials
+from a positive technology perspective. Front Psychiatry. 2023 Jul
+20;14:1212522. doi: 10.3389/fpsyt.2023.1212522. PMID: 37547218; PMCID:
+PMC10398379.
+
+237: Calabrò RS, De Luca R, Leo A, Balletta T, Marra A, Bramanti P. Lokomat
+training in vascular dementia: motor improvement and beyond! Aging Clin Exp Res.
+2015 Dec;27(6):935-7. doi: 10.1007/s40520-015-0343-2. Epub 2015 Mar 12. PMID:
+25762160.
+
+238: Wu YH, Faucounau V, Boulay M, Maestrutti M, Rigaud AS. Robotic agents for
+supporting community-dwelling elderly people with memory complaints: Perceived
+needs and preferences. Health Informatics J. 2011 Mar;17(1):33-40. doi:
+10.1177/1460458210380517. PMID: 25133768.
+
+239: Sommariva G, Zilli T, Crescentini C, Marini A, Pilotto C, Venchiarutti M,
+Gortan AJ, Fabbro F, Cogo P. Toward a characterization of language development
+in children with congenital heart disease: A pilot study. Child Neuropsychol.
+2020 Jan;26(1):1-14. doi: 10.1080/09297049.2019.1617261. Epub 2019 May 23. PMID:
+31120368.
+
+240: Hou JY, Xu H, Cao GZ, Tian LL, Wang LH, Zhu NQ, Zhang JJ, Yang HJ. Multi-
+omics reveals Dengzhan Shengmai formulation ameliorates cognitive impairments in
+D-galactose-induced aging mouse model by regulating CXCL12/CXCR4 and gut
+microbiota. Front Pharmacol. 2023 Apr 10;14:1175970. doi:
+10.3389/fphar.2023.1175970. PMID: 37101548; PMCID: PMC10123283.
+
+241: Caci B, D'Amico A, Cardaci M. New frontiers for psychology and education:
+robotics. Psychol Rep. 2004 Jun;94(3 Pt 2):1372-4. doi:
+10.2466/pr0.94.3c.1372-1374. PMID: 15362418.
+
+242: Bekele E, Crittendon JA, Swanson A, Sarkar N, Warren ZE. Pilot clinical
+application of an adaptive robotic system for young children with autism.
+Autism. 2014 Jul;18(5):598-608. doi: 10.1177/1362361313479454. Epub 2013 Oct 8.
+PMID: 24104517; PMCID: PMC3980197.
+
+243: Fields N, Xu L, Greer J, Murphy E. Shall I compare thee…to a robot? An
+exploratory pilot study using participatory arts and social robotics to improve
+psychological well-being in later life. Aging Ment Health. 2021
+Mar;25(3):575-584. doi: 10.1080/13607863.2019.1699016. Epub 2019 Dec 18. PMID:
+31851830.
+
+244: Pasciuto F, Cava A, Falzone A. The Potential Use of Sex Robots in Adults
+with Autistic Spectrum Disorders: A Theoretical Framework. Brain Sci. 2023 Jun
+15;13(6):954. doi: 10.3390/brainsci13060954. PMID: 37371432; PMCID: PMC10296312.
+
+245: Xavier J, Zhou B, Bilan F, Zhang X, Gilbert-Dussardier B, Viaux-Savelon S,
+Pattni R, Ho SS, Cohen D, Levinson DF, Urban AE, Laurent-Levinson C. 1q21.1
+microduplication: large verbal-nonverbal performance discrepancy and ddPCR
+assays of HYDIN/HYDIN2 copy number. NPJ Genom Med. 2018 Aug 22;3:24. doi:
+10.1038/s41525-018-0059-2. PMID: 30155272; PMCID: PMC6105585.
+
+246: Rinne P, Mace M, Nakornchai T, Zimmerman K, Fayer S, Sharma P, Liardon JL,
+Burdet E, Bentley P. Democratizing Neurorehabilitation: How Accessible are Low-
+Cost Mobile-Gaming Technologies for Self-Rehabilitation of Arm Disability in
+Stroke? PLoS One. 2016 Oct 5;11(10):e0163413. doi: 10.1371/journal.pone.0163413.
+PMID: 27706248; PMCID: PMC5051962.
+
+247: Grynszpan O, Weiss PL, Perez-Diaz F, Gal E. Innovative technology-based
+interventions for autism spectrum disorders: a meta-analysis. Autism. 2014
+May;18(4):346-61. doi: 10.1177/1362361313476767. Epub 2013 Oct 3. PMID:
+24092843.
+
+248: Kumazaki H, Muramatsu T, Yoshikawa Y, Matsumoto Y, Ishiguro H, Mimura M,
+Kikuchi M. Role-Play-Based Guidance for Job Interviews Using an Android Robot
+for Individuals With Autism Spectrum Disorders. Front Psychiatry. 2019 Apr
+11;10:239. doi: 10.3389/fpsyt.2019.00239. PMID: 31031664; PMCID: PMC6470286.
+
+249: Stratmann P, Albu-Schäffer A, Jörntell H. Scaling Our World View: How
+Monoamines Can Put Context Into Brain Circuitry. Front Cell Neurosci. 2018 Dec
+20;12:506. doi: 10.3389/fncel.2018.00506. PMID: 30618646; PMCID: PMC6307502.
+
+250: Nemy M, Cedres N, Grothe MJ, Muehlboeck JS, Lindberg O, Nedelska Z,
+Stepankova O, Vyslouzilova L, Eriksdotter M, Barroso J, Teipel S, Westman E,
+Ferreira D. Cholinergic white matter pathways make a stronger contribution to
+attention and memory in normal aging than cerebrovascular health and nucleus
+basalis of Meynert. Neuroimage. 2020 May 1;211:116607. doi:
+10.1016/j.neuroimage.2020.116607. Epub 2020 Feb 6. PMID: 32035186.
+
+251: Smyrnakis I, Andreadakis V, Selimis V, Kalaitzakis M, Bachourou T,
+Kaloutsakis G, Kymionis GD, Smirnakis S, Aslanides IM. RADAR: A novel fast-
+screening method for reading difficulties with special focus on dyslexia. PLoS
+One. 2017 Aug 11;12(8):e0182597. doi: 10.1371/journal.pone.0182597. PMID:
+28800632; PMCID: PMC5553666.
+
+252: Pandian V, Leeper WR, Jones C, Pugh K, Yenokyan G, Bowyer M, Haut ER.
+Comparison of surgical cricothyroidotomy training: a randomized controlled trial
+of a swine model versus an animated robotic manikin model. Trauma Surg Acute
+Care Open. 2020 Apr 26;5(1):e000431. doi: 10.1136/tsaco-2019-000431. PMID:
+32399492; PMCID: PMC7204537.
+
+253: Vicente-Samper JM, Tamantini C, Ávila-Navarro E, De La Casa-Lillo MÁ, Zollo
+L, Sabater-Navarro JM, Cordella F. An ML-Based Approach to Reconstruct Heart
+Rate from PPG in Presence of Motion Artifacts. Biosensors (Basel). 2023 Jul
+7;13(7):718. doi: 10.3390/bios13070718. PMID: 37504116; PMCID: PMC10377343.
+
+254: Tartamella F, Chillura A, Pisano MF, Cacioppo A, Licari S, Caradonna D,
+Portaro S, Calabrò RS, Bramanti P, Naro A. A case report on intensive, robot-
+assisted rehabilitation program for brainstem radionecrosis. Medicine
+(Baltimore). 2020 Mar;99(10):e19517. doi: 10.1097/MD.0000000000019517. PMID:
+32150113; PMCID: PMC7478746.
+
+255: Pérez-Fuster P, Herrera G, Kossyvaki L, Ferrer A. Enhancing Joint Attention
+Skills in Children on the Autism Spectrum through an Augmented Reality
+Technology-Mediated Intervention. Children (Basel). 2022 Feb 14;9(2):258. doi:
+10.3390/children9020258. PMID: 35204977; PMCID: PMC8870736.
+
+256: Yi J, Zou Y. Health Index Monitoring of Sports Injury Rehabilitation
+Training Based on Wearable Sensors. J Healthc Eng. 2021 Sep 29;2021:6302991.
+doi: 10.1155/2021/6302991. Retraction in: J Healthc Eng. 2023 Jul
+19;2023:9891653. PMID: 34630992; PMCID: PMC8494546.
+
+257: Schut EHS, Alonso A, Smits S, Khamassi M, Samanta A, Negwer M, Kasri NN,
+Navarro Lobato I, Genzel L. The Object Space Task reveals increased expression
+of cumulative memory in a mouse model of Kleefstra syndrome. Neurobiol Learn
+Mem. 2020 Sep;173:107265. doi: 10.1016/j.nlm.2020.107265. Epub 2020 Jun 9. PMID:
+32531423.
+
+258: Doğan S, Çolak A. Social robots in the instruction of social skills in
+autism: a comprehensive descriptive analysis of single-case experimental
+designs. Disabil Rehabil Assist Technol. 2022 Jun 26:1-20. doi:
+10.1080/17483107.2022.2087772. Epub ahead of print. PMID: 35758001.
+
+259: Jøranson N, Pedersen I, Rokstad AM, Ihlebæk C. Effects on Symptoms of
+Agitation and Depression in Persons With Dementia Participating in Robot-
+Assisted Activity: A Cluster-Randomized Controlled Trial. J Am Med Dir Assoc.
+2015 Oct 1;16(10):867-73. doi: 10.1016/j.jamda.2015.05.002. Epub 2015 Jun 18.
+PMID: 26096582.
+
+260: Leo A, De Luca R, Russo M, Naro A, Bramanti P, Calabrò RS. Role of tDCS in
+potentiating poststroke computerized cognitive rehabilitation: Lessons learned
+from a case study. Appl Neuropsychol Adult. 2016;23(3):162-6. doi:
+10.1080/23279095.2015.1027344. Epub 2015 Oct 27. PMID: 26506950.
+
+261: Lancioni GE, Oliva D, Signorino M. Promoting ambulation and object
+manipulation in persons with multiple handicaps through the use of a robot.
+Percept Mot Skills. 1994 Oct;79(2):843-8. doi: 10.2466/pms.1994.79.2.843. PMID:
+7870509.
+
+262: Kumazaki H, Warren Z, Muramatsu T, Yoshikawa Y, Matsumoto Y, Miyao M,
+Nakano M, Mizushima S, Wakita Y, Ishiguro H, Mimura M, Minabe Y, Kikuchi M. A
+pilot study for robot appearance preferences among high-functioning individuals
+with autism spectrum disorder: Implications for therapeutic use. PLoS One. 2017
+Oct 13;12(10):e0186581. doi: 10.1371/journal.pone.0186581. PMID: 29028837;
+PMCID: PMC5640226.
+
+263: Wu YH, Wrobel J, Cornuet M, Kerhervé H, Damnée S, Rigaud AS. Acceptance of
+an assistive robot in older adults: a mixed-method study of human-robot
+interaction over a 1-month period in the Living Lab setting. Clin Interv Aging.
+2014 May 8;9:801-11. doi: 10.2147/CIA.S56435. PMID: 24855349; PMCID: PMC4020879.
+
+264: Huskens B, Palmen A, Van der Werff M, Lourens T, Barakova E. Improving
+Collaborative Play Between Children with Autism Spectrum Disorders and Their
+Siblings: The Effectiveness of a Robot-Mediated Intervention Based on Lego®
+Therapy. J Autism Dev Disord. 2015 Nov;45(11):3746-55. doi:
+10.1007/s10803-014-2326-0. PMID: 25428293.
+
+265: Hee HI, Ng KL, Cruz MS, Tan A, Yu H. IMOVE-An Intuitive Concept Mobility
+Systems for Perioperative Transfer and Induction of Anaesthesia for Special
+Needs Children. Sensors (Basel). 2020 Aug 30;20(17):4901. doi:
+10.3390/s20174901. PMID: 32872602; PMCID: PMC7506866.
+
+266: Abellaneda-Pérez K, Martin-Trias P, Cassé-Perrot C, Vaqué-Alcázar L,
+Lanteaume L, Solana E, Babiloni C, Lizio R, Junqué C, Bargalló N, Rossini PM,
+Micallef J, Truillet R, Charles E, Jouve E, Bordet R, Santamaria J, Rossi S,
+Pascual-Leone A, Blin O, Richardson J, Jovicich J, Bartrés-Faz D. BDNF Val66Met
+gene polymorphism modulates brain activity following rTMS-induced memory
+impairment. Sci Rep. 2022 Jan 7;12(1):176. doi: 10.1038/s41598-021-04175-x.
+Erratum in: Sci Rep. 2022 Jan 17;12(1):1171. PMID: 34997117; PMCID: PMC8741781.
+
+267: Gidley Larson JC, Bastian AJ, Donchin O, Shadmehr R, Mostofsky SH.
+Acquisition of internal models of motor tasks in children with autism. Brain.
+2008 Nov;131(Pt 11):2894-903. doi: 10.1093/brain/awn226. Epub 2008 Sep 26. PMID:
+18819989; PMCID: PMC2577807.
+
+268: Palsbo SE, Hood-Szivek P. Effect of robotic-assisted three-dimensional
+repetitive motion to improve hand motor function and control in children with
+handwriting deficits: a nonrandomized phase 2 device trial. Am J Occup Ther.
+2012 Nov-Dec;66(6):682-90. doi: 10.5014/ajot.2012.004556. PMID: 23106988.
+
+269: Jain S, Thiagarajan B, Shi Z, Clabaugh C, Matarić MJ. Modeling engagement
+in long-term, in-home socially assistive robot interventions for children with
+autism spectrum disorders. Sci Robot. 2020 Feb 26;5(39):eaaz3791. doi:
+10.1126/scirobotics.aaz3791. PMID: 33022604.
+
+270: Okamoto Y, Kitada R, Tanabe HC, Hayashi MJ, Kochiyama T, Munesue T,
+Ishitobi M, Saito DN, Yanaka HT, Omori M, Wada Y, Okazawa H, Sasaki AT, Morita
+T, Itakura S, Kosaka H, Sadato N. Attenuation of the contingency detection
+effect in the extrastriate body area in autism spectrum disorder. Neurosci Res.
+2014 Oct;87:66-76. doi: 10.1016/j.neures.2014.06.012. Epub 2014 Jul 24. PMID:
+25066523.
+
+271: Kaboski JR, Diehl JJ, Beriont J, Crowell CR, Villano M, Wier K, Tang K.
+Brief Report: A Pilot Summer Robotics Camp to Reduce Social Anxiety and Improve
+Social/Vocational Skills in Adolescents with ASD. J Autism Dev Disord. 2015
+Dec;45(12):3862-9. doi: 10.1007/s10803-014-2153-3. PMID: 24898910.
+
+272: Idzinga JC, de Jong AL, van den Bemt PM. The effect of an intervention
+aimed at reducing errors when administering medication through enteral feeding
+tubes in an institution for individuals with intellectual disability. J
+Intellect Disabil Res. 2009 Nov;53(11):932-8. doi:
+10.1111/j.1365-2788.2009.01212.x. Epub 2009 Sep 9. PMID: 19744260.
+
+273: Jouen AL, Narzisi A, Xavier J, Tilmont E, Bodeau N, Bono V, Ketem-Premel N,
+Anzalone S, Maharatna K, Chetouani M, Muratori F, Cohen D; MICHELANGELO Study
+Group. GOLIAH (Gaming Open Library for Intervention in Autism at Home): a
+6-month single blind matched controlled exploratory study. Child Adolesc
+Psychiatry Ment Health. 2017 Mar 22;11:17. doi: 10.1186/s13034-017-0154-7. PMID:
+28344643; PMCID: PMC5361849.
+
+274: Faucounau V, Wu YH, Boulay M, Maestrutti M, Rigaud AS. Caregivers'
+requirements for in-home robotic agent for supporting community-living elderly
+subjects with cognitive impairment. Technol Health Care. 2009;17(1):33-40. doi:
+10.3233/THC-2009-0537. PMID: 19478403.
+
+275: Pioggia G, Igliozzi R, Ferro M, Ahluwalia A, Muratori F, De Rossi D. An
+android for enhancing social skills and emotion recognition in people with
+autism. IEEE Trans Neural Syst Rehabil Eng. 2005 Dec;13(4):507-15. doi:
+10.1109/TNSRE.2005.856076. PMID: 16425833.
+
+276: Feng S, Wang X, Wang Q, Fang J, Wu Y, Yi L, Wei K. The uncanny valley
+effect in typically developing children and its absence in children with autism
+spectrum disorders. PLoS One. 2018 Nov 1;13(11):e0206343. doi:
+10.1371/journal.pone.0206343. PMID: 30383848; PMCID: PMC6211702.
+
+277: Yoshikawa Y, Muramatsu T, Sakai K, Haraguchi H, Kudo A, Ishiguro H, Mimura
+M, Kumazaki H. A new group-based online job interview training program using
+computer graphics robots for individuals with autism spectrum disorders. Front
+Psychiatry. 2023 Jul 3;14:1198433. doi: 10.3389/fpsyt.2023.1198433. PMID:
+37465254; PMCID: PMC10350627.
+
+278: Schupp W. DGRW-Update: Neurologie--Von empirischen Strategien hin zu
+evidenzbasierten Interventionen [DGRW-update: neurology--from empirical
+strategies towards evidence based interventions]. Rehabilitation (Stuttg). 2011
+Dec;50(6):354-62. German. doi: 10.1055/s-0031-1285916. Epub 2011 Dec 1. PMID:
+22134865.
+
+279: Kumazaki H, Warren Z, Swanson A, Yoshikawa Y, Matsumoto Y, Yoshimura Y,
+Shimaya J, Ishiguro H, Sarkar N, Wade J, Mimura M, Minabe Y, Kikuchi M. Brief
+Report: Evaluating the Utility of Varied Technological Agents to Elicit Social
+Attention from Children with Autism Spectrum Disorders. J Autism Dev Disord.
+2019 Apr;49(4):1700-1708. doi: 10.1007/s10803-018-3841-1. PMID: 30511126; PMCID:
+PMC6450844.
+
+280: Breazeal C. Role of expressive behaviour for robots that learn from people.
+Philos Trans R Soc Lond B Biol Sci. 2009 Dec 12;364(1535):3527-38. doi:
+10.1098/rstb.2009.0157. PMID: 19884147; PMCID: PMC2781892.
+
+281: Smith MJ, Mitchell JA, Blajeski S, Parham B, Harrington MM, Ross B, Sinco
+B, Brydon DM, Johnson JE, Cuddeback GS, Smith JD, Jordan N, Bell MD, McGeorge R,
+Kaminski K, Suganuma A, Kubiak SP. Enhancing vocational training in corrections:
+A type 1 hybrid randomized controlled trial protocol for evaluating virtual
+reality job interview training among returning citizens preparing for community
+re-entry. Contemp Clin Trials Commun. 2020 Jun 29;19:100604. doi:
+10.1016/j.conctc.2020.100604. PMID: 32671283; PMCID: PMC7339026.
+
+282: Robotham D, King M, Canagasabey A, Inchley-Mort S, Hassiotis A. Social
+validity of randomised controlled trials in health services research and
+intellectual disabilities: a qualitative exploration of stakeholder views.
+Trials. 2011 Jun 9;12:144. doi: 10.1186/1745-6215-12-144. PMID: 21658215; PMCID:
+PMC3135548.
+
+283: Samadani AA, Moussavi Z. The effect of aging on human brain spatial
+processing performance. Annu Int Conf IEEE Eng Med Biol Soc. 2012;2012:6768-71.
+doi: 10.1109/EMBC.2012.6347548. PMID: 23367483.
