@@ -1,0 +1,257 @@
+<Question> 
+ In this study, did authors aim at developing or evaluating Social Cognition skills (such as symbolic play, imitation, joint attention, visual perspective-taking, mentalizing skills, facial expression recognition, gesture recognition, body language interpretation) ?
+
+<All Answers to this Question>
+
+Final answers statistics: A total of 50 papers answered yes to this question,  whereas 46 papers answered no. Here is the information of the papers that answered yes: 
+
+
+###
+Citation: (Scassellati, 2018) 
+Paper title: In-home Robots Improve Social Skills in Children With Autism 
+Answer:Yes. The study focused on improving joint attention, which is a social cognition skill.
+
+###
+Citation: (Abdelmohsen & Arafa, 2021) 
+Paper title: Training Social Skills of Children with ASD Through Social Virtual Robot 
+Answer:Yes. The study included training on gesture recognition and production, which relates to social cognition skills.
+
+###
+Citation: (Valadao et al., 2016) 
+Paper title: Analysis of the use of a robot to improve social skills in children with autism spectrum disorder 
+Answer:Yes. The study aimed to evaluate imitation skills in children with autism spectrum disorder.
+
+###
+Citation: (Alnajjar et al., 2021) 
+Paper title: Personalized Robot Interventions for Autistic Children: An Automated Methodology for Attention Assessment 
+Answer:Yes. The system included activities to develop joint attention and other social cognition skills.
+
+###
+Citation: (Boccanfuso et al., 2016) 
+Paper title: Emotional Robot to Examine Different Play Patterns and Affective Responses of Children with and without ASD 
+Answer:Yes. The study evaluated social cognition skills by examining responses to the robot's simulated emotions and facial expressions.
+
+###
+Citation: (Bonarini et al., 2014) 
+Paper title: Integrating Human-Robot and Motion-Based Touchless Interaction for Children with Intellectual Disability 
+Answer:Yes. The study mentions developing social cognition skills like imitation.
+
+###
+Citation: (Bonarini et al., 2016) 
+Paper title: Playful interaction with Teo, a Mobile Robot for Children with Neurodevelopmental Disorders 
+Answer:Yes. The authors aimed to develop social cognition skills such as facial expression recognition through activities like personalizing Teo's face.
+
+###
+Citation: (Brivio et al., 2021) 
+Paper title: A soft, mobile, autonomous robot to develop skills through play in autistic children 
+Answer:Yes. The robot was used for activities to develop social cognition skills like facial expression recognition.
+
+###
+Citation: (Carlson et al., 2018) 
+Paper title: Training Autistic Children on Joint Attention Skills with a Robot 
+Answer:Yes. The study focused on developing joint attention skills, which are considered a social cognition skill.
+
+###
+Citation: (Charron et al., 2017) 
+Paper title: A Robotic Therapy Case Study: Developing Joint Attention Skills With a Student on the Autism Spectrum 
+Answer:Yes. The study focused on developing joint attention skills, which are a form of social cognition.
+
+###
+Citation: (Conti et al., 2020) 
+Paper title: An empirical study on integrating a small humanoid robot to support the therapy of children with Autism Spectrum Disorder and Intellectual Disability 
+Answer:Yes. The study aimed to develop and evaluate social cognition skills, specifically imitation abilities.
+
+###
+Citation: (Costa et al., 2014) 
+Paper title: Building a Game Scenario to Encourage Children with Autism to Recognize and Label Emotions using a Humanoid Robot 
+Answer:Yes. The study aimed to develop social cognition skills, specifically facial expression recognition, in children with ASD.
+
+###
+Citation: (Filiou, 2022) 
+Paper title: Robotics and cbt and entertainment in the enhancement of children with asd, mental disorders, dysfunctional emotions and irrational beliefs 
+Answer:Yes. The paper mentions using robots to develop social cognition skills like joint attention and facial expression recognition in children with ASD.
+
+###
+Citation: (Giannopulu, 2013) 
+Paper title: Multimodal Cognitive Nonverbal and Verbal Interactions: the Neurorehabilitation of Autistic Children Via Mobile Toy Robots 
+Answer:Yes. The study aimed to develop social cognition skills such as imitation and joint attention in autistic children through interactions with mobile toy robots.
+
+###
+Citation: (Tobar et al., 2021) 
+Paper title: KERO-Playable Robotic Platform to Contribute to Non-verbal Communication Teaching in Children with Autism Spectrum Disorder 
+Answer:Yes. The study aimed to develop social cognition skills like gesture recognition and facial expression recognition through games with the robot.
+
+###
+Citation: (Kajopoulos et al., 2015) 
+Paper title: Robot-Assisted Training of Joint Attention Skills in Children Diagnosed with Autism 
+Answer:Yes. The study aimed at developing responding to joint attention (RJA) skills, which are considered part of social cognition.
+
+###
+Citation: (Kim et al., 2021) 
+Paper title: Smiles as a Signal of Prosocial Behaviors Toward the Robot in the Therapeutic Setting for Children With Autism Spectrum Disorder 
+Answer:Yes. The study aimed at developing social cognition skills such as facial expression recognition in children with autism spectrum disorder.
+
+###
+Citation: (Lebersfeld et al., 2018) 
+Paper title: The socially animated machine (SAM) robot: A social skills intervention for children with autism spectrum disorder 
+Answer:Yes. The study measured facial recognition and emotion identification as outcomes.
+
+###
+Citation: (Lee et al., 2013) 
+Paper title: Robotic System for Eye Contact Training of Children with Autism 
+Answer:Yes. The study focused on eye contact training, which is an aspect of social cognition.
+
+###
+Citation: (Li et al., 2020) 
+Paper title: Non-Participatory User-Centered Design of Accessible Teacher-Teleoperated Robot and Tablets for Minimally Verbal Autistic Children 
+Answer:Yes. The study aimed to develop activities for teaching facial expression recognition to minimally verbal autistic children.
+
+###
+Citation: (Marathaki et al., 2022) 
+Paper title: Deploy Social Assistive Robot to develop symbolic play and imitation skills in students with Autism Spectrum Disorder 
+Answer:Yes. The study aimed to improve symbolic play and imitation skills in children with ASD through interaction with a NAO robot.
+
+###
+Citation: (Marino et al., 2020) 
+Paper title: Outcomes of a Robot-Assisted Social-Emotional Understanding Intervention for Young Children with Autism Spectrum Disorders 
+Answer:Yes. The study aimed to develop social cognition skills such as emotional perspective-taking and mentalizing skills.
+
+###
+Citation: (Mavadati et al., 2014) 
+Paper title: Comparing the Gaze Responses of Children with Autism and Typically Developed Individuals in Human-Robot Interaction 
+Answer:Yes. The study examined gaze patterns and eye contact, which are aspects of social cognition.
+
+###
+Citation: (Miskam et al., 2013) 
+Paper title: Study on Social Interaction between Children with Autism and Humanoid Robot NAO 
+Answer:Yes. The study included activities for children to recognize emotions and gestures performed by the NAO robot.
+
+###
+Citation: (Nie et al., 2018) 
+Paper title: Predicting response to joint attention performance in human-human interaction based on human-robot interaction for young children with autism spectrum disorder 
+Answer:Yes. The study focused on response to joint attention (RJA), which is a social cognition skill involving following another's gaze and gestures.
+
+###
+Citation: (Santos et al., 2023) 
+Paper title: Applications of Robotics for Autism Spectrum Disorder: a Scoping Review 
+Answer:Yes. The review discusses studies focused on improving social cognition skills like joint attention and facial expression recognition in individuals with autism.
+
+###
+Citation: (Peng et al., 2018) 
+Paper title: Music Play Using a Vibraphone with a Humanoid Robot as Interaction Training for Autistic Children 
+Answer:Yes. The study aimed to develop social cognition skills like imitation in autistic children.
+
+###
+Citation: (Qidwai & Shakir, 2013) 
+Paper title: Robotic Toys for Autistic Children: Innovative tools for teaching and treatment 
+Answer:Yes, authors aimed at developing imitation skills through mimicking activities with the robot
+
+###
+Citation: (Qidwai et al., 2019) 
+Paper title: Humanoid Robot as a Teacher's Assistant: Helping Children with Autism to Learn Social and Academic Skills 
+Answer:Yes, the study included imitation coordination and recognition abilities
+
+###
+Citation: (Rakhymbayeva & Sandygulova, 2021) 
+Paper title: Transfer Learning of Engagement Recognition within Robot-Assisted Therapy for Children with Autism 
+Answer:Yes, the study analyzes behavioral cues including eye gaze, hand gestures, expressions, and body posture
+
+###
+Citation: Robles-Bykbaev et al., 2018 
+Paper title: A Hybrid Approach Based on Multi-sensory Stimulation Rooms, Robotic Assistants and Ontologies to Provide Support in the Intervention of Children with Autism 
+Answer:Yes, the system incorporated visual perspective-taking and recognition activities through pictogram panels and interactive components
+
+###
+Citation: (Sakka & Gaboriau, 2017) 
+Paper title: A Robotic 'Puppet Master' Application to ASD Therapeutic Support 
+Answer:Yes, the study worked on social cognition through interactive storytelling and role-playing with robots
+
+###
+Citation: Sandygulova et al., 2019 
+Paper title: Interaction design and methodology of robot-assisted therapy for children with severe ASD and ADHD 
+Answer:Yes, authors developed applications for facial expression recognition, imitation, and joint attention
+
+###
+Citation: (Sartorato et al., 2017) 
+Paper title: Improving therapeutic outcomes in autism spectrum disorders: Enhancing social communication and sensory processing through the use of interactive robots 
+Answer:Yes, authors aimed at developing social cognition skills including facial expression recognition, gesture recognition and imitation
+
+###
+Citation: (Scassellati et al., 2018) 
+Paper title: Improving social skills in children with ASD using a long-term, in-home social robot 
+Answer:Yes, the study targeted perspective-taking through barrier games like 'Rocket' and 'House'
+
+###
+Citation: (Silva et al., 2023) 
+Paper title: Social Stories for Promoting Social Communication with Children with Autism Spectrum Disorder Using a Humanoid Robot: Step-by-Step Study 
+Answer:Yes, the study aimed to develop facial expression recognition and interpretation through storytelling scenarios and robot interactions
+
+###
+Citation: (Taheri et al., 2016) 
+Paper title: Social Robots and Teaching Music to Autistic Children: Myth or Reality? 
+Answer:Yes, the study aimed to improve imitation skills through robot-child imitation games
+
+###
+Citation: Taheri et al., 2019 
+Paper title: Teaching music to children with autism: A social robotics challenge 
+Answer:Yes, authors aimed to improve imitation and joint attention skills through robot-assisted music activities
+
+###
+Citation: (Taheri et al., 2018) 
+Paper title: Human-Robot Interaction in Autism Treatment: A Case Study on Three Pairs of Autistic Children as Twins, Siblings, and Classmates 
+Answer:Yes, authors evaluated joint attention, imitation, and facial recognition through robot-assisted activities
+
+###
+Citation: (Tartarisco et al., 2022) 
+Paper title: Exploring behavioural and physiological interactions in a group-based emotional skill social robotic training for autism spectrum disorders 
+Answer:Yes, the study involved facial expression recognition and emotional comprehension tasks using QTrobot's animated faces
+
+###
+Citation: Tobar et al., 2021 
+Paper title: Portable Robotic Modular Kit for Teaching Gestures in Children with ASD 
+Answer:Yes, the study focused on teaching gesture recognition and imitation through a modular robot
+
+###
+Citation: (Tuna, 2022) 
+Paper title: Inclusive Education for Young Children with Autism Spectrum Disorder: Use of Humanoid Robots and Virtual Agents to Alleviate Symptoms and Improve Skills, and A Pilot Study 
+Answer:Yes, the study focused on symbolic play skills and imitation abilities
+
+###
+Citation: Welch et al., 2023 
+Paper title: Using Physiological Signals and Machine Learning Algorithms to Measure Attentiveness During Robot-Assisted Social Skills Intervention: A Case Study of Two Children with Autism Spectrum Disorder 
+Answer:Yes, authors evaluated gesture interpretation and joint attention skills
+
+###
+Citation: (Wood et al., 2017) 
+Paper title: Developing Child-Robot Interaction Scenarios with a Humanoid Robot to Assist Children with Autism in Developing Visual Perspective Taking Skills 
+Answer:Yes, the study focused on visual perspective taking skills including understanding others' viewpoints and perspectives
+
+###
+Citation: (Wood et al., 2019) 
+Paper title: Developing a protocol and experimental setup for using a humanoid robot to assist children with autism to develop visual perspective taking skills 
+Answer:Yes, the study aimed to develop visual perspective taking (VPT) skills in children with autism using a humanoid robot. VPT involves understanding what others can see from their perspective, including facial expressions and body language interpretation
+
+###
+Citation: (Yin & Tung, 2013) 
+Paper title: Design and Evaluation of Applying Robots to Assisting and Inducing Children with Autism in Social Interaction 
+Answer:Yes, the study involved imitation activities and physical instructions games
+
+###
+Citation: Yun et al., 2014 
+Paper title: A Robotic Treatment Approach to promote Social Interaction Skills for Children with Autism Spectrum Disorders 
+Answer:Yes, authors focused on eye contact, facial recognition and gaze behavior
+
+###
+Citation: (Yun et al., 2016) 
+Paper title: Robotic Behavioral Intervention to Facilitate Eye Contact and Reading Emotions of Children with Autism Spectrum Disorders 
+Answer:Yes, authors aimed at developing facial expression recognition and visual perspective-taking through eye contact training
+
+###
+Citation: (Zhanatkyzy et al., 2020) 
+Paper title: Quantitative Results of Robot-Assisted Therapy for Children with Autism, ADHD and Delayed Speech Development 
+Answer:Yes, the study measured eye contact duration and compliance to robot instructions
+
+###
+Citation: (Simlesa et al., 2022) 
+Paper title: Imitation, focus of attention and social behaviours of children with autism spectrum disorder in interaction with robots 
+Answer:Yes, the study aimed at evaluating imitation and social cognition skills through imitation tasks and analysis of social behaviors including gaze direction and joint attention

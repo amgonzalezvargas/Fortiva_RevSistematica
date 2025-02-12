@@ -1,0 +1,162 @@
+<Question> 
+ To gather the results of this study, did authors use Standardized Assessment Tools (such as Test of Emotional Comprehension (TEC) scores, Emotional Lexicon Test (ELT) results, Childhood Autism Spectrum Test (CAST) scores, Social Responsiveness Scale (SRS) measurements, )
+
+<All Answers to this Question>
+
+Final answers statistics: A total of 31 papers answered yes to this question,  whereas 65 papers answered no. Here is the information of the papers that answered yes: 
+
+
+###
+Citation: (Scassellati, 2018) 
+Paper title: In-home Robots Improve Social Skills in Children With Autism 
+Answer:Yes. The study used a standard test of joint attention ability.
+
+###
+Citation: (Alnajjar et al., 2021) 
+Paper title: Personalized Robot Interventions for Autistic Children: An Automated Methodology for Attention Assessment 
+Answer:Yes. The study used standardized assessment tools like the Childhood Autism Rating Scale (CARS2).
+
+###
+Citation: (Bharatharaj et al., 2017) 
+Paper title: Robot-Assisted Therapy for Learning and Social Interaction of Children with Autism Spectrum Disorder 
+Answer:Yes. The study used the Childhood Autism Spectrum Test (CAST) to evaluate autism symptoms.
+
+###
+Citation: (Bharatharaj et al., 2016) 
+Paper title: Effects of Adapted Model-Rival Method and Parrot-Inspired Robot in improving Learning and Social Interaction among Children with Autism 
+Answer:Yes. The study used the Childhood Autism Spectrum Test (CAST) for participant screening.
+
+###
+Citation: (Bharatharaj et al., 2018) 
+Paper title: Social engagement of children with autism spectrum disorder in interaction with a parrot-inspired therapeutic robot 
+Answer:Yes. The study used the Childhood Autism Spectrum Test (CAST) questionnaire.
+
+###
+Citation: (Boccanfuso et al., 2016) 
+Paper title: Emotional Robot to Examine Different Play Patterns and Affective Responses of Children with and without ASD 
+Answer:Yes. The study used standardized assessment tools including the Mullen Scales of Early Learning and Autism Diagnostic Observation Schedule.
+
+###
+Citation: (Carlson et al., 2018) 
+Paper title: Training Autistic Children on Joint Attention Skills with a Robot 
+Answer:Yes. The study used the Early Social Communications Scale (ESCS) to assess joint attention skills.
+
+###
+Citation: (Casellato et al., 2017) 
+Paper title: Robotic Set-Up to Quantify Hand-Eye Behavior in Motor Execution and Learning of Children with Autism Spectrum Disorder 
+Answer:Yes: The study used a digitalized version of the NEPSY-II visuo-motor precision subtest.
+
+###
+Citation: (Cervera et al., n.d.) 
+Paper title: Playful Interaction with Humanoid Robots for Social Development in Autistic Children: a Pilot Study 
+Answer:Yes. The study used the Battelle Developmental Inventory to assess children's development.
+
+###
+Citation: (Chevalier et al., n.d.) 
+Paper title: "iCub says: Do my motor sounds disturb you?" Motor Sounds and Imitation with a Robot for Children with Autism Spectrum Disorder 
+Answer:Yes. The study used the Short Sensory Profile (SSP) assessment tool.
+
+###
+Citation: (Conti et al., 2020) 
+Paper title: An empirical study on integrating a small humanoid robot to support the therapy of children with Autism Spectrum Disorder and Intellectual Disability 
+Answer:Yes. The study used the standardized VB-MAPP assessment tool.
+
+###
+Citation: (De Korte et al., 2020) 
+Paper title: Self-initiations in young children with autism during Pivotal Response Treatment with and without robot assistance 
+Answer:Yes. The study used the Social Responsiveness Scale (SRS) to measure general social-communicative skills.
+
+###
+Citation: (Giannopulu, 2013) 
+Paper title: Embedded Multimodal Nonverbal and Verbal Interactions Between a Mobile Toy Robot and Autistic Children 
+Answer:Yes. The Childhood Autism Rating Scale had been administered previously to diagnose the participants.
+
+###
+Citation: (Che Hamid et al., 2013) 
+Paper title: Human-Robot Interaction (HRI) For Children with Autism to Augment Communication Skills 
+Answer:Yes. The study used items from the Gilliam Autism Rating Scale: Second Edition (GARS-2) to assess behaviors.
+
+###
+Citation: (Kajopoulos et al., 2015) 
+Paper title: Robot-Assisted Training of Joint Attention Skills in Children Diagnosed with Autism 
+Answer:Yes. The study used the Early Social Communication Scale (ESCS) to assess joint attention skills.
+
+###
+Citation: (Lee et al., 2014) 
+Paper title: Enhancement of the Communication Effectiveness of Interactive Robots for Autism Therapy by Using Touch and Colour Feedback 
+Answer:Yes. The study used the Social Responsiveness Scale (SRS) to evaluate the level of impairment of the autistic participants.
+
+###
+Citation: (Marathaki et al., 2022) 
+Paper title: Deploy Social Assistive Robot to develop symbolic play and imitation skills in students with Autism Spectrum Disorder 
+Answer:Yes. The study used the C.A.R.S. scale to assess autism severity.
+
+###
+Citation: (Marino et al., 2020) 
+Paper title: Outcomes of a Robot-Assisted Social-Emotional Understanding Intervention for Young Children with Autism Spectrum Disorders 
+Answer:Yes. The study used the Test of Emotional Comprehension (TEC) and Emotional Lexicon Test (ELT).
+
+###
+Citation: (Miskam et al., 2013) 
+Paper title: Study on Social Interaction between Children with Autism and Humanoid Robot NAO 
+Answer:Yes. The study used items from the Gilliam Autism Rating Scale (GARS-2) to assess behaviors.
+
+###
+Citation: (Nie et al., 2018) 
+Paper title: Predicting response to joint attention performance in human-human interaction based on human-robot interaction for young children with autism spectrum disorder 
+Answer:Yes. The study used the Early Social-Communication Scales (ESCS) test to assess joint attention skills.
+
+###
+Citation: (Santos et al., 2023) 
+Paper title: Applications of Robotics for Autism Spectrum Disorder: a Scoping Review 
+Answer:Yes. The review mentions the use of standardized assessment tools like the Social Responsiveness Scale in some studies.
+
+###
+Citation: (Papadopoulou et al., 2022) 
+Paper title: Efficacy of a Robot-Assisted Intervention in Improving Learning Performance of Elementary School Children with Specific Learning Disorders 
+Answer:Yes. The study used standardized assessment tools including subtests from the Language Proficiency Criterion, Detroit Test of Learning Aptitude, and Kaufman Test of Educational Achievement.
+
+###
+Citation: Puyon & Giannopulu, 2013 
+Paper title: Emergent Emotional and Verbal Strategies in Autism are Based on Multimodal Interactions with Toy Robots in Free Spontaneous Game Play 
+Answer:Yes, they used the Childhood Autism Rating Scale (CARS)
+
+###
+Citation: (Taheri et al., 2016) 
+Paper title: Social Robots and Teaching Music to Autistic Children: Myth or Reality? 
+Answer:Yes, the study used GARS (Gilliam Autism Rating Scale) and Stambak's Rhythmic Structures Reproduction test
+
+###
+Citation: Taheri et al., 2019 
+Paper title: Teaching music to children with autism: A social robotics challenge 
+Answer:Yes, authors used standardized assessment tools including GARS and ASSP
+
+###
+Citation: (Taheri et al., 2018) 
+Paper title: Human-Robot Interaction in Autism Treatment: A Case Study on Three Pairs of Autistic Children as Twins, Siblings, and Classmates 
+Answer:Yes, authors used GARS and ASSP standardized assessment tools
+
+###
+Citation: (Tartarisco et al., 2022) 
+Paper title: Exploring behavioural and physiological interactions in a group-based emotional skill social robotic training for autism spectrum disorders 
+Answer:Yes, the study used Test of Emotional Comprehension (TEC) and Emotional Lexicon Test (ELT)
+
+###
+Citation: (Wood et al., 2017) 
+Paper title: Developing Child-Robot Interaction Scenarios with a Humanoid Robot to Assist Children with Autism in Developing Visual Perspective Taking Skills 
+Answer:Yes, the study used standardized tests like the Smarties test, Sally-Anne test and Charlie test
+
+###
+Citation: (Wood et al., 2019) 
+Paper title: Developing a protocol and experimental setup for using a humanoid robot to assist children with autism to develop visual perspective taking skills 
+Answer:Yes, standardized assessment tools were used including ADOS-2 and Leiter-3 tests
+
+###
+Citation: Zanatta et al. (2023) 
+Paper title: Combining robot-assisted therapy with virtual reality or using it alone? A systematic review on health-related quality of life in neurological patients 
+Answer:Yes, the study used standardized assessment tools including various quality of life measures like SF-36, MSQOL-54, PDQ-39 etc.
+
+###
+Citation: (Zhanatkyzy et al., 2020) 
+Paper title: Quantitative Results of Robot-Assisted Therapy for Children with Autism, ADHD and Delayed Speech Development 
+Answer:Yes, the study used ADOS-2 test scores

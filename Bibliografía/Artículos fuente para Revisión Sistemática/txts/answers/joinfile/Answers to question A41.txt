@@ -1,0 +1,237 @@
+<Question> 
+ In the results of this study, did authors report obtaining Communication Improvements (such as Improved communication effectiveness )
+
+<All Answers to this Question>
+
+Final answers statistics: A total of 46 papers answered yes to this question,  whereas 50 papers answered no. Here is the information of the papers that answered yes: 
+
+
+###
+Citation: (Valadao et al., 2016) 
+Paper title: Analysis of the use of a robot to improve social skills in children with autism spectrum disorder 
+Answer:Yes. The results showed improved communication effectiveness for some children with ASD, including verbal communication.
+
+###
+Citation: (Alnajjar et al., 2021) 
+Paper title: Personalized Robot Interventions for Autistic Children: An Automated Methodology for Attention Assessment 
+Answer:Yes. Parents reported improved communication effectiveness for some children.
+
+###
+Citation: (Attawibulkul et al., 2019) 
+Paper title: Using a Daily Routine Game on the BLISS Robot for Supporting Personal-Social Development in Children with Autism and Other Special Needs 
+Answer:Yes. The results indicated some improvement in language skills for some participants.
+
+###
+Citation: (Bharatharaj et al., 2017) 
+Paper title: Robot-Assisted Therapy for Learning and Social Interaction of Children with Autism Spectrum Disorder 
+Answer:Yes. The results suggested improved communication abilities in the children.
+
+###
+Citation: (Bonarini et al., 2016) 
+Paper title: Playful interaction with Teo, a Mobile Robot for Children with Neurodevelopmental Disorders 
+Answer:Yes. The results reported improved communication effectiveness.
+
+###
+Citation: (Brivio et al., 2021) 
+Paper title: A soft, mobile, autonomous robot to develop skills through play in autistic children 
+Answer:Yes. The authors reported improved communication effectiveness.
+
+###
+Citation: (Chaldi & Mantzanidou, 2021) 
+Paper title: IMPROVING LISTENER RESPONDING SKILL USING BEE-BOT® IN AUTISM SPECTRUM DISORDER: CASE STUDY 
+Answer:Yes. The study reported improvements in the child's listener responding skills.
+
+###
+Citation: (Charron et al., 2017) 
+Paper title: A Robotic Therapy Case Study: Developing Joint Attention Skills With a Student on the Autism Spectrum 
+Answer:Yes. The speech pathologist reported increased verbal production during robot therapy.
+
+###
+Citation: (De Korte et al., 2020) 
+Paper title: Self-initiations in young children with autism during Pivotal Response Treatment with and without robot assistance 
+Answer:Yes. The results showed improved communication effectiveness in both PRT groups.
+
+###
+Citation: (Filiou, 2022) 
+Paper title: Robotics and cbt and entertainment in the enhancement of children with asd, mental disorders, dysfunctional emotions and irrational beliefs 
+Answer:Yes. The paper reports improvements in communication effectiveness in children with ASD from robot interventions.
+
+###
+Citation: (Giannopulu, 2013) 
+Paper title: Embedded Multimodal Nonverbal and Verbal Interactions Between a Mobile Toy Robot and Autistic Children 
+Answer:Yes. The results showed increased expressive language use in the experimental phase.
+
+###
+Citation: (Giannopulu, 2013) 
+Paper title: Multimodal Cognitive Nonverbal and Verbal Interactions: the Neurorehabilitation of Autistic Children Via Mobile Toy Robots 
+Answer:Yes. The results showed improved communication effectiveness.
+
+###
+Citation: (Che Hamid et al., 2013) 
+Paper title: Human-Robot Interaction (HRI) For Children with Autism to Augment Communication Skills 
+Answer:Yes. The study aimed to improve communication skills in children with autism through interactions with NAO.
+
+###
+Citation: (Hong et al., 2022) 
+Paper title: Phonetic convergence of children with and without autism in robot interaction 
+Answer:Yes. The results showed improvements in communication, specifically phonetic convergence in vowel formants and speech rate for both ASD and TD children.
+
+###
+Citation: (Hossain et al., 2020) 
+Paper title: Human Robot Interaction System for Behavioral Improvement of Autistic Children 
+Answer:Yes. The authors reported the robot could improve communication skills in autistic children.
+
+###
+Citation: (Tobar et al., 2021) 
+Paper title: KERO-Playable Robotic Platform to Contribute to Non-verbal Communication Teaching in Children with Autism Spectrum Disorder 
+Answer:Yes. The results reported improved non-verbal communication skills.
+
+###
+Citation: (Kim et al., 2014) 
+Paper title: Rapid Prototyping Framework for Robot-assisted Training of Autistic Children 
+Answer:Yes. The results reported some improvements in communication, with children showing self-initiations provoked by the robot intervention.
+
+###
+Citation: Lemaignan et al. (2022) 
+Paper title: It's Important to Think of Pepper as a Teaching Aid or Resource External to the Classroom: A Social Robot in a School for Autistic Children 
+Answer:Yes - Some students used robot to express feelings they wouldn't normally share
+
+###
+Citation: (Lindsay, 2020) 
+Paper title: Exploring Skills Gained Through a Robotics Program for Youth With Disabilities 
+Answer:Yes. The results reported communication improvements.
+
+###
+Citation: (Marino et al., 2020) 
+Paper title: Outcomes of a Robot-Assisted Social-Emotional Understanding Intervention for Young Children with Autism Spectrum Disorders 
+Answer:Yes. The results reported improved communication effectiveness.
+
+###
+Citation: (Marzano et al., 2021) 
+Paper title: Improving Social Communication Skills in Autism Spectrum Disorders Using Programmable Toy Robots 
+Answer:Yes. The results indicated improved communication effectiveness when interacting with the robots.
+
+###
+Citation: (Miskam et al., 2013) 
+Paper title: Study on Social Interaction between Children with Autism and Humanoid Robot NAO 
+Answer:Yes. The study reported improved two-way communication between the children and the robot.
+
+###
+Citation: (Moorthy & Pugazhenthi, 2017) 
+Paper title: Teaching Psychomotor Skills to Autistic Children by Employing a Robotic Training Kit: A Pilot Study 
+Answer:Yes. The study reported improvements in response to commands.
+
+###
+Citation: (Santos et al., 2023) 
+Paper title: Applications of Robotics for Autism Spectrum Disorder: a Scoping Review 
+Answer:Yes. The review mentions studies reporting improvements in communication skills.
+
+###
+Citation: (Papadopoulou et al., 2022) 
+Paper title: Efficacy of a Robot-Assisted Intervention in Improving Learning Performance of Elementary School Children with Specific Learning Disorders 
+Answer:Yes. The results showed improved communication effectiveness, specifically in reading speed, word production, and written expression for both the robot and control groups.
+
+###
+Citation: (Pennington et al., 2014) 
+Paper title: Using Robot-Assisted Instruction to Teach Students with Intellectual Disabilities to Use Personal Narrative in Text Messages 
+Answer:Yes. The results showed participants improved their ability to compose text messages with targeted components.
+
+###
+Citation: (Pliasa & Fachantidis, 2021) 
+Paper title: Mobile Technologies Serious Games for the Development of Social Skills in Children with Autism Spectrum Disorders, Enhanced with Socially Assistive Robots Interventions 
+Answer:Yes. The results showed improved verbal communication and initiation of conversations by children with ASD.
+
+###
+Citation: Puyon & Giannopulu, 2013 
+Paper title: Emergent Emotional and Verbal Strategies in Autism are Based on Multimodal Interactions with Toy Robots in Free Spontaneous Game Play 
+Answer:Yes, the study reported improved verbal expression during robot interactions
+
+###
+Citation: (Qidwai et al., 2019) 
+Paper title: Humanoid Robot as a Teacher's Assistant: Helping Children with Autism to Learn Social and Academic Skills 
+Answer:Yes, the study reported improvements in following instructions and communication
+
+###
+Citation: (Sakka & Gaboriau, 2017) 
+Paper title: A Robotic 'Puppet Master' Application to ASD Therapeutic Support 
+Answer:Yes, the study reported improved communication effectiveness and organized verbal interactions
+
+###
+Citation: Sandygulova et al., 2019 
+Paper title: Interaction design and methodology of robot-assisted therapy for children with severe ASD and ADHD 
+Answer:Yes, authors reported improvements in verbal communication for some participants
+
+###
+Citation: (Sartorato et al., 2017) 
+Paper title: Improving therapeutic outcomes in autism spectrum disorders: Enhancing social communication and sensory processing through the use of interactive robots 
+Answer:Yes, authors reported improved communication effectiveness and increased speech production
+
+###
+Citation: (Scassellati et al., 2018) 
+Paper title: Improving social skills in children with ASD using a long-term, in-home social robot 
+Answer:Yes, caregivers reported improved communication effectiveness
+
+###
+Citation: (Shah et al., 2023) 
+Paper title: The effect of a social robot mediator on speech characteristics of children with Autism Spectrum Disorder 
+Answer:Yes, the study found increased morphosyntactic complexity in speech for some participants
+
+###
+Citation: She & Ren (2021) 
+Paper title: Enhance the Language Ability of Humanoid Robot NAO through Deep Learning to Interact with Autistic Children 
+Answer:Yes, authors reported improved dialogue generation capabilities
+
+###
+Citation: Shimaya et al., 2016 
+Paper title: Advantages of Indirect Conversation via a Desktop Humanoid Robot: Case Study on Daily Life Guidance for Adolescents with Autism Spectrum Disorders 
+Answer:Yes, participants demonstrated non-echolalic responses and increased verbal disclosure
+
+###
+Citation: (Shimaya et al., 2019) 
+Paper title: Communication Support via a Tele-Operated Robot for Easier Talking: Case/Laboratory Study of Individuals with/Without Autism Spectrum Disorder 
+Answer:Yes, authors reported improved communication effectiveness through longer conversation durations with the robot compared to direct conversations
+
+###
+Citation: (Silvera-Tawil et al., 2018) 
+Paper title: Talk to me: The role of human-robot interaction in Improving verbal communication skills in students with Autism or Intellectual Disability 
+Answer:Yes, improvements in articulation, verbal participation and spontaneous conversation were reported
+
+###
+Citation: Soleiman et al., 2014 
+Paper title: RoboParrot: A Robotic Platform for Human Robot Interaction, case of Autistic Children 
+Answer:Yes, some children showed improved vocalization and verbal communication
+
+###
+Citation: (Taheri et al., 2016) 
+Paper title: Social Robots and Teaching Music to Autistic Children: Myth or Reality? 
+Answer:Yes, the study reported improvements in verbal and communication skills
+
+###
+Citation: Taheri et al., 2019 
+Paper title: Teaching music to children with autism: A social robotics challenge 
+Answer:Yes, authors reported improved communication effectiveness and verbal skills
+
+###
+Citation: (Taheri et al., 2018) 
+Paper title: Human-Robot Interaction in Autism Treatment: A Case Study on Three Pairs of Autistic Children as Twins, Siblings, and Classmates 
+Answer:Yes, authors reported improvements in verbal communication effectiveness
+
+###
+Citation: (Talaei-Khoeli et al., 2017) 
+Paper title: Lean Robotic Communication for Children with Autism 
+Answer:Yes, the child showed improved response rates to robot communication over time
+
+###
+Citation: Tobar et al., 2021 
+Paper title: Portable Robotic Modular Kit for Teaching Gestures in Children with ASD 
+Answer:Yes, results showed improvements in non-verbal communication through gesture recognition
+
+###
+Citation: (Yin & Tung, 2013) 
+Paper title: Design and Evaluation of Applying Robots to Assisting and Inducing Children with Autism in Social Interaction 
+Answer:Yes, children showed improved verbal responses and conversational interactions
+
+###
+Citation: (Shahriar et al., 2021) 
+Paper title: Humanoid Robot Enhancing Social and Communicate Skills of Autistic Children: Review 
+Answer:Yes, the study reported improvements in communication abilities and word usage

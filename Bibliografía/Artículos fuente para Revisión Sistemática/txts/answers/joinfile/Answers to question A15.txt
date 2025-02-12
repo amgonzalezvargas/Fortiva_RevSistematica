@@ -1,0 +1,117 @@
+<Question> 
+ In this study, in order to improve a targeted skill on the target population, did authors carry out Storytelling and Play-based Activities with robots (such as storytelling activities, emotional storytelling games, symbolic play activities, pretend play scenarios) ?
+
+<All Answers to this Question>
+
+Final answers statistics: A total of 22 papers answered yes to this question,  whereas 74 papers answered no. Here is the information of the papers that answered yes: 
+
+
+###
+Citation: (Alnajjar et al., 2021) 
+Paper title: Personalized Robot Interventions for Autistic Children: An Automated Methodology for Attention Assessment 
+Answer:Yes. The system included storytelling and play-based activities.
+
+###
+Citation: (Bonarini et al., 2014) 
+Paper title: Integrating Human-Robot and Motion-Based Touchless Interaction for Children with Intellectual Disability 
+Answer:Yes. The study includes storytelling activities with robots.
+
+###
+Citation: (Bonarini et al., 2016) 
+Paper title: Playful interaction with Teo, a Mobile Robot for Children with Neurodevelopmental Disorders 
+Answer:Yes. The study involved play-based activities with Teo, including free play and personalization activities.
+
+###
+Citation: (Brivio et al., 2021) 
+Paper title: A soft, mobile, autonomous robot to develop skills through play in autistic children 
+Answer:Yes. The robot was used for storytelling and play-based activities.
+
+###
+Citation: (Filiou, 2022) 
+Paper title: Robotics and cbt and entertainment in the enhancement of children with asd, mental disorders, dysfunctional emotions and irrational beliefs 
+Answer:Yes. The paper mentions using storytelling activities with robots for children with ASD.
+
+###
+Citation: (Che Hamid et al., 2013) 
+Paper title: Human-Robot Interaction (HRI) For Children with Autism to Augment Communication Skills 
+Answer:Yes. The study included an interactive storytelling module with the NAO robot.
+
+###
+Citation: (Hamzah et al., 2014) 
+Paper title: Development of Interaction Scenarios based on Pre-School Curriculum in Robotic Intervention for Children with Autism 
+Answer:Yes. The study included scenarios with the robot singing nursery rhymes and performing related actions for the children to follow.
+
+###
+Citation: Lemaignan et al. (2022) 
+Paper title: It's Important to Think of Pepper as a Teaching Aid or Resource External to the Classroom: A Social Robot in a School for Autistic Children 
+Answer:Yes - The robot had a storytelling activity where children could choose story elements
+
+###
+Citation: (Marathaki et al., 2022) 
+Paper title: Deploy Social Assistive Robot to develop symbolic play and imitation skills in students with Autism Spectrum Disorder 
+Answer:Yes. The study included storytelling and play-based activities with the NAO robot, such as pretending to cook together.
+
+###
+Citation: (Miskam et al., 2013) 
+Paper title: Study on Social Interaction between Children with Autism and Humanoid Robot NAO 
+Answer:Yes. The study included a storytelling activity about emotions performed by the NAO robot.
+
+###
+Citation: (Santos et al., 2023) 
+Paper title: Applications of Robotics for Autism Spectrum Disorder: a Scoping Review 
+Answer:Yes. The review mentions studies that used storytelling and play-based activities with robots for individuals with autism.
+
+###
+Citation: (Qidwai et al., 2019) 
+Paper title: Humanoid Robot as a Teacher's Assistant: Helping Children with Autism to Learn Social and Academic Skills 
+Answer:Yes, the study included singing and playing activities with the robot
+
+###
+Citation: (Rakhymbayeva & Sandygulova, 2021) 
+Paper title: Transfer Learning of Engagement Recognition within Robot-Assisted Therapy for Children with Autism 
+Answer:Yes, the study mentions storytelling activities with robots
+
+###
+Citation: (Sakka & Gaboriau, 2017) 
+Paper title: A Robotic 'Puppet Master' Application to ASD Therapeutic Support 
+Answer:Yes, the study involved creating and programming a story for robots to perform
+
+###
+Citation: Sandygulova et al., 2019 
+Paper title: Interaction design and methodology of robot-assisted therapy for children with severe ASD and ADHD 
+Answer:Yes, authors implemented storytelling activities including folk fairy tales
+
+###
+Citation: (Sartorato et al., 2017) 
+Paper title: Improving therapeutic outcomes in autism spectrum disorders: Enhancing social communication and sensory processing through the use of interactive robots 
+Answer:Yes, authors discussed storytelling activities using robots like Probo
+
+###
+Citation: (Scassellati et al., 2018) 
+Paper title: Improving social skills in children with ASD using a long-term, in-home social robot 
+Answer:Yes, the robot used storytelling activities through the 'Story' game for emotional understanding
+
+###
+Citation: (Silva et al., 2023) 
+Paper title: Social Stories for Promoting Social Communication with Children with Autism Spectrum Disorder Using a Humanoid Robot: Step-by-Step Study 
+Answer:Yes, the study implemented storytelling activities using social stories told by the robot
+
+###
+Citation: (Tuna, 2022) 
+Paper title: Inclusive Education for Young Children with Autism Spectrum Disorder: Use of Humanoid Robots and Virtual Agents to Alleviate Symptoms and Improve Skills, and A Pilot Study 
+Answer:Yes, the study focused on symbolic play activities
+
+###
+Citation: Wanglavan et al., 2019 
+Paper title: The Development of Attention Detection Model from Child Behavior for Robot-Assisted Autism Therapy 
+Answer:Yes, the study mentions using storytelling activities with the BLISS robot
+
+###
+Citation: (Yin & Tung, 2013) 
+Paper title: Design and Evaluation of Applying Robots to Assisting and Inducing Children with Autism in Social Interaction 
+Answer:Yes, the study used story-based activities about a child going to school in the morning
+
+###
+Citation: (Zhanatkyzy et al., 2020) 
+Paper title: Quantitative Results of Robot-Assisted Therapy for Children with Autism, ADHD and Delayed Speech Development 
+Answer:Yes, the study included storytelling activities

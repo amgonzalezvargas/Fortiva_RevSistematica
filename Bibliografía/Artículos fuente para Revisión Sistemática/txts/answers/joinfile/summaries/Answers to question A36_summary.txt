@@ -1,0 +1,11 @@
+There were 86 papers that implemented Interactive AI Systems, while 10 papers did not include such systems. The analysis reveals several key patterns in how these interactive systems were implemented across the studies.
+
+The most common type of interactive AI system was human-robot communication systems, which were present in the majority of studies. These systems typically facilitated both verbal and non-verbal interactions between the robots and participants. For instance, studies like Scassellati et al. (2018) and Bharatharaj et al. (2017) implemented comprehensive communication systems that enabled robots to engage in social exchanges through speech, gestures, and other behavioral cues.
+
+Social behavior promotion systems were another prominent category, with studies like Marino et al. (2020) and Wood et al. (2019) specifically designing interventions to enhance social skills and interactions. These systems often incorporated structured activities and games to promote social engagement and learning.
+
+Dyadic interaction systems were implemented in several studies, such as Giannopulu (2013) and Nie et al. (2018), focusing on one-on-one interactions between the robot and participant. These systems were particularly valuable for personalized interventions and targeted skill development.
+
+Verbal interaction systems were widely utilized, with studies like She & Ren (2021) and Silvera-Tawil et al. (2018) incorporating sophisticated speech recognition and generation capabilities. Similarly, non-verbal interaction systems were implemented in numerous studies, including Kim et al. (2021) and Tobar et al. (2021), focusing on gesture recognition and expression of emotions through robotic movements.
+
+Touch interface systems were less commonly reported, though some studies did incorporate tactile interactions as part of their intervention strategies. The implementation of these interactive systems was often tailored to specific therapeutic goals, such as improving social skills, communication abilities, or educational outcomes for individuals with intellectual disabilities.

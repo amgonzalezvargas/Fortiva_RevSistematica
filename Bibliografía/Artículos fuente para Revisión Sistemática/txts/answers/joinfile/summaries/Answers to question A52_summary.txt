@@ -1,0 +1,11 @@
+In the systematic review of technologies for enhancing autonomy in adults with intellectual disabilities, 21 out of 96 papers (21.9%) reported experiencing technical limitations during their studies, while 75 papers (78.1%) did not report any significant technical issues. The reported technical challenges encompassed various aspects of both hardware and software implementations.
+
+The most frequently reported technical limitations involved hardware-related issues. Several studies (Brivio et al., 2021; Marathaki et al., 2022; Sakka & Gaboriau, 2017) documented hardware failures that affected the implementation of their robotic systems. Speech recognition capabilities presented significant challenges, as noted in multiple studies (Papadopoulou et al., 2022; Pennington et al., 2014; Reardon et al., 2018), where the robots struggled to accurately interpret user inputs.
+
+Software-related limitations were also prevalent. Studies reported issues with system integration and operational stability (Sandygulova et al., 2019; Subramani et al., 2017). For instance, Rakhymbayeva & Sandygulova (2021) encountered challenges with heterogeneous data formats and custom coding requirements. Some researchers (Shimaya et al., 2019) specifically noted delayed feedback systems as a technical constraint that impacted user interaction.
+
+Sensor-related limitations were documented in several studies. Eye contact detection misrecognition issues were reported by Yun et al. (2016), while Costa et al. (2014) experienced problems with QR code reading systems. Additionally, Qidwai & Shakir (2013) noted specific issues with IR line-of-sight and sound volume control.
+
+The complexity of maintaining robust operation in real-world settings was highlighted by multiple researchers. Scassellati et al. (2018) reported installation problems and setting constraints when implementing their system in home environments. Similarly, Pistoia et al. (2017) documented technical problems that occasionally interrupted or prevented experimental sessions entirely.
+
+These technical limitations underscore the ongoing challenges in developing and implementing robust technological solutions for supporting individuals with intellectual disabilities, suggesting the need for continued advancement in both hardware reliability and software integration capabilities.

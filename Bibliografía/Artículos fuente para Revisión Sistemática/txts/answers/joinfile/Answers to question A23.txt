@@ -1,0 +1,192 @@
+<Question> 
+ In this study, did authors use Commercially Available Software (such as Choregraphe robot programming software, AITalk text-to-speech synthesis, and others)
+
+<All Answers to this Question>
+
+Final answers statistics: A total of 37 papers answered yes to this question,  whereas 59 papers answered no. Here is the information of the papers that answered yes: 
+
+
+###
+Citation: (Abdelmohsen & Arafa, 2021) 
+Paper title: Training Social Skills of Children with ASD Through Social Virtual Robot 
+Answer:Yes. The virtual environment was developed using Unity 3D software.
+
+###
+Citation: (Agel et al., 2020) 
+Paper title: Development of Color Following Robot for Interaction with Autistic Children 
+Answer:Yes. The system uses the OpenCV computer vision library.
+
+###
+Citation: (Binotte et al., 2017) 
+Paper title: Control Strategies for a Robot for Interaction with Children with Autism Spectrum Disorder 
+Answer:Yes. The paper mentions using the ARIA library for robot control.
+
+###
+Citation: (Bugnariu et al., 2013) 
+Paper title: Human-robot interaction as a tool to evaluate and quantify motor imitation behavior in children with Autism Spectrum Disorders 
+Answer:Yes. The study used LabVIEW software to control the robot.
+
+###
+Citation: (Chevalier et al., n.d.) 
+Paper title: "iCub says: Do my motor sounds disturb you?" Motor Sounds and Imitation with a Robot for Children with Autism Spectrum Disorder 
+Answer:Yes. The study used the SVOXPICO text-to-speech software.
+
+###
+Citation: (Conti et al., 2020) 
+Paper title: An empirical study on integrating a small humanoid robot to support the therapy of children with Autism Spectrum Disorder and Intellectual Disability 
+Answer:Yes. The study used the commercially available Choregraphe robot programming software.
+
+###
+Citation: (Costa et al., 2014) 
+Paper title: Building a Game Scenario to Encourage Children with Autism to Recognize and Label Emotions using a Humanoid Robot 
+Answer:Yes. The study used specialized software called The Observer XT from Noldus to analyze the recorded videos.
+
+###
+Citation: (Che Hamid et al., 2013) 
+Paper title: Human-Robot Interaction (HRI) For Children with Autism to Augment Communication Skills 
+Answer:Yes. The study used Choregraphe robot programming software to program NAO.
+
+###
+Citation: (Hamzah et al., 2014) 
+Paper title: Development of Interaction Scenarios based on Pre-School Curriculum in Robotic Intervention for Children with Autism 
+Answer:Yes. The study used the Choregraphe software to program the NAO robot.
+
+###
+Citation: (Kim et al., 2014) 
+Paper title: Rapid Prototyping Framework for Robot-assisted Training of Autistic Children 
+Answer:Yes. The study used the TiViPE visual programming environment to program the robot behaviors.
+
+###
+Citation: Lemaignan et al. (2022) 
+Paper title: It's Important to Think of Pepper as a Teaching Aid or Resource External to the Classroom: A Social Robot in a School for Autistic Children 
+Answer:Yes - Used Naoqi's animated speech API
+
+###
+Citation: (Marathaki et al., 2022) 
+Paper title: Deploy Social Assistive Robot to develop symbolic play and imitation skills in students with Autism Spectrum Disorder 
+Answer:Yes. The study used the Choregraphe robot programming software to develop applications for the NAO robot.
+
+###
+Citation: (Marzano et al., 2021) 
+Paper title: Improving Social Communication Skills in Autism Spectrum Disorders Using Programmable Toy Robots 
+Answer:Yes. The study used the Lego Boost software to program the robots.
+
+###
+Citation: (Miskam et al., 2013) 
+Paper title: Study on Social Interaction between Children with Autism and Humanoid Robot NAO 
+Answer:Yes. The study used the Choregraphe software to program the NAO robot.
+
+###
+Citation: (Nanou et al., 2021) 
+Paper title: THE SAS STRATEGY TRAINING FOR CHILDREN WITH ASD IN INCLUSIVE EDUCATIONAL ROBOTICS ACTIVITIES 
+Answer:Yes. The study used the NXT programming software that comes with LEGO Mindstorms.
+
+###
+Citation: (Santos et al., 2023) 
+Paper title: Applications of Robotics for Autism Spectrum Disorder: a Scoping Review 
+Answer:Yes. The review mentions the use of commercially available software for robot programming.
+
+###
+Citation: (Park & Kwon, 2016) 
+Paper title: I CAN TEACH THEM: THE ABILITY OF ROBOT INSTRUCTORS TO COGNITIVE DISABLED CHILDREN 
+Answer:Yes. The study used the Choreograph software for programming the NAO robot.
+
+###
+Citation: (Peng et al., 2018) 
+Paper title: Music Play Using a Vibraphone with a Humanoid Robot as Interaction Training for Autistic Children 
+Answer:Yes. The study used commercially available SFML library for sound processing.
+
+###
+Citation: (Pennington et al., 2014) 
+Paper title: Using Robot-Assisted Instruction to Teach Students with Intellectual Disabilities to Use Personal Narrative in Text Messages 
+Answer:Yes. The study used the iMessages application software on the iPhone.
+
+###
+Citation: (Pliasa & Fachantidis, 2021) 
+Paper title: Mobile Technologies Serious Games for the Development of Social Skills in Children with Autism Spectrum Disorders, Enhanced with Socially Assistive Robots Interventions 
+Answer:Yes. The study used free mobile game applications like 'Kids Touch Games'.
+
+###
+Citation: (Qidwai & Shakir, 2013) 
+Paper title: Robotic Toys for Autistic Children: Innovative tools for teaching and treatment 
+Answer:Yes, study used VECTIR software for IR command capture
+
+###
+Citation: (Rakhymbayeva & Sandygulova, 2021) 
+Paper title: Transfer Learning of Engagement Recognition within Robot-Assisted Therapy for Children with Autism 
+Answer:Yes, the study uses OpenPose library for keypoint extraction
+
+###
+Citation: Reardon et al., 2018 
+Paper title: Robots Can Teach Students With Intellectual Disabilities: Educational Benefits of Using Robotic and Augmented Reality Applications 
+Answer:Yes, The study used OpenCV for image processing and ROS (Robot Operating System) for robotics applications
+
+###
+Citation: (Sakka & Gaboriau, 2017) 
+Paper title: A Robotic 'Puppet Master' Application to ASD Therapeutic Support 
+Answer:Yes, the study used Choregraphe robot programming software
+
+###
+Citation: Sandygulova et al., 2019 
+Paper title: Interaction design and methodology of robot-assisted therapy for children with severe ASD and ADHD 
+Answer:Yes, authors used Choregraphe software
+
+###
+Citation: (Scassellati et al., 2018) 
+Paper title: Improving social skills in children with ASD using a long-term, in-home social robot 
+Answer:Yes, the study used ROS (Robot Operating System) framework
+
+###
+Citation: (Shah et al., 2023) 
+Paper title: The effect of a social robot mediator on speech characteristics of children with Autism Spectrum Disorder 
+Answer:Yes, the study used Choregraphe software for robot programming
+
+###
+Citation: She & Ren (2021) 
+Paper title: Enhance the Language Ability of Humanoid Robot NAO through Deep Learning to Interact with Autistic Children 
+Answer:Yes, authors used Choregraphe robot programming software
+
+###
+Citation: Shimaya et al., 2016 
+Paper title: Advantages of Indirect Conversation via a Desktop Humanoid Robot: Case Study on Daily Life Guidance for Adolescents with Autism Spectrum Disorders 
+Answer:Yes, the study used AITalk commercial software for Japanese text-to-speech synthesis
+
+###
+Citation: (Shimaya et al., 2019) 
+Paper title: Communication Support via a Tele-Operated Robot for Easier Talking: Case/Laboratory Study of Individuals with/Without Autism Spectrum Disorder 
+Answer:Yes, authors used AITalk text-to-speech synthesis software for robot voice generation
+
+###
+Citation: (Silvera-Tawil et al., 2018) 
+Paper title: Talk to me: The role of human-robot interaction in Improving verbal communication skills in students with Autism or Intellectual Disability 
+Answer:Yes, the study used Choregraphe robot programming software
+
+###
+Citation: (Subramani et al., 2017) 
+Paper title: Development of a Robotic Motor Skills Assessment System for Children with Autism 
+Answer:Yes, the study used Robot Operating System (ROS) and LabVIEW
+
+###
+Citation: (Taheri et al., 2016) 
+Paper title: Social Robots and Teaching Music to Autistic Children: Myth or Reality? 
+Answer:Yes, the study used Choregraphe software for robot programming
+
+###
+Citation: Taheri et al., 2019 
+Paper title: Teaching music to children with autism: A social robotics challenge 
+Answer:Yes, authors used Choregraphe robot programming software
+
+###
+Citation: (Taheri et al., 2018) 
+Paper title: Human-Robot Interaction in Autism Treatment: A Case Study on Three Pairs of Autistic Children as Twins, Siblings, and Classmates 
+Answer:Yes, authors used Choregraphe robot programming software
+
+###
+Citation: (Tuna, 2022) 
+Paper title: Inclusive Education for Young Children with Autism Spectrum Disorder: Use of Humanoid Robots and Virtual Agents to Alleviate Symptoms and Improve Skills, and A Pilot Study 
+Answer:Yes, the study used Choregraphe robot programming software
+
+###
+Citation: (Shahriar et al., 2021) 
+Paper title: Humanoid Robot Enhancing Social and Communicate Skills of Autistic Children: Review 
+Answer:Yes, the study used Choregraphe software for programming NAO robot

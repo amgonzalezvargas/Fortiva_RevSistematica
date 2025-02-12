@@ -1,0 +1,157 @@
+<Question> 
+ In this study, did authors use Signal Processing Systems (such as Gesture recognition algorithms, Movement recognition algorithms, Facial feature recognition systems, Non-verbal cue interpretation systems)
+
+<All Answers to this Question>
+
+Final answers statistics: A total of 30 papers answered yes to this question,  whereas 66 papers answered no. Here is the information of the papers that answered yes: 
+
+
+###
+Citation: (Abdelmohsen & Arafa, 2021) 
+Paper title: Training Social Skills of Children with ASD Through Social Virtual Robot 
+Answer:Yes. The system included gesture recognition for the intransitive gesture training.
+
+###
+Citation: (Alnajjar et al., 2021) 
+Paper title: Personalized Robot Interventions for Autistic Children: An Automated Methodology for Attention Assessment 
+Answer:Yes. The system used facial feature recognition algorithms.
+
+###
+Citation: (Agel et al., 2020) 
+Paper title: Development of Color Following Robot for Interaction with Autistic Children 
+Answer:Yes. The system uses image processing and object detection algorithms.
+
+###
+Citation: (Bonarini et al., 2014) 
+Paper title: Integrating Human-Robot and Motion-Based Touchless Interaction for Children with Intellectual Disability 
+Answer:Yes. The study involves gesture recognition for motion-based interaction.
+
+###
+Citation: (Bonarini et al., 2016) 
+Paper title: Playful interaction with Teo, a Mobile Robot for Children with Neurodevelopmental Disorders 
+Answer:Yes. Teo has gesture recognition and non-verbal cue interpretation systems.
+
+###
+Citation: (Brivio et al., 2021) 
+Paper title: A soft, mobile, autonomous robot to develop skills through play in autistic children 
+Answer:Yes. The robot uses gesture recognition and nonverbal cue interpretation systems.
+
+###
+Citation: (Bugnariu et al., 2013) 
+Paper title: Human-robot interaction as a tool to evaluate and quantify motor imitation behavior in children with Autism Spectrum Disorders 
+Answer:Yes. The study used algorithms to recognize and analyze the gestures and movements of the participants.
+
+###
+Citation: (Conti et al., 2020) 
+Paper title: An empirical study on integrating a small humanoid robot to support the therapy of children with Autism Spectrum Disorder and Intellectual Disability 
+Answer:Yes. The study used movement recognition algorithms to analyze the participants' imitation behaviors.
+
+###
+Citation: (Costa et al., 2014) 
+Paper title: Building a Game Scenario to Encourage Children with Autism to Recognize and Label Emotions using a Humanoid Robot 
+Answer:Yes. The system used image processing to recognize the QR codes on the answer rackets.
+
+###
+Citation: (Giannopulu, 2013) 
+Paper title: Multimodal Cognitive Nonverbal and Verbal Interactions: the Neurorehabilitation of Autistic Children Via Mobile Toy Robots 
+Answer:Yes. The study used signal processing systems for gesture and movement recognition.
+
+###
+Citation: (Hossain et al., 2020) 
+Paper title: Human Robot Interaction System for Behavioral Improvement of Autistic Children 
+Answer:Yes. The system used algorithms to recognize and respond to voice commands.
+
+###
+Citation: (Tobar et al., 2021) 
+Paper title: KERO-Playable Robotic Platform to Contribute to Non-verbal Communication Teaching in Children with Autism Spectrum Disorder 
+Answer:Yes. The study used gesture recognition algorithms for the robot.
+
+###
+Citation: (Kim et al., 2021) 
+Paper title: Smiles as a Signal of Prosocial Behaviors Toward the Robot in the Therapeutic Setting for Children With Autism Spectrum Disorder 
+Answer:Yes. The study used facial feature recognition systems.
+
+###
+Citation: (Lee et al., 2013) 
+Paper title: Robotic System for Eye Contact Training of Children with Autism 
+Answer:Yes. The system used face and eye detection algorithms.
+
+###
+Citation: (Marino et al., 2020) 
+Paper title: Outcomes of a Robot-Assisted Social-Emotional Understanding Intervention for Young Children with Autism Spectrum Disorders 
+Answer:Yes. The study used facial feature recognition systems and non-verbal cue interpretation systems.
+
+###
+Citation: (Nie et al., 2018) 
+Paper title: Predicting response to joint attention performance in human-human interaction based on human-robot interaction for young children with autism spectrum disorder 
+Answer:Yes. The study used head pose recognition algorithms.
+
+###
+Citation: (Santos et al., 2023) 
+Paper title: Applications of Robotics for Autism Spectrum Disorder: a Scoping Review 
+Answer:Yes. The review discusses the use of signal processing systems for gesture and movement recognition.
+
+###
+Citation: (Peng et al., 2018) 
+Paper title: Music Play Using a Vibraphone with a Humanoid Robot as Interaction Training for Autistic Children 
+Answer:Yes. The study used signal processing systems for sound analysis.
+
+###
+Citation: (Rakhymbayeva & Sandygulova, 2021) 
+Paper title: Transfer Learning of Engagement Recognition within Robot-Assisted Therapy for Children with Autism 
+Answer:Yes, the study implements body and facial feature recognition systems
+
+###
+Citation: Reardon et al., 2018 
+Paper title: Robots Can Teach Students With Intellectual Disabilities: Educational Benefits of Using Robotic and Augmented Reality Applications 
+Answer:Yes, The study used computer vision algorithms for object recognition and tracking
+
+###
+Citation: (Sartorato et al., 2017) 
+Paper title: Improving therapeutic outcomes in autism spectrum disorders: Enhancing social communication and sensory processing through the use of interactive robots 
+Answer:Yes, authors discussed gesture recognition and non-verbal cue interpretation systems
+
+###
+Citation: (Scassellati et al., 2018) 
+Paper title: Improving social skills in children with ASD using a long-term, in-home social robot 
+Answer:Yes, the system used head pose tracking algorithms
+
+###
+Citation: (Silva et al., 2023) 
+Paper title: Social Stories for Promoting Social Communication with Children with Autism Spectrum Disorder Using a Humanoid Robot: Step-by-Step Study 
+Answer:Yes, the system included facial feature recognition capabilities for emotion expression
+
+###
+Citation: Taheri et al., 2019 
+Paper title: Teaching music to children with autism: A social robotics challenge 
+Answer:Yes, authors used movement recognition algorithms
+
+###
+Citation: (Taheri et al., 2018) 
+Paper title: Human-Robot Interaction in Autism Treatment: A Case Study on Three Pairs of Autistic Children as Twins, Siblings, and Classmates 
+Answer:Yes, authors used gesture and movement recognition systems
+
+###
+Citation: (Tartarisco et al., 2022) 
+Paper title: Exploring behavioural and physiological interactions in a group-based emotional skill social robotic training for autism spectrum disorders 
+Answer:Yes, the system processes physiological signals and heart rate variability data
+
+###
+Citation: Wanglavan et al., 2019 
+Paper title: The Development of Attention Detection Model from Child Behavior for Robot-Assisted Autism Therapy 
+Answer:Yes, the system included facial feature recognition and behavior analysis algorithms
+
+###
+Citation: (Shahriar et al., 2021) 
+Paper title: Humanoid Robot Enhancing Social and Communicate Skills of Autistic Children: Review 
+Answer:Yes, the study used object recognition algorithms for fruit recognition program
+
+###
+Citation: Yun et al., 2014 
+Paper title: A Robotic Treatment Approach to promote Social Interaction Skills for Children with Autism Spectrum Disorders 
+Answer:Yes, used facial feature recognition and movement recognition
+
+###
+Citation: (Yun et al., 2016) 
+Paper title: Robotic Behavioral Intervention to Facilitate Eye Contact and Reading Emotions of Children with Autism Spectrum Disorders 
+Answer:Yes, authors used facial feature recognition systems

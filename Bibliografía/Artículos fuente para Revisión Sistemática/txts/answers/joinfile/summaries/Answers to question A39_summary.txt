@@ -1,0 +1,11 @@
+There were 30 papers that incorporated signal processing systems in their studies, while 66 papers did not utilize such technologies. The signal processing systems implemented across these studies can be categorized into several main types: facial feature recognition, gesture recognition, movement recognition, and non-verbal cue interpretation systems.
+
+Facial feature recognition systems were prominently featured in multiple studies. Alnajjar et al. (2021), Kim et al. (2021), and Marino et al. (2020) implemented facial feature recognition algorithms to analyze participants' expressions and responses. Lee et al. (2013) specifically focused on face and eye detection algorithms for eye contact training. Wanglavan et al. (2019) combined facial feature recognition with behavior analysis algorithms to detect attention patterns.
+
+Gesture and movement recognition systems were also widely implemented. Bonarini et al. (2014, 2016) integrated gesture recognition for motion-based interaction in their robotic platforms. Bugnariu et al. (2013) and Conti et al. (2020) utilized movement recognition algorithms to analyze motor imitation behaviors. Brivio et al. (2021) incorporated both gesture recognition and nonverbal cue interpretation systems in their soft, mobile robot design.
+
+Some studies implemented multiple signal processing systems simultaneously. For instance, Marino et al. (2020) combined facial feature recognition with non-verbal cue interpretation systems. Yun et al. (2014, 2016) integrated both facial feature recognition and movement recognition capabilities in their robotic intervention approach.
+
+Specialized applications of signal processing were also observed. Peng et al. (2018) utilized signal processing systems for sound analysis in music-based interaction, while Tartarisco et al. (2022) focused on processing physiological signals and heart rate variability data. Nie et al. (2018) specifically implemented head pose recognition algorithms for analyzing joint attention performance.
+
+These implementations demonstrate the diverse applications of signal processing systems in supporting interactions between robots and individuals with intellectual disabilities, particularly in areas of social communication, behavioral analysis, and skill development.

@@ -1,0 +1,15 @@
+There were 87 papers that incorporated behavioral indicators in their methodology to measure and evaluate participant responses and interactions, while 9 papers did not include such measurements. The behavioral indicators used across these studies can be categorized into several main types:
+
+Eye contact and gaze behavior was the most commonly measured indicator, with studies like Scassellati (2018), Alnajjar et al. (2021), and Lee et al. (2013) specifically developing systems to track and analyze participants' eye contact patterns and gaze direction. Many studies utilized specialized camera systems and eye-tracking technology to quantify these measurements.
+
+Touch interaction and manipulation skills were also frequently assessed, as demonstrated in studies by Bharatharaj et al. (2017), Lee et al. (2014), and Giannopulu (2013). These studies analyzed how participants physically interacted with robots through touch patterns, applied forces, and manipulation of robot components.
+
+Verbal output measurements were incorporated by numerous researchers, including Shah et al. (2023) who analyzed speech characteristics through metrics like Mean Length of Utterance (MLU) and Type-Token Ratio (TTR). Silvera-Tawil et al. (2018) and Shimaya et al. (2019) evaluated verbal communication patterns including utterance frequency and silence duration.
+
+Task completion rates and accuracy were widely used as quantitative behavioral indicators. Studies like Subramani et al. (2017) measured specific skills like shape tracing accuracy, while others like Tartarisco et al. (2022) automatically recorded correct and incorrect responses to assigned tasks.
+
+Imitation skills assessment was another common behavioral indicator, particularly in studies focused on motor skills and social learning. Bugnariu et al. (2013) measured joint angles and movement trajectories to assess imitation accuracy, while Marathaki et al. (2022) evaluated both basic and complex imitation abilities.
+
+Posture analysis and body language were measured in studies like Rakhymbayeva & Sandygulova (2021), who analyzed body posture alongside facial expressions to assess engagement levels. Several studies incorporated multiple behavioral indicators simultaneously to obtain a more comprehensive understanding of participant responses and progress.
+
+This extensive use of behavioral indicators across the literature demonstrates their importance in quantitatively measuring the effectiveness of robotic interventions for individuals with intellectual disabilities. The variety of indicators used reflects the complex nature of social, cognitive, and motor skills being addressed in these interventions.

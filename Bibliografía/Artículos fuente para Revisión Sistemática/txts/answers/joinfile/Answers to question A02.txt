@@ -1,0 +1,152 @@
+<Question> 
+ In this study, did authors aim at developing or evaluating Emotional Intelligence skills (such as emotion recognition, emotional comprehension, emotional expression, emotional competence, socio-emotional understanding) ?
+
+<All Answers to this Question>
+
+Final answers statistics: A total of 29 papers answered yes to this question,  whereas 67 papers answered no. Here is the information of the papers that answered yes: 
+
+
+###
+Citation: (Abdelmohsen & Arafa, 2021) 
+Paper title: Training Social Skills of Children with ASD Through Social Virtual Robot 
+Answer:Yes. The study included an emotion recognition training program to enhance emotion ability in children with ASD.
+
+###
+Citation: (Alnajjar et al., 2021) 
+Paper title: Personalized Robot Interventions for Autistic Children: An Automated Methodology for Attention Assessment 
+Answer:Yes. The robot displayed emotional cues on a mobile screen and solicited appropriate emotional responses from the children.
+
+###
+Citation: (Boccanfuso et al., 2016) 
+Paper title: Emotional Robot to Examine Different Play Patterns and Affective Responses of Children with and without ASD 
+Answer:Yes. The study aimed to evaluate emotional intelligence skills by examining affective responses to the robot's simulated emotions.
+
+###
+Citation: (Bonarini et al., 2014) 
+Paper title: Integrating Human-Robot and Motion-Based Touchless Interaction for Children with Intellectual Disability 
+Answer:Yes. The study mentions developing competencies in the social sphere, including expressing and perceiving emotions.
+
+###
+Citation: (Bonarini et al., 2016) 
+Paper title: Playful interaction with Teo, a Mobile Robot for Children with Neurodevelopmental Disorders 
+Answer:Yes. The authors aimed to develop emotional intelligence skills such as emotion recognition and expression through Teo's emotional reactions and personalization activities.
+
+###
+Citation: (Brivio et al., 2021) 
+Paper title: A soft, mobile, autonomous robot to develop skills through play in autistic children 
+Answer:Yes. The robot was designed to express emotions and engage children in emotional interactions.
+
+###
+Citation: (Costa et al., 2014) 
+Paper title: Building a Game Scenario to Encourage Children with Autism to Recognize and Label Emotions using a Humanoid Robot 
+Answer:Yes. The study focused on developing emotional intelligence skills, particularly emotion recognition and labeling, in children with ASD.
+
+###
+Citation: (Filiou, 2022) 
+Paper title: Robotics and cbt and entertainment in the enhancement of children with asd, mental disorders, dysfunctional emotions and irrational beliefs 
+Answer:Yes. The paper mentions using robots to improve emotional intelligence skills like emotion recognition and emotional comprehension in children with ASD.
+
+###
+Citation: (Giannopulu, 2013) 
+Paper title: Multimodal Cognitive Nonverbal and Verbal Interactions: the Neurorehabilitation of Autistic Children Via Mobile Toy Robots 
+Answer:Yes. The study aimed to develop emotional intelligence skills such as emotion recognition and expression in autistic children through interactions with mobile toy robots.
+
+###
+Citation: (Tobar et al., 2021) 
+Paper title: KERO-Playable Robotic Platform to Contribute to Non-verbal Communication Teaching in Children with Autism Spectrum Disorder 
+Answer:Yes. The study aimed to develop emotional intelligence skills, specifically emotion recognition, through games where children had to identify gestures and emotions made by the robot.
+
+###
+Citation: (Kim et al., 2021) 
+Paper title: Smiles as a Signal of Prosocial Behaviors Toward the Robot in the Therapeutic Setting for Children With Autism Spectrum Disorder 
+Answer:Yes. The study aimed at developing emotional intelligence skills such as emotion recognition in children with autism spectrum disorder.
+
+###
+Citation: (Lebersfeld et al., 2018) 
+Paper title: The socially animated machine (SAM) robot: A social skills intervention for children with autism spectrum disorder 
+Answer:Yes. The study measured emotion identification and recognition as outcomes of the intervention.
+
+###
+Citation: (Lee et al., 2014) 
+Paper title: Enhancement of the Communication Effectiveness of Interactive Robots for Autism Therapy by Using Touch and Colour Feedback 
+Answer:Yes. The study aimed to develop emotional intelligence skills such as emotion recognition in children with autism through robot-assisted therapy.
+
+###
+Citation: Lemaignan et al. (2022) 
+Paper title: It's Important to Think of Pepper as a Teaching Aid or Resource External to the Classroom: A Social Robot in a School for Autistic Children 
+Answer:Yes - The robot was used to support emotional regulation and well-being of autistic pupils through mood tracking and calming activities
+
+###
+Citation: (Li et al., 2020) 
+Paper title: Non-Participatory User-Centered Design of Accessible Teacher-Teleoperated Robot and Tablets for Minimally Verbal Autistic Children 
+Answer:Yes. The study aimed to develop activities for teaching facial emotions and emotion recognition to minimally verbal autistic children.
+
+###
+Citation: (Marino et al., 2020) 
+Paper title: Outcomes of a Robot-Assisted Social-Emotional Understanding Intervention for Young Children with Autism Spectrum Disorders 
+Answer:Yes. The study aimed to develop emotional intelligence skills such as emotion recognition, comprehension, and emotional perspective-taking.
+
+###
+Citation: (Miskam et al., 2013) 
+Paper title: Study on Social Interaction between Children with Autism and Humanoid Robot NAO 
+Answer:Yes. The study included modules to teach emotions and emotional recognition to children with autism using the NAO robot.
+
+###
+Citation: (Santos et al., 2023) 
+Paper title: Applications of Robotics for Autism Spectrum Disorder: a Scoping Review 
+Answer:Yes. The review mentions studies focused on improving emotion recognition and emotional comprehension in individuals with autism using robotic interventions.
+
+###
+Citation: Puyon & Giannopulu, 2013 
+Paper title: Emergent Emotional and Verbal Strategies in Autism are Based on Multimodal Interactions with Toy Robots in Free Spontaneous Game Play 
+Answer:Yes, the study analyzed emotional expression through words and verbs that connote positive emotion during robot interactions
+
+###
+Citation: Robles-Bykbaev et al., 2018 
+Paper title: A Hybrid Approach Based on Multi-sensory Stimulation Rooms, Robotic Assistants and Ontologies to Provide Support in the Intervention of Children with Autism 
+Answer:Yes, the system included components for emotional development and interaction through robotic assistants and multi-sensory stimulation activities
+
+###
+Citation: (Sakka & Gaboriau, 2017) 
+Paper title: A Robotic 'Puppet Master' Application to ASD Therapeutic Support 
+Answer:Yes, the study worked on emotional expression and comprehension through robot programming and storytelling activities
+
+###
+Citation: Sandygulova et al., 2019 
+Paper title: Interaction design and methodology of robot-assisted therapy for children with severe ASD and ADHD 
+Answer:Yes, authors developed applications targeting emotion recognition and emotional comprehension through the 'Emotions' game where robot demonstrated different emotions with sounds and movements
+
+###
+Citation: (Sartorato et al., 2017) 
+Paper title: Improving therapeutic outcomes in autism spectrum disorders: Enhancing social communication and sensory processing through the use of interactive robots 
+Answer:Yes, authors aimed at developing emotional intelligence skills, specifically emotion recognition and emotional expression through robot interactions
+
+###
+Citation: (Scassellati et al., 2018) 
+Paper title: Improving social skills in children with ASD using a long-term, in-home social robot 
+Answer:Yes, the study included emotional understanding activities through games like 'Story' where children had to identify characters' emotional states
+
+###
+Citation: (Silva et al., 2023) 
+Paper title: Social Stories for Promoting Social Communication with Children with Autism Spectrum Disorder Using a Humanoid Robot: Step-by-Step Study 
+Answer:Yes, the study aimed to develop emotional intelligence skills through emotion recognition activities in storytelling scenarios
+
+###
+Citation: (Tartarisco et al., 2022) 
+Paper title: Exploring behavioural and physiological interactions in a group-based emotional skill social robotic training for autism spectrum disorders 
+Answer:Yes, the study specifically focused on teaching emotional skills, emotional comprehension, and emotional vocabulary through a CBT protocol
+
+###
+Citation: (Wood et al., 2017) 
+Paper title: Developing Child-Robot Interaction Scenarios with a Humanoid Robot to Assist Children with Autism in Developing Visual Perspective Taking Skills 
+Answer:Yes, the study focused on developing emotional intelligence through theory of mind and understanding others' perspectives
+
+###
+Citation: (Yun et al., 2016) 
+Paper title: Robotic Behavioral Intervention to Facilitate Eye Contact and Reading Emotions of Children with Autism Spectrum Disorders 
+Answer:Yes, authors aimed at developing emotional intelligence skills, specifically emotion recognition through facial expressions
+
+###
+Citation: (Zhanatkyzy et al., 2020) 
+Paper title: Quantitative Results of Robot-Assisted Therapy for Children with Autism, ADHD and Delayed Speech Development 
+Answer:Yes, the study evaluated emotional intelligence through valence scores (1-Sad to 5-Happy/Excited)

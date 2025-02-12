@@ -1,0 +1,22 @@
+<Question> 
+ In this study, did authors aim at studying Adolescents with other neurodevelopmental disabilities (not ASD) ?
+
+<All Answers to this Question>
+
+Final answers statistics: A total of 3 papers answered yes to this question,  whereas 93 papers answered no. Here is the information of the papers that answered yes: 
+
+
+###
+Citation: (Brivio et al., 2021) 
+Paper title: A soft, mobile, autonomous robot to develop skills through play in autistic children 
+Answer:Yes. The study included adolescents with other neurodevelopmental disabilities beyond ASD.
+
+###
+Citation: (Park & Kwon, 2016) 
+Paper title: I CAN TEACH THEM: THE ABILITY OF ROBOT INSTRUCTORS TO COGNITIVE DISABLED CHILDREN 
+Answer:Yes. The study included adolescents with cognitive disabilities, with participants aged 10-18.
+
+###
+Citation: (Wood et al., 2019) 
+Paper title: Developing a protocol and experimental setup for using a humanoid robot to assist children with autism to develop visual perspective taking skills 
+Answer:Yes, one participant had global developmental delay with ASD traits

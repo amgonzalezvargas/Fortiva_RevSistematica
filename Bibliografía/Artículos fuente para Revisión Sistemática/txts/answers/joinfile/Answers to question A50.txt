@@ -1,0 +1,222 @@
+<Question> 
+ To gather the results of this study, did authors use Statistical Analysis Results (such as Paired sample t-test results, Independent t-test findings, ANOVA results, Mann-Whitney U-test results, Wilcoxon signed-rank test findings, Chi-Square test results, Linear mixed models analysis, Generalized linear mixed models results)
+
+<All Answers to this Question>
+
+Final answers statistics: A total of 43 papers answered yes to this question,  whereas 53 papers answered no. Here is the information of the papers that answered yes: 
+
+
+###
+Citation: (Attawibulkul et al., 2019) 
+Paper title: Using a Daily Routine Game on the BLISS Robot for Supporting Personal-Social Development in Children with Autism and Other Special Needs 
+Answer:Yes. The study used Wilcoxon Signed Ranks tests for statistical analysis.
+
+###
+Citation: (Bharatharaj et al., 2018) 
+Paper title: Social engagement of children with autism spectrum disorder in interaction with a parrot-inspired therapeutic robot 
+Answer:Yes. The study used paired-samples t-tests for statistical analysis.
+
+###
+Citation: (Boccanfuso et al., 2016) 
+Paper title: Emotional Robot to Examine Different Play Patterns and Affective Responses of Children with and without ASD 
+Answer:Yes. The study used statistical analyses including correlations and linear mixed models.
+
+###
+Citation: (Carlson et al., 2018) 
+Paper title: Training Autistic Children on Joint Attention Skills with a Robot 
+Answer:Yes. The study used t-tests to analyze the results.
+
+###
+Citation: (Charron et al., 2017) 
+Paper title: A Robotic Therapy Case Study: Developing Joint Attention Skills With a Student on the Autism Spectrum 
+Answer:Yes. The researchers used linear trend analysis of the data.
+
+###
+Citation: (Chevalier et al., n.d.) 
+Paper title: "iCub says: Do my motor sounds disturb you?" Motor Sounds and Imitation with a Robot for Children with Autism Spectrum Disorder 
+Answer:Yes. The study used ANOVA and t-tests to analyze results.
+
+###
+Citation: (Costa et al., 2013) 
+Paper title: Where is Your Nose?' - Developing Body Awareness Skills Among Children With Autism Using a Humanoid Robot 
+Answer:Yes. The study used paired sample t-tests and other statistical analyses.
+
+###
+Citation: (De Korte et al., 2020) 
+Paper title: Self-initiations in young children with autism during Pivotal Response Treatment with and without robot assistance 
+Answer:Yes. The study used linear mixed-effects models for statistical analysis.
+
+###
+Citation: (Giannopulu, 2013) 
+Paper title: Embedded Multimodal Nonverbal and Verbal Interactions Between a Mobile Toy Robot and Autistic Children 
+Answer:Yes. Spearman's correlation coefficient was calculated to analyze relationships between variables.
+
+###
+Citation: (Giannopulu, 2013) 
+Paper title: Multimodal Cognitive Nonverbal and Verbal Interactions: the Neurorehabilitation of Autistic Children Via Mobile Toy Robots 
+Answer:Yes. The study used statistical analysis including nonparametric tests.
+
+###
+Citation: (Hong et al., 2022) 
+Paper title: Phonetic convergence of children with and without autism in robot interaction 
+Answer:Yes. The study used statistical analysis results, including linear mixed effect models and repeated measures ANOVA.
+
+###
+Citation: (Tobar et al., 2021) 
+Paper title: KERO-Playable Robotic Platform to Contribute to Non-verbal Communication Teaching in Children with Autism Spectrum Disorder 
+Answer:Yes. The study used statistical analysis of the results.
+
+###
+Citation: (Kajopoulos et al., 2015) 
+Paper title: Robot-Assisted Training of Joint Attention Skills in Children Diagnosed with Autism 
+Answer:Yes. The study used paired t-tests to analyze the results.
+
+###
+Citation: (Kim et al., 2021) 
+Paper title: Smiles as a Signal of Prosocial Behaviors Toward the Robot in the Therapeutic Setting for Children With Autism Spectrum Disorder 
+Answer:Yes. The study used statistical analysis results including leave-one-out cross-validation.
+
+###
+Citation: (Lebersfeld et al., 2018) 
+Paper title: The socially animated machine (SAM) robot: A social skills intervention for children with autism spectrum disorder 
+Answer:Yes. The study used t-tests to analyze pre-post changes.
+
+###
+Citation: (Lindsay, 2020) 
+Paper title: Exploring Skills Gained Through a Robotics Program for Youth With Disabilities 
+Answer:Yes. The results used descriptive statistics to analyze survey data.
+
+###
+Citation: (Marino et al., 2020) 
+Paper title: Outcomes of a Robot-Assisted Social-Emotional Understanding Intervention for Young Children with Autism Spectrum Disorders 
+Answer:Yes. The study used statistical analyses including t-tests, ANOVA, and non-parametric tests.
+
+###
+Citation: (Miskam et al., 2013) 
+Paper title: Study on Social Interaction between Children with Autism and Humanoid Robot NAO 
+Answer:Yes. The study reported percentages of observed behaviors.
+
+###
+Citation: (Nie et al., 2018) 
+Paper title: Predicting response to joint attention performance in human-human interaction based on human-robot interaction for young children with autism spectrum disorder 
+Answer:Yes. The study used statistical analyses including t-tests and ANOVA.
+
+###
+Citation: (Santos et al., 2023) 
+Paper title: Applications of Robotics for Autism Spectrum Disorder: a Scoping Review 
+Answer:Yes. The review discusses the use of statistical analyses in many studies.
+
+###
+Citation: (Papadopoulou et al., 2022) 
+Paper title: Efficacy of a Robot-Assisted Intervention in Improving Learning Performance of Elementary School Children with Specific Learning Disorders 
+Answer:Yes. The study used statistical analyses including Wilcoxon signed-rank tests and Mann-Whitney U tests.
+
+###
+Citation: (Park & Kwon, 2016) 
+Paper title: I CAN TEACH THEM: THE ABILITY OF ROBOT INSTRUCTORS TO COGNITIVE DISABLED CHILDREN 
+Answer:Yes. The study used ANOVA and other statistical analyses.
+
+###
+Citation: (Pliasa & Fachantidis, 2021) 
+Paper title: Mobile Technologies Serious Games for the Development of Social Skills in Children with Autism Spectrum Disorders, Enhanced with Socially Assistive Robots Interventions 
+Answer:Yes. The study used statistical analysis including the Wilcoxon signed rank test.
+
+###
+Citation: Puyon & Giannopulu, 2013 
+Paper title: Emergent Emotional and Verbal Strategies in Autism are Based on Multimodal Interactions with Toy Robots in Free Spontaneous Game Play 
+Answer:Yes, they used Chi-Square Test and Spearman rank correlation coefficient
+
+###
+Citation: (Qidwai et al., 2019) 
+Paper title: Humanoid Robot as a Teacher's Assistant: Helping Children with Autism to Learn Social and Academic Skills 
+Answer:Yes, the study analyzed performance improvement using quantitative metrics
+
+###
+Citation: (Rakhymbayeva & Sandygulova, 2021) 
+Paper title: Transfer Learning of Engagement Recognition within Robot-Assisted Therapy for Children with Autism 
+Answer:Yes, the study reports accuracy percentages from classification analysis
+
+###
+Citation: (Scassellati et al., 2018) 
+Paper title: Improving social skills in children with ASD using a long-term, in-home social robot 
+Answer:Yes, the study used statistical analyses including t-tests
+
+###
+Citation: (Shah et al., 2023) 
+Paper title: The effect of a social robot mediator on speech characteristics of children with Autism Spectrum Disorder 
+Answer:Yes, the study used independent-samples t-test for analysis
+
+###
+Citation: She & Ren (2021) 
+Paper title: Enhance the Language Ability of Humanoid Robot NAO through Deep Learning to Interact with Autistic Children 
+Answer:Yes, authors used automatic evaluation metrics like BLEU, greedy matching, etc.
+
+###
+Citation: Shimaya et al., 2016 
+Paper title: Advantages of Indirect Conversation via a Desktop Humanoid Robot: Case Study on Daily Life Guidance for Adolescents with Autism Spectrum Disorders 
+Answer:Yes, the study conducted Wilcoxon rank sum tests and quantitative analysis of utterances
+
+###
+Citation: (Shimaya et al., 2019) 
+Paper title: Communication Support via a Tele-Operated Robot for Easier Talking: Case/Laboratory Study of Individuals with/Without Autism Spectrum Disorder 
+Answer:Yes, authors used Wilcoxon signed rank test and t-test for statistical analysis
+
+###
+Citation: (Silva et al., 2023) 
+Paper title: Social Stories for Promoting Social Communication with Children with Autism Spectrum Disorder Using a Humanoid Robot: Step-by-Step Study 
+Answer:Yes, the study used Wilcoxon signed-rank test for statistical analysis
+
+###
+Citation: Taheri et al., 2019 
+Paper title: Teaching music to children with autism: A social robotics challenge 
+Answer:Yes, authors used Cohen's d effect size statistical analysis
+
+###
+Citation: (Taheri et al., 2018) 
+Paper title: Human-Robot Interaction in Autism Treatment: A Case Study on Three Pairs of Autistic Children as Twins, Siblings, and Classmates 
+Answer:Yes, authors used ANOVA and other statistical analyses
+
+###
+Citation: (Talaei-Khoeli et al., 2017) 
+Paper title: Lean Robotic Communication for Children with Autism 
+Answer:Yes, the study used non-parametric trend analysis using Sen Slope test
+
+###
+Citation: (Tartarisco et al., 2022) 
+Paper title: Exploring behavioural and physiological interactions in a group-based emotional skill social robotic training for autism spectrum disorders 
+Answer:Yes, the study used t-tests for statistical analysis
+
+###
+Citation: Tobar et al., 2021 
+Paper title: Portable Robotic Modular Kit for Teaching Gestures in Children with ASD 
+Answer:Yes, statistical analysis was performed on the collected data
+
+###
+Citation: Wanglavan et al., 2019 
+Paper title: The Development of Attention Detection Model from Child Behavior for Robot-Assisted Autism Therapy 
+Answer:Yes, the study used statistical analysis to evaluate classification accuracy
+
+###
+Citation: Welch et al., 2023 
+Paper title: Using Physiological Signals and Machine Learning Algorithms to Measure Attentiveness During Robot-Assisted Social Skills Intervention: A Case Study of Two Children with Autism Spectrum Disorder 
+Answer:Yes, authors used statistical analysis including AUC and F1-scores
+
+###
+Citation: (Wood et al., 2019) 
+Paper title: Developing a protocol and experimental setup for using a humanoid robot to assist children with autism to develop visual perspective taking skills 
+Answer:Yes, statistical analyses were conducted using McNemar test and Wilcoxon signed ranks test
+
+###
+Citation: (Yun et al., 2016) 
+Paper title: Robotic Behavioral Intervention to Facilitate Eye Contact and Reading Emotions of Children with Autism Spectrum Disorders 
+Answer:Yes, authors used comparative analysis between control and treatment groups
+
+###
+Citation: Zamin et al., 2019 
+Paper title: Jawi Alphabot: A Jawi Teaching Robot for Children with Autism 
+Answer:Yes, used mean and median scores to analyze results
+
+###
+Citation: (Zhanatkyzy et al., 2020) 
+Paper title: Quantitative Results of Robot-Assisted Therapy for Children with Autism, ADHD and Delayed Speech Development 
+Answer:Yes, the study mentions planned repeated-measures analysis

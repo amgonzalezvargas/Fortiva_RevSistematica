@@ -1,0 +1,302 @@
+<Question> 
+ In this study, did authors use Communication Feedback (such as Voice recognition systems, Speech synthesis systems)
+
+<All Answers to this Question>
+
+Final answers statistics: A total of 59 papers answered yes to this question,  whereas 37 papers answered no. Here is the information of the papers that answered yes: 
+
+
+###
+Citation: (Scassellati, 2018) 
+Paper title: In-home Robots Improve Social Skills in Children With Autism 
+Answer:Yes. The robot used speech synthesis systems.
+
+###
+Citation: (Valadao et al., 2016) 
+Paper title: Analysis of the use of a robot to improve social skills in children with autism spectrum disorder 
+Answer:Yes. The robot MARIA had a sound system to play audio.
+
+###
+Citation: (Alnajjar et al., 2021) 
+Paper title: Personalized Robot Interventions for Autistic Children: An Automated Methodology for Attention Assessment 
+Answer:Yes. The system used speech synthesis for robot communication.
+
+###
+Citation: (Agel et al., 2020) 
+Paper title: Development of Color Following Robot for Interaction with Autistic Children 
+Answer:Yes. The system uses speech synthesis to communicate with the child.
+
+###
+Citation: (Attawibulkul et al., 2019) 
+Paper title: Using a Daily Routine Game on the BLISS Robot for Supporting Personal-Social Development in Children with Autism and Other Special Needs 
+Answer:Yes. The robot uses speech synthesis to communicate with the child.
+
+###
+Citation: (Bharatharaj et al., 2017) 
+Paper title: Robot-Assisted Therapy for Learning and Social Interaction of Children with Autism Spectrum Disorder 
+Answer:Yes. The robot had speech synthesis capabilities.
+
+###
+Citation: (Bharatharaj et al., 2016) 
+Paper title: Effects of Adapted Model-Rival Method and Parrot-Inspired Robot in improving Learning and Social Interaction among Children with Autism 
+Answer:Yes. The robot used a wireless speaker and microphone for communication.
+
+###
+Citation: (Bharatharaj et al., 2018) 
+Paper title: Social engagement of children with autism spectrum disorder in interaction with a parrot-inspired therapeutic robot 
+Answer:Yes. The robot had speech synthesis and text-to-speech capabilities.
+
+###
+Citation: (Boccanfuso et al., 2016) 
+Paper title: Emotional Robot to Examine Different Play Patterns and Affective Responses of Children with and without ASD 
+Answer:Yes. The robot used sound effects to express emotions.
+
+###
+Citation: (Bonarini et al., 2014) 
+Paper title: Integrating Human-Robot and Motion-Based Touchless Interaction for Children with Intellectual Disability 
+Answer:Yes. The study mentions robots giving sound stimuli.
+
+###
+Citation: (Bonarini et al., 2016) 
+Paper title: Playful interaction with Teo, a Mobile Robot for Children with Neurodevelopmental Disorders 
+Answer:Yes. Teo has speech synthesis capabilities.
+
+###
+Citation: (Brivio et al., 2021) 
+Paper title: A soft, mobile, autonomous robot to develop skills through play in autistic children 
+Answer:Yes. The robot uses speech synthesis for communication.
+
+###
+Citation: (Bugnariu et al., 2013) 
+Paper title: Human-robot interaction as a tool to evaluate and quantify motor imitation behavior in children with Autism Spectrum Disorders 
+Answer:Yes. The robot used speech synthesis to give verbal instructions to the children.
+
+###
+Citation: (Carlson et al., 2018) 
+Paper title: Training Autistic Children on Joint Attention Skills with a Robot 
+Answer:Yes. The robot used speech synthesis to communicate with the children.
+
+###
+Citation: (Cervera et al., n.d.) 
+Paper title: Playful Interaction with Humanoid Robots for Social Development in Autistic Children: a Pilot Study 
+Answer:Yes. The robot used speech synthesis to communicate with the children.
+
+###
+Citation: (Charron et al., 2017) 
+Paper title: A Robotic Therapy Case Study: Developing Joint Attention Skills With a Student on the Autism Spectrum 
+Answer:Yes. The NAO robot has speech synthesis capabilities.
+
+###
+Citation: (Chevalier et al., n.d.) 
+Paper title: "iCub says: Do my motor sounds disturb you?" Motor Sounds and Imitation with a Robot for Children with Autism Spectrum Disorder 
+Answer:Yes. The robot used speech synthesis to communicate with participants.
+
+###
+Citation: (Conti et al., 2020) 
+Paper title: An empirical study on integrating a small humanoid robot to support the therapy of children with Autism Spectrum Disorder and Intellectual Disability 
+Answer:Yes. The study used the NAO robot's speech synthesis system.
+
+###
+Citation: (Costa et al., 2013) 
+Paper title: Where is Your Nose?' - Developing Body Awareness Skills Among Children With Autism Using a Humanoid Robot 
+Answer:Yes. The robot used speech synthesis to communicate with the children.
+
+###
+Citation: (Costa et al., 2014) 
+Paper title: Building a Game Scenario to Encourage Children with Autism to Recognize and Label Emotions using a Humanoid Robot 
+Answer:Yes. The robot had a loudspeaker on its chest for verbal communication.
+
+###
+Citation: (De Korte et al., 2020) 
+Paper title: Self-initiations in young children with autism during Pivotal Response Treatment with and without robot assistance 
+Answer:Yes. The study used speech synthesis systems for the robot to communicate.
+
+###
+Citation: (Hamzah et al., 2014) 
+Paper title: Development of Interaction Scenarios based on Pre-School Curriculum in Robotic Intervention for Children with Autism 
+Answer:Yes. The robot used speech synthesis to communicate with the children.
+
+###
+Citation: (Hong et al., 2022) 
+Paper title: Phonetic convergence of children with and without autism in robot interaction 
+Answer:Yes. The study used speech synthesis systems for the robot's speech production.
+
+###
+Citation: (Hossain et al., 2020) 
+Paper title: Human Robot Interaction System for Behavioral Improvement of Autistic Children 
+Answer:Yes. The robot could communicate through voice commands and responses.
+
+###
+Citation: (Kajopoulos et al., 2015) 
+Paper title: Robot-Assisted Training of Joint Attention Skills in Children Diagnosed with Autism 
+Answer:Yes. The robot used speech synthesis to communicate with the children.
+
+###
+Citation: (Lee et al., 2013) 
+Paper title: Robotic System for Eye Contact Training of Children with Autism 
+Answer:Yes. The system used voice recognition and speech synthesis.
+
+###
+Citation: Lemaignan et al. (2022) 
+Paper title: It's Important to Think of Pepper as a Teaching Aid or Resource External to the Classroom: A Social Robot in a School for Autistic Children 
+Answer:Yes - Robot used speech synthesis for communication
+
+###
+Citation: (Marathaki et al., 2022) 
+Paper title: Deploy Social Assistive Robot to develop symbolic play and imitation skills in students with Autism Spectrum Disorder 
+Answer:Yes. The NAO robot used speech synthesis to communicate with the children.
+
+###
+Citation: (Marino et al., 2020) 
+Paper title: Outcomes of a Robot-Assisted Social-Emotional Understanding Intervention for Young Children with Autism Spectrum Disorders 
+Answer:Yes. The study used speech synthesis systems for the robot to communicate.
+
+###
+Citation: (Mavadati et al., 2014) 
+Paper title: Comparing the Gaze Responses of Children with Autism and Typically Developed Individuals in Human-Robot Interaction 
+Answer:Yes. The NAO robot used speech synthesis to interact with the children.
+
+###
+Citation: (Santos et al., 2023) 
+Paper title: Applications of Robotics for Autism Spectrum Disorder: a Scoping Review 
+Answer:Yes. The review mentions the use of speech synthesis systems in some studies.
+
+###
+Citation: (Papadopoulou et al., 2022) 
+Paper title: Efficacy of a Robot-Assisted Intervention in Improving Learning Performance of Elementary School Children with Specific Learning Disorders 
+Answer:Yes. The NAO robot used speech synthesis and recognition systems for communication.
+
+###
+Citation: (Park & Kwon, 2016) 
+Paper title: I CAN TEACH THEM: THE ABILITY OF ROBOT INSTRUCTORS TO COGNITIVE DISABLED CHILDREN 
+Answer:Yes. The robot used an audio file recorded by a human teacher for speech.
+
+###
+Citation: (Pennington et al., 2014) 
+Paper title: Using Robot-Assisted Instruction to Teach Students with Intellectual Disabilities to Use Personal Narrative in Text Messages 
+Answer:Yes. The NAO robot had voice recognition and speech synthesis capabilities.
+
+###
+Citation: (Pistoia et al., 2017) 
+Paper title: ASTRO: Autism Support Therapy by RObot Interaction 
+Answer:Yes. The NAO robot includes speech synthesis capabilities.
+
+###
+Citation: (Pliasa & Fachantidis, 2021) 
+Paper title: Mobile Technologies Serious Games for the Development of Social Skills in Children with Autism Spectrum Disorders, Enhanced with Socially Assistive Robots Interventions 
+Answer:Yes. The Daisy robot had speech synthesis capabilities.
+
+###
+Citation: (Qidwai & Shakir, 2013) 
+Paper title: Robotic Toys for Autistic Children: Innovative tools for teaching and treatment 
+Answer:Yes, study used speech synthesis systems for robot sounds
+
+###
+Citation: Reardon et al., 2018 
+Paper title: Robots Can Teach Students With Intellectual Disabilities: Educational Benefits of Using Robotic and Augmented Reality Applications 
+Answer:Yes, The study used speech synthesis and recognition systems
+
+###
+Citation: Robles-Bykbaev et al., 2018 
+Paper title: A Hybrid Approach Based on Multi-sensory Stimulation Rooms, Robotic Assistants and Ontologies to Provide Support in the Intervention of Children with Autism 
+Answer:Yes, the system incorporated text-to-speech capabilities for robot-child communication
+
+###
+Citation: (Sakka & Gaboriau, 2017) 
+Paper title: A Robotic 'Puppet Master' Application to ASD Therapeutic Support 
+Answer:Yes, the study used voice recording and speech synthesis systems
+
+###
+Citation: Sandygulova et al., 2019 
+Paper title: Interaction design and methodology of robot-assisted therapy for children with severe ASD and ADHD 
+Answer:Yes, authors used speech synthesis for robot communication
+
+###
+Citation: (Sartorato et al., 2017) 
+Paper title: Improving therapeutic outcomes in autism spectrum disorders: Enhancing social communication and sensory processing through the use of interactive robots 
+Answer:Yes, authors discussed voice recognition and speech synthesis systems
+
+###
+Citation: (Scassellati et al., 2018) 
+Paper title: Improving social skills in children with ASD using a long-term, in-home social robot 
+Answer:Yes, the robot provided verbal feedback and instructions
+
+###
+Citation: (Shah et al., 2023) 
+Paper title: The effect of a social robot mediator on speech characteristics of children with Autism Spectrum Disorder 
+Answer:Yes, the robot provided vocal prompts
+
+###
+Citation: She & Ren (2021) 
+Paper title: Enhance the Language Ability of Humanoid Robot NAO through Deep Learning to Interact with Autistic Children 
+Answer:Yes, authors used voice recognition and speech synthesis systems
+
+###
+Citation: Shimaya et al., 2016 
+Paper title: Advantages of Indirect Conversation via a Desktop Humanoid Robot: Case Study on Daily Life Guidance for Adolescents with Autism Spectrum Disorders 
+Answer:Yes, the study used text-to-speech synthesis for robot communication
+
+###
+Citation: (Shimaya et al., 2019) 
+Paper title: Communication Support via a Tele-Operated Robot for Easier Talking: Case/Laboratory Study of Individuals with/Without Autism Spectrum Disorder 
+Answer:Yes, authors used text-to-speech synthesis for robot communication
+
+###
+Citation: (Silvera-Tawil et al., 2018) 
+Paper title: Talk to me: The role of human-robot interaction in Improving verbal communication skills in students with Autism or Intellectual Disability 
+Answer:Yes, the robots included voice recognition and speech synthesis systems
+
+###
+Citation: Soleiman et al., 2014 
+Paper title: RoboParrot: A Robotic Platform for Human Robot Interaction, case of Autistic Children 
+Answer:Yes, the robot had voice recognition and speech synthesis capabilities
+
+###
+Citation: (Taheri et al., 2016) 
+Paper title: Social Robots and Teaching Music to Autistic Children: Myth or Reality? 
+Answer:Yes, the study used voice commands for robot control
+
+###
+Citation: Taheri et al., 2019 
+Paper title: Teaching music to children with autism: A social robotics challenge 
+Answer:Yes, authors used voice recognition and speech synthesis systems
+
+###
+Citation: (Taheri et al., 2018) 
+Paper title: Human-Robot Interaction in Autism Treatment: A Case Study on Three Pairs of Autistic Children as Twins, Siblings, and Classmates 
+Answer:Yes, authors used speech synthesis systems
+
+###
+Citation: (Talaei-Khoeli et al., 2017) 
+Paper title: Lean Robotic Communication for Children with Autism 
+Answer:Yes, the robot used speech to give directives to the child
+
+###
+Citation: (Tartarisco et al., 2022) 
+Paper title: Exploring behavioural and physiological interactions in a group-based emotional skill social robotic training for autism spectrum disorders 
+Answer:Yes, QTrobot includes microphone array and communication capabilities
+
+###
+Citation: (Wood et al., 2019) 
+Paper title: Developing a protocol and experimental setup for using a humanoid robot to assist children with autism to develop visual perspective taking skills 
+Answer:Yes, the robot provided audio feedback through animal sounds and speech
+
+###
+Citation: (Yin & Tung, 2013) 
+Paper title: Design and Evaluation of Applying Robots to Assisting and Inducing Children with Autism in Social Interaction 
+Answer:Yes, both robots were equipped with MP3 modules for sound playback
+
+###
+Citation: (Shahriar et al., 2021) 
+Paper title: Humanoid Robot Enhancing Social and Communicate Skills of Autistic Children: Review 
+Answer:Yes, the study used NAO's voice recognition and speech synthesis capabilities
+
+###
+Citation: Yun et al., 2014 
+Paper title: A Robotic Treatment Approach to promote Social Interaction Skills for Children with Autism Spectrum Disorders 
+Answer:Yes, used speech synthesis system
+
+###
+Citation: Zamin et al., 2019 
+Paper title: Jawi Alphabot: A Jawi Teaching Robot for Children with Autism 
+Answer:Yes, included sound output for letter pronunciation

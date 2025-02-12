@@ -1,0 +1,82 @@
+<Question> 
+ In this study, did authors report having Interaction Limitations (such as Limited complexity of robot interactions, Excessive predictability of interactions, Unclear robot instructions, Unexpected reactions to robot features, Limited spontaneous behavior adaptation, Poor generalization to real-world situations )
+
+<All Answers to this Question>
+
+Final answers statistics: A total of 15 papers answered yes to this question,  whereas 81 papers answered no. Here is the information of the papers that answered yes: 
+
+
+###
+Citation: (Alnajjar et al., 2021) 
+Paper title: Personalized Robot Interventions for Autistic Children: An Automated Methodology for Attention Assessment 
+Answer:Yes. The authors noted limitations in the complexity and adaptability of robot interactions.
+
+###
+Citation: (Brivio et al., 2021) 
+Paper title: A soft, mobile, autonomous robot to develop skills through play in autistic children 
+Answer:Yes. The authors noted limitations in the complexity of robot interactions.
+
+###
+Citation: (Kim et al., 2014) 
+Paper title: Rapid Prototyping Framework for Robot-assisted Training of Autistic Children 
+Answer:Yes. The study reported interaction limitations including repetitive robot behaviors and inability to handle unexpected child responses.
+
+###
+Citation: Lemaignan et al. (2022) 
+Paper title: It's Important to Think of Pepper as a Teaching Aid or Resource External to the Classroom: A Social Robot in a School for Autistic Children 
+Answer:Yes - Limited complexity of robot interactions noted
+
+###
+Citation: (Li et al., 2020) 
+Paper title: Non-Participatory User-Centered Design of Accessible Teacher-Teleoperated Robot and Tablets for Minimally Verbal Autistic Children 
+Answer:Yes. The study reported some limitations in the complexity and spontaneity of robot interactions.
+
+###
+Citation: (Santos et al., 2023) 
+Paper title: Applications of Robotics for Autism Spectrum Disorder: a Scoping Review 
+Answer:Yes. The review mentions interaction limitations like limited complexity of robot interactions in some studies.
+
+###
+Citation: (Pennington et al., 2014) 
+Paper title: Using Robot-Assisted Instruction to Teach Students with Intellectual Disabilities to Use Personal Narrative in Text Messages 
+Answer:Yes. The authors noted the robot could not provide specific feedback on the quality of participants' responses.
+
+###
+Citation: Reardon et al., 2018 
+Paper title: Robots Can Teach Students With Intellectual Disabilities: Educational Benefits of Using Robotic and Augmented Reality Applications 
+Answer:Yes, The study noted limitations in securing student attention and detecting idle states
+
+###
+Citation: (Sakka & Gaboriau, 2017) 
+Paper title: A Robotic 'Puppet Master' Application to ASD Therapeutic Support 
+Answer:Yes, the study noted interaction limitations including limited complexity of robot interactions
+
+###
+Citation: Sandygulova et al., 2019 
+Paper title: Interaction design and methodology of robot-assisted therapy for children with severe ASD and ADHD 
+Answer:Yes, authors reported limitations in robot adaptability and interaction complexity
+
+###
+Citation: (Sartorato et al., 2017) 
+Paper title: Improving therapeutic outcomes in autism spectrum disorders: Enhancing social communication and sensory processing through the use of interactive robots 
+Answer:Yes, authors discussed limitations in robot interaction complexity and adaptability
+
+###
+Citation: (Scassellati et al., 2018) 
+Paper title: Improving social skills in children with ASD using a long-term, in-home social robot 
+Answer:Yes, limitations included limited complexity of robot interactions
+
+###
+Citation: Soleiman et al., 2014 
+Paper title: RoboParrot: A Robotic Platform for Human Robot Interaction, case of Autistic Children 
+Answer:Yes, they noted limitations in physical interaction due to robot being in cage
+
+###
+Citation: Taheri et al., 2019 
+Paper title: Teaching music to children with autism: A social robotics challenge 
+Answer:Yes, authors reported limitations in robot interactions and generalization to real-world situations
+
+###
+Citation: (Yun et al., 2016) 
+Paper title: Robotic Behavioral Intervention to Facilitate Eye Contact and Reading Emotions of Children with Autism Spectrum Disorders 
+Answer:Yes, authors reported vulnerability to failure in child-centered teaching approaches

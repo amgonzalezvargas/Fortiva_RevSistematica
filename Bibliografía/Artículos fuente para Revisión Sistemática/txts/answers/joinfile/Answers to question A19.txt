@@ -1,0 +1,87 @@
+<Question> 
+ In this study, in order to improve a targeted skill on the target population, did authors carry out Executive Function and Cognitive Activities with robots (such as programming robots for executive function skills, working memory activities, inhibitory control exercises, operating robot controllers, cognitive flexibility tasks, and planning activities) ?
+
+<All Answers to this Question>
+
+Final answers statistics: A total of 16 papers answered yes to this question,  whereas 80 papers answered no. Here is the information of the papers that answered yes: 
+
+
+###
+Citation: (Alnajjar et al., 2021) 
+Paper title: Personalized Robot Interventions for Autistic Children: An Automated Methodology for Attention Assessment 
+Answer:Yes. The system included cognitive activities to develop executive function skills.
+
+###
+Citation: (Bonarini et al., 2014) 
+Paper title: Integrating Human-Robot and Motion-Based Touchless Interaction for Children with Intellectual Disability 
+Answer:Yes. The study includes activities to develop cognitive functions like attention and problem solving.
+
+###
+Citation: (Brivio et al., 2021) 
+Paper title: A soft, mobile, autonomous robot to develop skills through play in autistic children 
+Answer:Yes. The robot was used for cognitive activities like working memory and planning tasks.
+
+###
+Citation: (Chevalier et al., n.d.) 
+Paper title: "iCub says: Do my motor sounds disturb you?" Motor Sounds and Imitation with a Robot for Children with Autism Spectrum Disorder 
+Answer:Yes. The study included a "Simon says" game to evaluate executive function skills.
+
+###
+Citation: (Lindsay, 2020) 
+Paper title: Exploring Skills Gained Through a Robotics Program for Youth With Disabilities 
+Answer:Yes. The program involved executive function and cognitive activities with robots, including programming robots.
+
+###
+Citation: (Nanou et al., 2021) 
+Paper title: THE SAS STRATEGY TRAINING FOR CHILDREN WITH ASD IN INCLUSIVE EDUCATIONAL ROBOTICS ACTIVITIES 
+Answer:Yes. The study involved programming LEGO Mindstorms robots, which can develop executive function and cognitive skills.
+
+###
+Citation: (Santos et al., 2023) 
+Paper title: Applications of Robotics for Autism Spectrum Disorder: a Scoping Review 
+Answer:Yes. The review discusses studies that used robots for executive function and cognitive activities with individuals with autism.
+
+###
+Citation: (Pérez-Vazquez et al., 2022) 
+Paper title: Bee-bot robot in the use of executive functions in students with ASD: a pilot study 
+Answer:Yes, the study used programming activities with the Bee-Bot robot to work on executive functions including planning, cognitive flexibility, working memory and inhibitory control
+
+###
+Citation: Reardon et al., 2018 
+Paper title: Robots Can Teach Students With Intellectual Disabilities: Educational Benefits of Using Robotic and Augmented Reality Applications 
+Answer:Yes, The study involved cognitive activities like mathematical calculations, geometric reasoning tasks and vocational skill exercises
+
+###
+Citation: Robles-Bykbaev et al., 2018 
+Paper title: A Hybrid Approach Based on Multi-sensory Stimulation Rooms, Robotic Assistants and Ontologies to Provide Support in the Intervention of Children with Autism 
+Answer:Yes, the system included cognitive activities through components like the piano with lights for memory and attention exercises
+
+###
+Citation: (Sakka & Gaboriau, 2017) 
+Paper title: A Robotic 'Puppet Master' Application to ASD Therapeutic Support 
+Answer:Yes, the study involved programming robots requiring executive function skills and planning activities
+
+###
+Citation: (Sartorato et al., 2017) 
+Paper title: Improving therapeutic outcomes in autism spectrum disorders: Enhancing social communication and sensory processing through the use of interactive robots 
+Answer:Yes, authors described cognitive activities including robot programming tasks
+
+###
+Citation: (Scassellati et al., 2018) 
+Paper title: Improving social skills in children with ASD using a long-term, in-home social robot 
+Answer:Yes, the study included cognitive activities through sequencing and ordering games
+
+###
+Citation: Taheri et al., 2019 
+Paper title: Teaching music to children with autism: A social robotics challenge 
+Answer:Yes, authors conducted cognitive activities involving working memory games and operating musical instruments
+
+###
+Citation: (Taheri et al., 2018) 
+Paper title: Human-Robot Interaction in Autism Treatment: A Case Study on Three Pairs of Autistic Children as Twins, Siblings, and Classmates 
+Answer:Yes, authors conducted cognitive activities involving robot control and programming
+
+###
+Citation: (Shahriar et al., 2021) 
+Paper title: Humanoid Robot Enhancing Social and Communicate Skills of Autistic Children: Review 
+Answer:Yes, the study developed math exercise programs for basic operations using NAO robot

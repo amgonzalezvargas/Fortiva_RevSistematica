@@ -1,0 +1,72 @@
+<Question> 
+ In this study, did authors use Machine Learning Applications (such as K-nearest neighbor classifiers for attention detection, Support vector machines for behavior classification, Decision trees for data analysis, Random forests for physiological data analysis, Gradient Boosted Regression Trees for attentiveness prediction, Machine learning models for physiological data analysis)
+
+<All Answers to this Question>
+
+Final answers statistics: A total of 13 papers answered yes to this question,  whereas 83 papers answered no. Here is the information of the papers that answered yes: 
+
+
+###
+Citation: (Agel et al., 2020) 
+Paper title: Development of Color Following Robot for Interaction with Autistic Children 
+Answer:Yes. The system uses computer vision algorithms for color detection and object tracking.
+
+###
+Citation: (Bharatharaj et al., 2016) 
+Paper title: Effects of Adapted Model-Rival Method and Parrot-Inspired Robot in improving Learning and Social Interaction among Children with Autism 
+Answer:Yes. The study used face recognition techniques.
+
+###
+Citation: (Hossain et al., 2020) 
+Paper title: Human Robot Interaction System for Behavioral Improvement of Autistic Children 
+Answer:Yes. The system used AI algorithms for person detection and interaction.
+
+###
+Citation: (Kim et al., 2021) 
+Paper title: Smiles as a Signal of Prosocial Behaviors Toward the Robot in the Therapeutic Setting for Children With Autism Spectrum Disorder 
+Answer:Yes. The study used machine learning models for analyzing physiological data from EMG sensors.
+
+###
+Citation: (Mavadati et al., 2014) 
+Paper title: Comparing the Gaze Responses of Children with Autism and Typically Developed Individuals in Human-Robot Interaction 
+Answer:Yes. The study used Variable-order Markov Models to analyze and classify gaze patterns.
+
+###
+Citation: (Nie et al., 2018) 
+Paper title: Predicting response to joint attention performance in human-human interaction based on human-robot interaction for young children with autism spectrum disorder 
+Answer:Yes. The study used machine learning algorithms including support vector machines to analyze the data.
+
+###
+Citation: (Santos et al., 2023) 
+Paper title: Applications of Robotics for Autism Spectrum Disorder: a Scoping Review 
+Answer:Yes. The review mentions the use of machine learning techniques in some studies.
+
+###
+Citation: (Rakhymbayeva & Sandygulova, 2021) 
+Paper title: Transfer Learning of Engagement Recognition within Robot-Assisted Therapy for Children with Autism 
+Answer:Yes, the study uses machine learning for engagement classification
+
+###
+Citation: Reardon et al., 2018 
+Paper title: Robots Can Teach Students With Intellectual Disabilities: Educational Benefits of Using Robotic and Augmented Reality Applications 
+Answer:Yes, The study used support vector machines for image classification
+
+###
+Citation: She & Ren (2021) 
+Paper title: Enhance the Language Ability of Humanoid Robot NAO through Deep Learning to Interact with Autistic Children 
+Answer:Yes, authors used neural networks for dialogue generation
+
+###
+Citation: Wanglavan et al., 2019 
+Paper title: The Development of Attention Detection Model from Child Behavior for Robot-Assisted Autism Therapy 
+Answer:Yes, the study used KNN, SVM, decision trees and random forest classifiers
+
+###
+Citation: Welch et al., 2023 
+Paper title: Using Physiological Signals and Machine Learning Algorithms to Measure Attentiveness During Robot-Assisted Social Skills Intervention: A Case Study of Two Children with Autism Spectrum Disorder 
+Answer:Yes, authors used Logistic Regression, Support Vector Machines, Random Forest, and Gradient Boosted Regression Trees algorithms
+
+###
+Citation: (Yun et al., 2016) 
+Paper title: Robotic Behavioral Intervention to Facilitate Eye Contact and Reading Emotions of Children with Autism Spectrum Disorders 
+Answer:Yes, authors used Haar-cascade classifier for face detection

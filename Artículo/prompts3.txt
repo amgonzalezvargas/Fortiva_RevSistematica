@@ -1,0 +1,87 @@
+<Context> The text in <Paper> is a scientific article. I'm reading it as part of a systematic review about Technologies for Enhancing Autonomy in Adults with Intellectual Disabilities. \n
+<Alert> If the text after <Paper> is empty, don't try to answer the question, just respond "THERE IS NO PAPER". \n
+<Instructions> I want you to extract from the paper the answer to each one of the questions in <Questions>. If you can't find an answer for any of the questions, answer N/A and explain why.\n
+<Questions>
+A01: In this study, did authors aim at developing or evaluating Social Communication skills (such as eye contact, social interaction, communication skills, spontaneous conversation, turn-taking, responding to social cues, social-communicative abilities, engagement) ?
+A02: In this study, did authors aim at developing or evaluating Emotional Intelligence skills (such as emotion recognition, emotional comprehension, emotional expression, emotional competence, socio-emotional understanding) ?
+A03: In this study, did authors aim at developing or evaluating Language and Speech skills (such as language development, articulation, literacy, expressive language abilities) ?
+A04: In this study, did authors aim at developing or evaluating Cognitive Skills (such as attention, problem-solving abilities, planning, cognitive flexibility, numeracy, attentiveness) ?
+A05: In this study, did authors aim at developing or evaluating Social Cognition skills (such as symbolic play, imitation, joint attention, visual perspective-taking, mentalizing skills, facial expression recognition, gesture recognition, body language interpretation) ?
+A06: In this study, did authors aim at developing or evaluating Physical and Motor Development skills (such as motor skills, physical abilities, psychomotor skills, motor imitation) ?
+A07: In this study, did authors aim at developing or evaluating Self-Management and Adaptive Skills (such as personal hygiene, house cleaning, self-awareness, self-regulation, adaptive behaviors, body awareness) ?
+A08: In this study, did authors aim at studying Children with autism spectrum disorder (ASD) ?
+A09: In this study, did authors aim at studying Adolescents with ASD ?
+A10: In this study, did authors aim at studying Adults with ASD ?
+A11: In this study, did authors aim at studying Children with other neurodevelopmental disabilities (not ASD) ?
+A12: In this study, did authors aim at studying Adolescents with other neurodevelopmental disabilities (not ASD) ?
+
+--------------------------------------------------
+<Context> The text in <Paper> is a scientific article. I'm reading it as part of a systematic review about Technologies for Enhancing Autonomy in Adults with Intellectual Disabilities. \n
+<Alert> If the text after <Paper> is empty, don't try to answer the question, just respond "THERE IS NO PAPER". \n
+<Instructions> I want you to extract from the paper the answer to each one of the questions in <Questions>. If you can't find an answer for any of the questions, answer N/A and explain why.\n
+<Questions>
+A13: In this study, did authors aim at studying Adults with other neurodevelopmental disabilities (not ASD) ?
+A14: In this study, in order to improve a targeted skill on the target population, did authors carry out Social Interaction Activities with robots (such as interactive scenarios, role-playing exercises, collaborative scenarios, one-on-one interactions, group-based sessions) ?
+A15: In this study, in order to improve a targeted skill on the target population, did authors carry out Storytelling and Play-based Activities with robots (such as storytelling activities, emotional storytelling games, symbolic play activities, pretend play scenarios) ?
+A16: In this study, in order to improve a targeted skill on the target population, did authors carry out Imitation and Movement Activities with robots (such as imitation games, mimicking movements, guided physical exercises, coordination exercises) ?
+A17: In this study, in order to improve a targeted skill on the target population, did authors carry out Emotion and Expression Recognition Activities with robots (such as facial expression recognition exercises, emotional gesture recognition tasks, gesture recognition activities) ?
+A18: In this study, in order to improve a targeted skill on the target population, did authors carry out Music and Rhythm Activities with robots (such as music-based interventions, rhythm-based activities, virtual music games, instrument playing lessons) ?
+A19: In this study, in order to improve a targeted skill on the target population, did authors carry out Executive Function and Cognitive Activities with robots (such as programming robots for executive function skills, working memory activities, inhibitory control exercises, operating robot controllers, cognitive flexibility tasks, and planning activities) ?
+A20: In this study, in order to improve a targeted skill on the target population, did authors carry out Communication and Language Activities with robots (such as digital picture exchange communication, graphical user interface interactions, object-action association exercises, joint attention tasks) ?
+A21: In this study, did authors use Commercially Available Robots (such as NAO robot by SoftBank Robotics, KASPAR robot by University of Hertfordshire, Zeno robot by Hanson Robotics, POL mobile toy robot, GIPY 1 mobile toy robot, Robosapien by WowWee, iRobiQ Robot by Yujin Robotics, Sphero Robot, LEGO robotics kits, OWI-535 Robotic Arm Edge kit, and others)
+A22: In this study, did authors use Commercially Available Hardware (such as Microsoft Kinect camera, Tobii Eye Tracker T60, Vicon Motion Capture System, PTI Phoenix Technologies Motion Capture Equipment, Empatica E4 Wristband, and others)
+A23: In this study, did authors use Commercially Available Software (such as Choregraphe robot programming software, AITalk text-to-speech synthesis, and others)
+A24: In this study, did authors use Custom Developed Robots (such as KiliRo parrot-inspired therapeutic robot, TeoG soft mobile autonomous robot, KERO playable kit, Modified robotic arm with custom control interface, Pioneer robot with custom control system, and others)
+
+--------------------------------------------------
+<Context> The text in <Paper> is a scientific article. I'm reading it as part of a systematic review about Technologies for Enhancing Autonomy in Adults with Intellectual Disabilities. \n
+<Alert> If the text after <Paper> is empty, don't try to answer the question, just respond "THERE IS NO PAPER". \n
+<Instructions> I want you to extract from the paper the answer to each one of the questions in <Questions>. If you can't find an answer for any of the questions, answer N/A and explain why.\n
+<Questions>
+A25: In this study, did authors use Custom Developed Hardware (such as Robot server and client system for eye contact training, Portable robotic modular kit for teaching gestures, Custom computer subsystems for in-home interventions, and others)
+A26: In this study, did authors use Custom Developed Software (such as Custom robot behavior control software, Custom interactive games and activities, Custom facial recognition software, Custom behavioral analysis algorithms, Custom machine learning algorithms for physiological signals, Custom color tracking software, Custom robot control algorithms, Custom robot safety protocols, and others)
+A27: In this study, did authors use Humanoid Robots (such as Humanoid robot NAO, Humanoid robot Kaspar, Humanoid robot Pepper, Humanoid robot Zeno, Mobile soft robot Teo, Mobile soft robot TeoG, Parrot-inspired robot KiliRo, CuDDler robot)
+A28: In this study, did authors use Control Systems (such as Autonomous navigation systems, Mobile platforms, Bee-Bot programmable toy robot, Tele-operated robots, Remotely controlled robots)
+A29: In this study, did authors use Visual Sensors (such as Web cameras for attention monitoring, Web cameras for head pose tracking, Cameras for facial recognition, Cameras for emotion detection, Cameras for gaze tracking, RGB-D sensors for gesture recognition, Depth sensors)
+A30: In this study, did authors use Physical Sensors (such as EMG sensors for smile detection, Motion sensors, Tactile sensors, Accelerometers, Eye tracking devices)
+A31: In this study, did authors use Display Interfaces (such as Touchscreens, Interactive displays, Graphical user interfaces (GUIs))
+A32: In this study, did authors use Immersive Interfaces (such as Virtual reality (VR) interfaces, Augmented reality (AR) interfaces)
+A33: In this study, did authors use Physical Feedback (such as Haptic interfaces, Force-feedback systems)
+A34: In this study, did authors use Communication Feedback (such as Voice recognition systems, Speech synthesis systems)
+A35: In this study, did authors use Robot Control Systems (such as Expressive body movement control, Animated eye movement control, Gaze expression control, Touch-reactive response systems, Life-like expression generation, Movement capability control) 
+A36: In this study, did authors use Interactive AI Systems (such as Social behavior promotion systems, Dyadic interaction systems, Verbal interaction systems, Non-verbal interaction systems, Touch interface systems, Human-robot communication systems)
+
+--------------------------------------------------
+<Context> The text in <Paper> is a scientific article. I'm reading it as part of a systematic review about Technologies for Enhancing Autonomy in Adults with Intellectual Disabilities. \n
+<Alert> If the text after <Paper> is empty, don't try to answer the question, just respond "THERE IS NO PAPER". \n
+<Instructions> I want you to extract from the paper the answer to each one of the questions in <Questions>. If you can't find an answer for any of the questions, answer N/A and explain why.\n
+<Questions>
+A37: In this study, did authors use Adaptive Learning Systems (such as System of Least Prompts (SLP), System of Most Prompts (SMP), Constant Time Delay (CTD), Difficulty adaptation algorithms, Performance-based prompting systems)
+A38: In this study, did authors use Machine Learning Applications (such as K-nearest neighbor classifiers for attention detection, Support vector machines for behavior classification, Decision trees for data analysis, Random forests for physiological data analysis, Gradient Boosted Regression Trees for attentiveness prediction, Machine learning models for physiological data analysis) 
+A39: In this study, did authors use Signal Processing Systems (such as Gesture recognition algorithms, Movement recognition algorithms, Facial feature recognition systems, Non-verbal cue interpretation systems) 
+A40: In the results of this study, did authors report obtaining Social Interaction Improvements (such as Increased joint attention, Enhanced social engagement, Enhanced social behaviors, Increased interaction time with robots )
+A41: In the results of this study, did authors report obtaining Communication Improvements (such as Improved communication effectiveness )
+A42: In the results of this study, did authors report obtaining Emotional Improvements (such as Enhanced emotion comprehension, Improved emotion recognition, Increased positive emotions )
+A43: In the results of this study, did authors report obtaining Motor and Spatial Skills Improvements (such as Improved hand-eye coordination, Better direction understanding, Better geometric reasoning )
+A44: In the results of this study, did authors report obtaining Daily Living Skills Improvements (such as Improved life skills, Enhanced office vocational skills, )
+A45: To gather the results of this study, did authors use Direct Observation Methods (such as Video recordings analysis, Audio recordings analysis, Observational data collection, Interaction logs analysis )
+A46: To gather the results of this study, did authors use Stakeholder Feedback Methods (such as Caregiver survey results, Structured interview findings, Clinician feedback analysis, Educator feedback analysis )
+A47: To gather the results of this study, did authors use Standardized Assessment Tools (such as Test of Emotional Comprehension (TEC) scores, Emotional Lexicon Test (ELT) results, Childhood Autism Spectrum Test (CAST) scores, Social Responsiveness Scale (SRS) measurements, )
+A48: To gather the results of this study, did authors use Behavioral Indicators (such as Eye contact measurements, Touch interaction analysis, Manipulation skills assessment, Posture analysis, Verbal output measurements, Task completion rates, Imitation skills assessment )
+
+--------------------------------------------------
+<Context> The text in <Paper> is a scientific article. I'm reading it as part of a systematic review about Technologies for Enhancing Autonomy in Adults with Intellectual Disabilities. \n
+<Alert> If the text after <Paper> is empty, don't try to answer the question, just respond "THERE IS NO PAPER". \n
+<Instructions> I want you to extract from the paper the answer to each one of the questions in <Questions>. If you can't find an answer for any of the questions, answer N/A and explain why.\n
+<Questions>
+A49: To gather the results of this study, did authors use Physiological Measurements (such as Heart rate variability monitoring, Precision force measurements, Motion capture analysis )
+A50: To gather the results of this study, did authors use Statistical Analysis Results (such as Paired sample t-test results, Independent t-test findings, ANOVA results, Mann-Whitney U-test results, Wilcoxon signed-rank test findings, Chi-Square test results, Linear mixed models analysis, Generalized linear mixed models results)
+A51: In this study, did authors report having Methodological Limitations (such as Small sample sizes, Limited statistical power, Lack of sample diversity, Short intervention duration, Absence of long-term follow-up, Limited generalizability of findings ) Inconsistent assessment methods, Difficulty in measuring social skills accurately, Limited sensitivity of assessment tools, Potential assessment bias, Lack of control groups, Inconsistent intervention protocols )
+A52: In this study, did authors report having Technical Limitations (such as Hardware failures, Software dependencies issues, Installation problems, Operational glitches, Response delays, Sensor inaccuracies, Integration problems between components, Interoperability issues, Limited robot adaptability, Delayed feedback systems )
+A53: In this study, did authors report having Interaction Limitations (such as Limited complexity of robot interactions, Excessive predictability of interactions, Unclear robot instructions, Unexpected reactions to robot features, Limited spontaneous behavior adaptation, Poor generalization to real-world situations )
+A54: In this study, did authors report having Resource Limitations (such as High development costs, High maintenance costs, Limited accessibility, Limited scalability, Resource constraints in implementation )
+A55: In this study, did authors report having Research Design Limitations (such as Focus on tool development rather than outcomes, Lack of comprehensive outcome assessments, Limited understanding of intervention mechanisms, Artificial experimental settings, Variations in human operator control )
+A56: In this study, did authors report having Outcome Limitations (such as Individual variability in responses, Limited skill transfer to non-robotic contexts, Uncertain long-term sustainability of improvements, Limited evidence of real-world effectiveness )
+A57: In this study, did authors report having Assessment Limitations (such as Difficulty capturing behavior nuances, Limited depth of assessment, Challenges in detecting subtle changes, Problems measuring complex social interactions )
+A58: In this study, did authors report having Implementation Limitations (such as Limited replicability, Inconsistent device operation, Setting-specific constraints, Limited adaptability to diverse needs, Resource-dependent implementation
+

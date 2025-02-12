@@ -1,0 +1,32 @@
+<Question> 
+ In this study, did authors report having Resource Limitations (such as High development costs, High maintenance costs, Limited accessibility, Limited scalability, Resource constraints in implementation )
+
+<All Answers to this Question>
+
+Final answers statistics: A total of 5 papers answered yes to this question,  whereas 91 papers answered no. Here is the information of the papers that answered yes: 
+
+
+###
+Citation: (Brivio et al., 2021) 
+Paper title: A soft, mobile, autonomous robot to develop skills through play in autistic children 
+Answer:Yes. The authors mentioned resource constraints in implementation.
+
+###
+Citation: (Santos et al., 2023) 
+Paper title: Applications of Robotics for Autism Spectrum Disorder: a Scoping Review 
+Answer:Yes. The review discusses resource limitations like high costs as challenges in some studies.
+
+###
+Citation: (Pennington et al., 2014) 
+Paper title: Using Robot-Assisted Instruction to Teach Students with Intellectual Disabilities to Use Personal Narrative in Text Messages 
+Answer:Yes. The authors noted the high cost of the robot technology as a limitation.
+
+###
+Citation: (Sartorato et al., 2017) 
+Paper title: Improving therapeutic outcomes in autism spectrum disorders: Enhancing social communication and sensory processing through the use of interactive robots 
+Answer:Yes, authors discussed high costs and limited accessibility as resource limitations
+
+###
+Citation: (Yin & Tung, 2013) 
+Paper title: Design and Evaluation of Applying Robots to Assisting and Inducing Children with Autism in Social Interaction 
+Answer:Yes, authors discussed the high cost of manufacturing robots as a limitation

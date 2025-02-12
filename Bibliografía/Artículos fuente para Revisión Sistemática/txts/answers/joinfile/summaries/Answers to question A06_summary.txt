@@ -1,0 +1,11 @@
+There were 27 papers that focused on developing or evaluating physical and motor development skills, while 69 papers did not address this aspect. The analysis of these studies reveals a significant emphasis on various motor skill development approaches using robotic technologies.
+
+Several studies focused on basic motor skills and physical abilities through robot-mediated interventions. For instance, Alnajjar et al. (2021) and Brivio et al. (2021) implemented systems specifically designed for motor skill development through physical exercises and activities. More specialized approaches were seen in studies like Casellato et al. (2017), which concentrated on hand-eye coordination and motor learning assessment in children with ASD using robotic setups.
+
+Motor imitation emerged as a prominent theme across multiple studies. Bugnariu et al. (2013) and Chevalier et al. (n.d.) utilized humanoid robots to evaluate and develop motor imitation capabilities. Similarly, Conti et al. (2020) integrated small humanoid robots to support therapy focusing on gross motor imitation skills. Moorthy & Pugazhenthi (2016, 2017) developed specialized robotic training kits targeting psychomotor skills, including grasping, directional movement, and hand-eye coordination.
+
+Some researchers incorporated innovative approaches to motor development through engaging activities. Taheri et al. (2016, 2018, 2019) utilized music-based interventions to improve fine motor skills through instrument playing with robotic guidance. Bonarini et al. (2014, 2016) implemented motion-based touchless interaction and full-body engagement with mobile robots to support kinesthetic learning and behavioral skill development.
+
+The integration of multiple sensory and motor components was evident in several studies. Robles-Bykbaev et al. (2018) combined multi-sensory stimulation rooms with robotic assistants, while Sandygulova et al. (2019) implemented dance and movement activities requiring motor imitation. More comprehensive approaches were seen in studies like Zanatta et al. (2023), which combined robot-assisted therapy with virtual reality for motor rehabilitation.
+
+These findings demonstrate the diverse applications of robotic technologies in developing physical and motor skills, ranging from basic movement coordination to complex motor imitation and rehabilitation protocols.

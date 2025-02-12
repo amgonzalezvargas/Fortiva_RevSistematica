@@ -1,0 +1,54 @@
+<Context> I uploaded here an academic paper. I'm reading it as part  of a systematic review about  Technologies for Enhancing Autonomy in Adults with Intellectual Disabilities
+
+<Alert> If you don't find a file uploaded with this prompt, don't proceed with the rest, just respond "YOU DIDN'T UPLOAD ANY FILE"
+
+<Instructions> I want you to extract from the paper the answer to each one of the 20 questions in <Questions>. If you can't find an answer for any of the questions, answer N/A and explain why.
+
+<Answer structure> Your answer should be only one json object (don't add any other explanatory, introductory or final text), the fields and their contents should be these:
+"File_name": name of the uploaded document,
+"Paper_title": title of the paper, 
+"Reference": Full APA reference,
+"Citation": APA in-line citation (Author, year), 
+"A1": Answer 1,
+"A2": Answer 2,
+"A3": Answer 3,
+"A4": Answer 4,
+"A5": Answer 5,
+"A6": Answer 6,
+"A7": Answer 7,
+"A8": Answer 8,
+"A9": Answer 9,
+"A10": Answer 10,
+"A11": Answer 11,
+"A12": Answer 12,
+"A13": Answer 13,
+"A14": Answer 14,
+"A15": Answer 15,
+"A16": Answer 16,
+"A17": Answer 17,
+"A18": Answer 18,
+"A19": Answer 19,
+"A20": Answer 20,
+There must be an answer for each question, and there must be a different field for every answer, don't group them into a list. Inside the field's value you can't use the characters '\' or '"'. Don't use tabulations either.
+
+<Questions>
+1. In this study, did authors aim at developing or evaluating Social Communication skills (such as eye contact, social interaction, communication skills, spontaneous conversation, turn-taking, responding to social cues, social-communicative abilities, engagement) ?
+2. In this study, did authors aim at developing or evaluating Emotional Intelligence skills (such as emotion recognition, emotional comprehension, emotional expression, emotional competence, socio-emotional understanding) ?
+3. In this study, did authors aim at developing or evaluating Language and Speech skills (such as language development, articulation, literacy, expressive language abilities) ?
+4. In this study, did authors aim at developing or evaluating Cognitive Skills (such as attention, problem-solving abilities, planning, cognitive flexibility,  numeracy, attentiveness) ?
+5. In this study, did authors aim at developing or evaluating Social Cognition skills (such as symbolic play, imitation, joint attention, visual perspective-taking, mentalizing skills, facial expression recognition, gesture recognition, body language interpretation) ?
+6. In this study, did authors aim at developing or evaluating Physical and Motor Development skills (such as motor skills, physical abilities, psychomotor skills, motor imitation) ?
+7. In this study, did authors aim at developing or evaluating Self-Management and Adaptive Skills (such as personal hygiene, house cleaning, self-awareness, self-regulation, adaptive behaviors, body awareness) ?
+8. In this study, did authors aim at studying Children with autism spectrum disorder (ASD) ?
+9. In this study, did authors aim at studying Adolescents with ASD ?
+10. In this study, did authors aim at studying Adults with ASD ?
+11. In this study, did authors aim at studying Children with other neurodevelopmental disabilities (not ASD) ?
+12. In this study, did authors aim at studying Adolescents with other neurodevelopmental disabilities (not ASD) ?
+13. In this study, did authors aim at studying Adults with other neurodevelopmental disabilities (not ASD) ?
+14. In this study, in order to improve a targeted skill on the target population, did authors carry out Social Interaction Activities with robots (such as interactive scenarios, role-playing exercises, collaborative scenarios, one-on-one interactions, group-based sessions) ?
+15. In this study, in order to improve a targeted skill on the target population, did authors carry out Storytelling and Play-based Activities with robots (such as storytelling activities, emotional storytelling games, symbolic play activities, pretend play scenarios) ?
+16. In this study, in order to improve a targeted skill on the target population, did authors carry out Imitation and Movement Activities with robots (such as imitation games, mimicking movements, guided physical exercises, coordination exercises) ?
+17. In this study, in order to improve a targeted skill on the target population, did authors carry out Emotion and Expression Recognition Activities with robots (such as facial expression recognition exercises, emotional gesture recognition tasks, gesture recognition activities) ?
+18. In this study, in order to improve a targeted skill on the target population, did authors carry out Music and Rhythm Activities with robots (such as music-based interventions, rhythm-based activities, virtual music games, instrument playing lessons) ?
+19. In this study, in order to improve a targeted skill on the target population, did authors carry out Executive Function and Cognitive Activities with robots (such as programming robots for executive function skills, working memory activities, inhibitory control exercises, operating robot controllers, cognitive flexibility tasks, and planning activities) ?
+20. In this study, in order to improve a targeted skill on the target population, did authors carry out Communication and Language Activities with robots (such as digital picture exchange communication, graphical user interface interactions, object-action association exercises, joint attention tasks) ?

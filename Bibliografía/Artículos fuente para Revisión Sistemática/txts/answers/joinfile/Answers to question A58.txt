@@ -1,0 +1,97 @@
+<Question> 
+ In this study, did authors report having Implementation Limitations (such as Limited replicability, Inconsistent device operation, Setting-specific constraints, Limited adaptability to diverse needs, Resource-dependent implementation
+
+<All Answers to this Question>
+
+Final answers statistics: A total of 18 papers answered yes to this question,  whereas 78 papers answered no. Here is the information of the papers that answered yes: 
+
+
+###
+Citation: (Alnajjar et al., 2021) 
+Paper title: Personalized Robot Interventions for Autistic Children: An Automated Methodology for Attention Assessment 
+Answer:Yes. The authors noted limitations in replicability and adaptability to diverse needs.
+
+###
+Citation: (Brivio et al., 2021) 
+Paper title: A soft, mobile, autonomous robot to develop skills through play in autistic children 
+Answer:Yes. The authors noted some implementation constraints in different settings.
+
+###
+Citation: (Costa et al., 2014) 
+Paper title: Building a Game Scenario to Encourage Children with Autism to Recognize and Label Emotions using a Humanoid Robot 
+Answer:Yes. The authors reported implementation limitations related to the experimental setup and room configuration.
+
+###
+Citation: (Kim et al., 2014) 
+Paper title: Rapid Prototyping Framework for Robot-assisted Training of Autistic Children 
+Answer:Yes. The study reported implementation limitations including the need for improvements in interaction fluency and level of detail in instructions.
+
+###
+Citation: Lemaignan et al. (2022) 
+Paper title: It's Important to Think of Pepper as a Teaching Aid or Resource External to the Classroom: A Social Robot in a School for Autistic Children 
+Answer:Yes - Limited replicability and setting-specific constraints noted
+
+###
+Citation: (Marzano et al., 2021) 
+Paper title: Improving Social Communication Skills in Autism Spectrum Disorders Using Programmable Toy Robots 
+Answer:Yes. The authors noted limitations in replicability and adaptability to diverse needs.
+
+###
+Citation: (Santos et al., 2023) 
+Paper title: Applications of Robotics for Autism Spectrum Disorder: a Scoping Review 
+Answer:Yes. The review discusses implementation limitations like limited replicability in some studies.
+
+###
+Citation: (Pennington et al., 2014) 
+Paper title: Using Robot-Assisted Instruction to Teach Students with Intellectual Disabilities to Use Personal Narrative in Text Messages 
+Answer:Yes. The authors noted the intervention required changes to the classroom environment that increased its intrusiveness.
+
+###
+Citation: (Pistoia et al., 2017) 
+Paper title: ASTRO: Autism Support Therapy by RObot Interaction 
+Answer:Yes. The study noted that some parents had difficulty using the system independently without therapist assistance.
+
+###
+Citation: (Qidwai & Shakir, 2013) 
+Paper title: Robotic Toys for Autistic Children: Innovative tools for teaching and treatment 
+Answer:Yes, study reported setting-specific constraints with IR control system
+
+###
+Citation: Reardon et al., 2018 
+Paper title: Robots Can Teach Students With Intellectual Disabilities: Educational Benefits of Using Robotic and Augmented Reality Applications 
+Answer:Yes, The study noted implementation challenges in verbiage and interaction design
+
+###
+Citation: Sandygulova et al., 2019 
+Paper title: Interaction design and methodology of robot-assisted therapy for children with severe ASD and ADHD 
+Answer:Yes, authors reported limitations in replicability and device operation
+
+###
+Citation: (Sartorato et al., 2017) 
+Paper title: Improving therapeutic outcomes in autism spectrum disorders: Enhancing social communication and sensory processing through the use of interactive robots 
+Answer:Yes, authors discussed limited replicability and implementation constraints
+
+###
+Citation: (Scassellati et al., 2018) 
+Paper title: Improving social skills in children with ASD using a long-term, in-home social robot 
+Answer:Yes, limitations included setting-specific constraints and limited adaptability
+
+###
+Citation: Taheri et al., 2019 
+Paper title: Teaching music to children with autism: A social robotics challenge 
+Answer:Yes, authors reported limited replicability and setting-specific constraints
+
+###
+Citation: (Wood et al., 2019) 
+Paper title: Developing a protocol and experimental setup for using a humanoid robot to assist children with autism to develop visual perspective taking skills 
+Answer:Yes, implementation limitations included difficulty maintaining consistent progression criteria due to varied participant abilities
+
+###
+Citation: Zanatta et al. (2023) 
+Paper title: Combining robot-assisted therapy with virtual reality or using it alone? A systematic review on health-related quality of life in neurological patients 
+Answer:Yes, the study reported implementation limitations including limited replicability and adaptability to diverse needs
+
+###
+Citation: (Simlesa et al., 2022) 
+Paper title: Imitation, focus of attention and social behaviours of children with autism spectrum disorder in interaction with robots 
+Answer:Yes, the study reported implementation limitations including inconsistent device operation

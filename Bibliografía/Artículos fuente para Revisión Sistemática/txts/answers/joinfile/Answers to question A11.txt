@@ -1,0 +1,67 @@
+<Question> 
+ In this study, did authors aim at studying Children with other neurodevelopmental disabilities (not ASD) ?
+
+<All Answers to this Question>
+
+Final answers statistics: A total of 12 papers answered yes to this question,  whereas 84 papers answered no. Here is the information of the papers that answered yes: 
+
+
+###
+Citation: (Attawibulkul et al., 2019) 
+Paper title: Using a Daily Routine Game on the BLISS Robot for Supporting Personal-Social Development in Children with Autism and Other Special Needs 
+Answer:Yes. The study included children with other special needs besides autism.
+
+###
+Citation: (Bonarini et al., 2014) 
+Paper title: Integrating Human-Robot and Motion-Based Touchless Interaction for Children with Intellectual Disability 
+Answer:Yes. The study focuses on children with intellectual disabilities.
+
+###
+Citation: (Bonarini et al., 2016) 
+Paper title: Playful interaction with Teo, a Mobile Robot for Children with Neurodevelopmental Disorders 
+Answer:Yes. The study included children with other neurodevelopmental disabilities besides ASD.
+
+###
+Citation: (Brivio et al., 2021) 
+Paper title: A soft, mobile, autonomous robot to develop skills through play in autistic children 
+Answer:Yes. The study included children with other neurodevelopmental disabilities beyond ASD.
+
+###
+Citation: (Casellato et al., 2017) 
+Paper title: Robotic Set-Up to Quantify Hand-Eye Behavior in Motor Execution and Learning of Children with Autism Spectrum Disorder 
+Answer:Yes: The study included one child with ASD as a case study.
+
+###
+Citation: (Chaldi & Mantzanidou, 2021) 
+Paper title: IMPROVING LISTENER RESPONDING SKILL USING BEE-BOT® IN AUTISM SPECTRUM DISORDER: CASE STUDY 
+Answer:Yes. The study focused on a 5-year-old child with autism spectrum disorder.
+
+###
+Citation: (Papadopoulou et al., 2022) 
+Paper title: Efficacy of a Robot-Assisted Intervention in Improving Learning Performance of Elementary School Children with Specific Learning Disorders 
+Answer:Yes. The study included children with specific learning disorders (not ASD) in 3rd and 4th grade of elementary school.
+
+###
+Citation: (Park & Kwon, 2016) 
+Paper title: I CAN TEACH THEM: THE ABILITY OF ROBOT INSTRUCTORS TO COGNITIVE DISABLED CHILDREN 
+Answer:Yes. The study focused on children with cognitive disabilities.
+
+###
+Citation: Sandygulova et al., 2019 
+Paper title: Interaction design and methodology of robot-assisted therapy for children with severe ASD and ADHD 
+Answer:Yes, authors studied children with ADHD
+
+###
+Citation: (Taheri et al., 2016) 
+Paper title: Social Robots and Teaching Music to Autistic Children: Myth or Reality? 
+Answer:Yes, the study included 6-year-old children with autism spectrum disorders
+
+###
+Citation: Yun et al., 2014 
+Paper title: A Robotic Treatment Approach to promote Social Interaction Skills for Children with Autism Spectrum Disorders 
+Answer:Yes, study included non-ASD children as control group
+
+###
+Citation: (Zhanatkyzy et al., 2020) 
+Paper title: Quantitative Results of Robot-Assisted Therapy for Children with Autism, ADHD and Delayed Speech Development 
+Answer:Yes, the study included children with ADHD and DSD

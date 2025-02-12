@@ -1,0 +1,72 @@
+<Question> 
+ In this study, did authors aim at developing or evaluating Self-Management and Adaptive Skills (such as personal hygiene, house cleaning, self-awareness, self-regulation, adaptive behaviors, body awareness) ?
+
+<All Answers to this Question>
+
+Final answers statistics: A total of 13 papers answered yes to this question,  whereas 83 papers answered no. Here is the information of the papers that answered yes: 
+
+
+###
+Citation: (Attawibulkul et al., 2019) 
+Paper title: Using a Daily Routine Game on the BLISS Robot for Supporting Personal-Social Development in Children with Autism and Other Special Needs 
+Answer:Yes. The study aimed to develop self-management and adaptive skills related to daily routines like brushing teeth, bathing, eating, and packing a school bag.
+
+###
+Citation: (Bonarini et al., 2014) 
+Paper title: Integrating Human-Robot and Motion-Based Touchless Interaction for Children with Intellectual Disability 
+Answer:Yes. The study aims to develop adaptive behavior and practical skills related to daily living.
+
+###
+Citation: (Bonarini et al., 2016) 
+Paper title: Playful interaction with Teo, a Mobile Robot for Children with Neurodevelopmental Disorders 
+Answer:Yes. The authors aimed to develop self-management and adaptive skills such as self-awareness through interaction with Teo.
+
+###
+Citation: (Brivio et al., 2021) 
+Paper title: A soft, mobile, autonomous robot to develop skills through play in autistic children 
+Answer:Yes. The robot was used to develop adaptive behaviors and self-regulation skills.
+
+###
+Citation: (Costa et al., 2013) 
+Paper title: Where is Your Nose?' - Developing Body Awareness Skills Among Children With Autism Using a Humanoid Robot 
+Answer:Yes. The study aimed to develop self-management and adaptive skills in children with autism, specifically increasing their body awareness.
+
+###
+Citation: (Filiou, 2022) 
+Paper title: Robotics and cbt and entertainment in the enhancement of children with asd, mental disorders, dysfunctional emotions and irrational beliefs 
+Answer:Yes. The paper mentions using robots to improve self-regulation and adaptive behaviors in children with ASD.
+
+###
+Citation: Lemaignan et al. (2022) 
+Paper title: It's Important to Think of Pepper as a Teaching Aid or Resource External to the Classroom: A Social Robot in a School for Autistic Children 
+Answer:Yes - The robot supported self-regulation and adaptive behaviors through calming activities and emotional regulation
+
+###
+Citation: (Lindsay, 2020) 
+Paper title: Exploring Skills Gained Through a Robotics Program for Youth With Disabilities 
+Answer:Yes. The study aimed to evaluate self-management and adaptive skills, as it assessed outcomes related to time management and self-confidence.
+
+###
+Citation: (Moorthy & Pugazhenthi, 2017) 
+Paper title: Teaching Psychomotor Skills to Autistic Children by Employing a Robotic Training Kit: A Pilot Study 
+Answer:Yes. The study aimed to develop adaptive skills for daily living activities.
+
+###
+Citation: (Nanou et al., 2021) 
+Paper title: THE SAS STRATEGY TRAINING FOR CHILDREN WITH ASD IN INCLUSIVE EDUCATIONAL ROBOTICS ACTIVITIES 
+Answer:Yes. The study aimed to develop self-management and adaptive skills by teaching children with autism a specific strategy (SAS) to participate in teamwork.
+
+###
+Citation: (Park & Kwon, 2016) 
+Paper title: I CAN TEACH THEM: THE ABILITY OF ROBOT INSTRUCTORS TO COGNITIVE DISABLED CHILDREN 
+Answer:Yes. The study aimed at developing self-management and adaptive skills, specifically house cleaning skills, for children with cognitive disabilities.
+
+###
+Citation: Reardon et al., 2018 
+Paper title: Robots Can Teach Students With Intellectual Disabilities: Educational Benefits of Using Robotic and Augmented Reality Applications 
+Answer:Yes, The study aimed at developing life skills and vocational skills to increase independence in personal terms, for community engagement, and on the job
+
+###
+Citation: (Sakka & Gaboriau, 2017) 
+Paper title: A Robotic 'Puppet Master' Application to ASD Therapeutic Support 
+Answer:Yes, the study helped subjects develop self-awareness and self-regulation through robot-mediated interactions

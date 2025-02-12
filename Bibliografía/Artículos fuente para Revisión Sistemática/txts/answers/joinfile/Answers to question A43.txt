@@ -1,0 +1,107 @@
+<Question> 
+ In the results of this study, did authors report obtaining Motor and Spatial Skills Improvements (such as Improved hand-eye coordination, Better direction understanding, Better geometric reasoning )
+
+<All Answers to this Question>
+
+Final answers statistics: A total of 20 papers answered yes to this question,  whereas 76 papers answered no. Here is the information of the papers that answered yes: 
+
+
+###
+Citation: (Alnajjar et al., 2021) 
+Paper title: Personalized Robot Interventions for Autistic Children: An Automated Methodology for Attention Assessment 
+Answer:Yes. The system included activities to improve motor skills and direction understanding.
+
+###
+Citation: (Bonarini et al., 2016) 
+Paper title: Playful interaction with Teo, a Mobile Robot for Children with Neurodevelopmental Disorders 
+Answer:Yes. The results reported improved direction understanding through spatial activities with Teo.
+
+###
+Citation: (Brivio et al., 2021) 
+Paper title: A soft, mobile, autonomous robot to develop skills through play in autistic children 
+Answer:Yes. The authors reported improved motor skills and spatial understanding.
+
+###
+Citation: (Bugnariu et al., 2013) 
+Paper title: Human-robot interaction as a tool to evaluate and quantify motor imitation behavior in children with Autism Spectrum Disorders 
+Answer:Yes. The results showed improvements in motor imitation skills could be quantified using the robot and analysis method.
+
+###
+Citation: (Casellato et al., 2017) 
+Paper title: Robotic Set-Up to Quantify Hand-Eye Behavior in Motor Execution and Learning of Children with Autism Spectrum Disorder 
+Answer:Yes: The results showed improvements in motor learning and hand-eye coordination for the child with ASD, though delayed compared to typically developing peers.
+
+###
+Citation: (Conti et al., 2020) 
+Paper title: An empirical study on integrating a small humanoid robot to support the therapy of children with Autism Spectrum Disorder and Intellectual Disability 
+Answer:Yes. The results reported improvements in motor skills, specifically gross motor imitation abilities.
+
+###
+Citation: (Moorthy & Pugazhenthi, 2016) 
+Paper title: Imitation Based Training to Enhance Psychomotor Skills in Autistic Children Using a Snatcher Robot 
+Answer:Yes. The results showed improvements in hand-eye coordination, direction understanding, and motor skills.
+
+###
+Citation: (Moorthy & Pugazhenthi, 2017) 
+Paper title: Teaching Psychomotor Skills to Autistic Children by Employing a Robotic Training Kit: A Pilot Study 
+Answer:Yes. The study reported improvements in hand-eye coordination and direction understanding.
+
+###
+Citation: (Santos et al., 2023) 
+Paper title: Applications of Robotics for Autism Spectrum Disorder: a Scoping Review 
+Answer:Yes. The review mentions some studies reporting improvements in motor skills.
+
+###
+Citation: (Qidwai & Shakir, 2013) 
+Paper title: Robotic Toys for Autistic Children: Innovative tools for teaching and treatment 
+Answer:Yes, study reported improved coordination through movement activities
+
+###
+Citation: (Qidwai et al., 2019) 
+Paper title: Humanoid Robot as a Teacher's Assistant: Helping Children with Autism to Learn Social and Academic Skills 
+Answer:Yes, the study reported improvements in hand-eye coordination
+
+###
+Citation: Reardon et al., 2018 
+Paper title: Robots Can Teach Students With Intellectual Disabilities: Educational Benefits of Using Robotic and Augmented Reality Applications 
+Answer:Yes, The study reported improvements in geometric reasoning and object manipulation skills
+
+###
+Citation: Sandygulova et al., 2019 
+Paper title: Interaction design and methodology of robot-assisted therapy for children with severe ASD and ADHD 
+Answer:Yes, authors reported improvements in movement imitation
+
+###
+Citation: (Sartorato et al., 2017) 
+Paper title: Improving therapeutic outcomes in autism spectrum disorders: Enhancing social communication and sensory processing through the use of interactive robots 
+Answer:Yes, authors reported improved coordination and movement abilities
+
+###
+Citation: (Taheri et al., 2016) 
+Paper title: Social Robots and Teaching Music to Autistic Children: Myth or Reality? 
+Answer:Yes, the study reported improvements in fine hand movements and rhythm perception
+
+###
+Citation: Taheri et al., 2019 
+Paper title: Teaching music to children with autism: A social robotics challenge 
+Answer:Yes, authors reported improved hand-eye coordination and motor skills
+
+###
+Citation: (Taheri et al., 2018) 
+Paper title: Human-Robot Interaction in Autism Treatment: A Case Study on Three Pairs of Autistic Children as Twins, Siblings, and Classmates 
+Answer:Yes, authors reported improvements in imitation and motor skills
+
+###
+Citation: Tobar et al., 2021 
+Paper title: Portable Robotic Modular Kit for Teaching Gestures in Children with ASD 
+Answer:Yes, results showed improvements in assembly skills and motor coordination
+
+###
+Citation: (Yin & Tung, 2013) 
+Paper title: Design and Evaluation of Applying Robots to Assisting and Inducing Children with Autism in Social Interaction 
+Answer:Yes, children showed improvements in physical imitation abilities
+
+###
+Citation: Zanatta et al. (2023) 
+Paper title: Combining robot-assisted therapy with virtual reality or using it alone? A systematic review on health-related quality of life in neurological patients 
+Answer:Yes, the study reported improvements in motor and functional outcomes related to both upper and lower limb impairment across neurological populations

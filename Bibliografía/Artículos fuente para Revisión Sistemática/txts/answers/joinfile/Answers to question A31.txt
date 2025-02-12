@@ -1,0 +1,192 @@
+<Question> 
+ In this study, did authors use Display Interfaces (such as Touchscreens, Interactive displays, Graphical user interfaces (GUIs))
+
+<All Answers to this Question>
+
+Final answers statistics: A total of 37 papers answered yes to this question,  whereas 59 papers answered no. Here is the information of the papers that answered yes: 
+
+
+###
+Citation: (Abdelmohsen & Arafa, 2021) 
+Paper title: Training Social Skills of Children with ASD Through Social Virtual Robot 
+Answer:Yes. The system used a desktop computer display interface.
+
+###
+Citation: (Valadao et al., 2016) 
+Paper title: Analysis of the use of a robot to improve social skills in children with autism spectrum disorder 
+Answer:Yes. The robot MARIA had a monitor to display multimedia content.
+
+###
+Citation: (Alnajjar et al., 2021) 
+Paper title: Personalized Robot Interventions for Autistic Children: An Automated Methodology for Attention Assessment 
+Answer:Yes. The system used the mobile phone display as an interface.
+
+###
+Citation: (Attawibulkul et al., 2019) 
+Paper title: Using a Daily Routine Game on the BLISS Robot for Supporting Personal-Social Development in Children with Autism and Other Special Needs 
+Answer:Yes. The BLISS robot version 3 has an interactive touch screen for displaying a face and playing games.
+
+###
+Citation: (Bonarini et al., 2014) 
+Paper title: Integrating Human-Robot and Motion-Based Touchless Interaction for Children with Intellectual Disability 
+Answer:Yes. The study uses large displays.
+
+###
+Citation: (Brivio et al., 2021) 
+Paper title: A soft, mobile, autonomous robot to develop skills through play in autistic children 
+Answer:Yes. The robot uses a touchscreen interface on a tablet.
+
+###
+Citation: (Carlson et al., 2018) 
+Paper title: Training Autistic Children on Joint Attention Skills with a Robot 
+Answer:Yes. The study used phone screens to display visual stimuli.
+
+###
+Citation: (Casellato et al., 2017) 
+Paper title: Robotic Set-Up to Quantify Hand-Eye Behavior in Motor Execution and Learning of Children with Autism Spectrum Disorder 
+Answer:Yes: The study used a table-mounted screen display.
+
+###
+Citation: (Chevalier et al., n.d.) 
+Paper title: "iCub says: Do my motor sounds disturb you?" Motor Sounds and Imitation with a Robot for Children with Autism Spectrum Disorder 
+Answer:Yes. The robot was presented on a computer screen.
+
+###
+Citation: (Tobar et al., 2021) 
+Paper title: KERO-Playable Robotic Platform to Contribute to Non-verbal Communication Teaching in Children with Autism Spectrum Disorder 
+Answer:Yes. The study used a touchscreen interface for the games.
+
+###
+Citation: (Kajopoulos et al., 2015) 
+Paper title: Robot-Assisted Training of Joint Attention Skills in Children Diagnosed with Autism 
+Answer:Yes. The study used mobile phone screens as display interfaces.
+
+###
+Citation: (Lee et al., 2014) 
+Paper title: Enhancement of the Communication Effectiveness of Interactive Robots for Autism Therapy by Using Touch and Colour Feedback 
+Answer:Yes. The study used a laptop display to show color feedback in one of the experimental scenarios.
+
+###
+Citation: Lemaignan et al. (2022) 
+Paper title: It's Important to Think of Pepper as a Teaching Aid or Resource External to the Classroom: A Social Robot in a School for Autistic Children 
+Answer:Yes - Used tablet interface for interaction
+
+###
+Citation: (Li et al., 2020) 
+Paper title: Non-Participatory User-Centered Design of Accessible Teacher-Teleoperated Robot and Tablets for Minimally Verbal Autistic Children 
+Answer:Yes. The system used touchscreen tablet interfaces for both the child and adult.
+
+###
+Citation: (Marino et al., 2020) 
+Paper title: Outcomes of a Robot-Assisted Social-Emotional Understanding Intervention for Young Children with Autism Spectrum Disorders 
+Answer:Yes. The study used a touchscreen interface on a tablet for the therapist to control the robot.
+
+###
+Citation: (Nanou et al., 2021) 
+Paper title: THE SAS STRATEGY TRAINING FOR CHILDREN WITH ASD IN INCLUSIVE EDUCATIONAL ROBOTICS ACTIVITIES 
+Answer:Yes. The study used tablets with touchscreens for programming the robots.
+
+###
+Citation: (Nie et al., 2018) 
+Paper title: Predicting response to joint attention performance in human-human interaction based on human-robot interaction for young children with autism spectrum disorder 
+Answer:Yes. The system included monitors to display targets and rewards.
+
+###
+Citation: (Santos et al., 2023) 
+Paper title: Applications of Robotics for Autism Spectrum Disorder: a Scoping Review 
+Answer:Yes. The review mentions the use of touchscreens and graphical interfaces in some studies.
+
+###
+Citation: (Park & Kwon, 2016) 
+Paper title: I CAN TEACH THEM: THE ABILITY OF ROBOT INSTRUCTORS TO COGNITIVE DISABLED CHILDREN 
+Answer:Yes. The study used a desktop computer connected to a VIM projector as a display interface.
+
+###
+Citation: (Pistoia et al., 2017) 
+Paper title: ASTRO: Autism Support Therapy by RObot Interaction 
+Answer:Yes. The system included a web interface for therapists to interact with the system.
+
+###
+Citation: (Pliasa & Fachantidis, 2021) 
+Paper title: Mobile Technologies Serious Games for the Development of Social Skills in Children with Autism Spectrum Disorders, Enhanced with Socially Assistive Robots Interventions 
+Answer:Yes. The study used a tablet with touchscreen for the digital games.
+
+###
+Citation: Robles-Bykbaev et al., 2018 
+Paper title: A Hybrid Approach Based on Multi-sensory Stimulation Rooms, Robotic Assistants and Ontologies to Provide Support in the Intervention of Children with Autism 
+Answer:Yes, the system used tablets/smartphones as display interfaces
+
+###
+Citation: (Scassellati et al., 2018) 
+Paper title: Improving social skills in children with ASD using a long-term, in-home social robot 
+Answer:Yes, the system used a touchscreen interface for interactive games
+
+###
+Citation: Shimaya et al., 2016 
+Paper title: Advantages of Indirect Conversation via a Desktop Humanoid Robot: Case Study on Daily Life Guidance for Adolescents with Autism Spectrum Disorders 
+Answer:Yes, the study used keyboard interfaces for text input
+
+###
+Citation: (Silva et al., 2023) 
+Paper title: Social Stories for Promoting Social Communication with Children with Autism Spectrum Disorder Using a Humanoid Robot: Step-by-Step Study 
+Answer:Yes, the study used a 5-inch touchscreen display interface in the OPT device
+
+###
+Citation: (Silvera-Tawil et al., 2018) 
+Paper title: Talk to me: The role of human-robot interaction in Improving verbal communication skills in students with Autism or Intellectual Disability 
+Answer:Yes, the study used graphical user interfaces through Choregraphe software
+
+###
+Citation: Soleiman et al., 2014 
+Paper title: RoboParrot: A Robotic Platform for Human Robot Interaction, case of Autistic Children 
+Answer:Yes, the system had a graphical user interface for robot control
+
+###
+Citation: (Subramani et al., 2017) 
+Paper title: Development of a Robotic Motor Skills Assessment System for Children with Autism 
+Answer:Yes, the system used a 50-inch full HD display
+
+###
+Citation: (Taheri et al., 2016) 
+Paper title: Social Robots and Teaching Music to Autistic Children: Myth or Reality? 
+Answer:Yes, the study used a configurable user-friendly GUI
+
+###
+Citation: Taheri et al., 2019 
+Paper title: Teaching music to children with autism: A social robotics challenge 
+Answer:Yes, authors used graphical user interfaces
+
+###
+Citation: (Taheri et al., 2018) 
+Paper title: Human-Robot Interaction in Autism Treatment: A Case Study on Three Pairs of Autistic Children as Twins, Siblings, and Classmates 
+Answer:Yes, authors used touchscreens and graphical interfaces
+
+###
+Citation: (Tartarisco et al., 2022) 
+Paper title: Exploring behavioural and physiological interactions in a group-based emotional skill social robotic training for autism spectrum disorders 
+Answer:Yes, QTrobot has a screen for presenting animated faces and uses tablet interface for control
+
+###
+Citation: Tobar et al., 2021 
+Paper title: Portable Robotic Modular Kit for Teaching Gestures in Children with ASD 
+Answer:Yes, the system used an Android application interface to control the robot
+
+###
+Citation: Wanglavan et al., 2019 
+Paper title: The Development of Attention Detection Model from Child Behavior for Robot-Assisted Autism Therapy 
+Answer:Yes, the system used touchscreen interfaces
+
+###
+Citation: (Wood et al., 2017) 
+Paper title: Developing Child-Robot Interaction Scenarios with a Humanoid Robot to Assist Children with Autism in Developing Visual Perspective Taking Skills 
+Answer:Yes, the study used a screen display to show what the robot could see
+
+###
+Citation: (Wood et al., 2019) 
+Paper title: Developing a protocol and experimental setup for using a humanoid robot to assist children with autism to develop visual perspective taking skills 
+Answer:Yes, a screen display was used to show what Kaspar could see through its cameras
+
+###
+Citation: Yun et al., 2014 
+Paper title: A Robotic Treatment Approach to promote Social Interaction Skills for Children with Autism Spectrum Disorders 
+Answer:Yes, used touchscreen interface

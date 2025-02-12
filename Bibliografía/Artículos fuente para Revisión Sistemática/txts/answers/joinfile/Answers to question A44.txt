@@ -1,0 +1,47 @@
+<Question> 
+ In the results of this study, did authors report obtaining Daily Living Skills Improvements (such as Improved life skills, Enhanced office vocational skills, )
+
+<All Answers to this Question>
+
+Final answers statistics: A total of 8 papers answered yes to this question,  whereas 88 papers answered no. Here is the information of the papers that answered yes: 
+
+
+###
+Citation: (Attawibulkul et al., 2019) 
+Paper title: Using a Daily Routine Game on the BLISS Robot for Supporting Personal-Social Development in Children with Autism and Other Special Needs 
+Answer:Yes. The daily routine game aimed to improve skills related to daily living activities.
+
+###
+Citation: (Brivio et al., 2021) 
+Paper title: A soft, mobile, autonomous robot to develop skills through play in autistic children 
+Answer:Yes. The authors reported improved life skills.
+
+###
+Citation: (Costa et al., 2013) 
+Paper title: Where is Your Nose?' - Developing Body Awareness Skills Among Children With Autism Using a Humanoid Robot 
+Answer:Yes. Teachers reported some children improved in identifying body parts.
+
+###
+Citation: (Moorthy & Pugazhenthi, 2016) 
+Paper title: Imitation Based Training to Enhance Psychomotor Skills in Autistic Children Using a Snatcher Robot 
+Answer:Yes. Parents reported children were able to generalize the concept of picking up and placing things in everyday life.
+
+###
+Citation: (Moorthy & Pugazhenthi, 2017) 
+Paper title: Teaching Psychomotor Skills to Autistic Children by Employing a Robotic Training Kit: A Pilot Study 
+Answer:Yes. The study reported improvements in daily living skills like holding plates/tumblers and using remote controls.
+
+###
+Citation: (Nanou et al., 2021) 
+Paper title: THE SAS STRATEGY TRAINING FOR CHILDREN WITH ASD IN INCLUSIVE EDUCATIONAL ROBOTICS ACTIVITIES 
+Answer:Yes. The results showed improved skills in participating in teamwork activities.
+
+###
+Citation: (Park & Kwon, 2016) 
+Paper title: I CAN TEACH THEM: THE ABILITY OF ROBOT INSTRUCTORS TO COGNITIVE DISABLED CHILDREN 
+Answer:Yes. The study reported improvements in house cleaning skills, which are daily living skills.
+
+###
+Citation: Reardon et al., 2018 
+Paper title: Robots Can Teach Students With Intellectual Disabilities: Educational Benefits of Using Robotic and Augmented Reality Applications 
+Answer:Yes, The study reported improvements in vocational skills and life skills

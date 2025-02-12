@@ -1,0 +1,157 @@
+<Question> 
+ In the results of this study, did authors report obtaining Emotional Improvements (such as Enhanced emotion comprehension, Improved emotion recognition, Increased positive emotions )
+
+<All Answers to this Question>
+
+Final answers statistics: A total of 30 papers answered yes to this question,  whereas 66 papers answered no. Here is the information of the papers that answered yes: 
+
+
+###
+Citation: (Abdelmohsen & Arafa, 2021) 
+Paper title: Training Social Skills of Children with ASD Through Social Virtual Robot 
+Answer:Yes. Results showed improvement in emotion recognition and expression ability.
+
+###
+Citation: (Valadao et al., 2016) 
+Paper title: Analysis of the use of a robot to improve social skills in children with autism spectrum disorder 
+Answer:Yes. The results showed increased positive emotions and excitement for most children with ASD during interaction with the robot.
+
+###
+Citation: (Alnajjar et al., 2021) 
+Paper title: Personalized Robot Interventions for Autistic Children: An Automated Methodology for Attention Assessment 
+Answer:Yes. The system detected improvements in emotion recognition and expression for some children.
+
+###
+Citation: (Bharatharaj et al., 2017) 
+Paper title: Robot-Assisted Therapy for Learning and Social Interaction of Children with Autism Spectrum Disorder 
+Answer:Yes. The emotion recognition analysis showed increased happiness in children over the course of the study.
+
+###
+Citation: (Boccanfuso et al., 2016) 
+Paper title: Emotional Robot to Examine Different Play Patterns and Affective Responses of Children with and without ASD 
+Answer:Yes. The results showed enhanced emotion comprehension for some children based on their responses to the robot's emotional states.
+
+###
+Citation: (Bonarini et al., 2016) 
+Paper title: Playful interaction with Teo, a Mobile Robot for Children with Neurodevelopmental Disorders 
+Answer:Yes. The results reported enhanced emotion comprehension and increased positive emotions.
+
+###
+Citation: (Brivio et al., 2021) 
+Paper title: A soft, mobile, autonomous robot to develop skills through play in autistic children 
+Answer:Yes. The authors reported enhanced emotion comprehension and recognition.
+
+###
+Citation: (Costa et al., 2014) 
+Paper title: Building a Game Scenario to Encourage Children with Autism to Recognize and Label Emotions using a Humanoid Robot 
+Answer:Yes. The authors reported some individual improvements in labeling specific emotions.
+
+###
+Citation: (Filiou, 2022) 
+Paper title: Robotics and cbt and entertainment in the enhancement of children with asd, mental disorders, dysfunctional emotions and irrational beliefs 
+Answer:Yes. The paper reports improvements in emotion recognition and comprehension in children with ASD from robot interventions.
+
+###
+Citation: (Giannopulu, 2013) 
+Paper title: Embedded Multimodal Nonverbal and Verbal Interactions Between a Mobile Toy Robot and Autistic Children 
+Answer:Yes. Some words/verbs expressing positive emotion were observed in the experimental phase.
+
+###
+Citation: (Giannopulu, 2013) 
+Paper title: Multimodal Cognitive Nonverbal and Verbal Interactions: the Neurorehabilitation of Autistic Children Via Mobile Toy Robots 
+Answer:Yes. The results showed enhanced emotion recognition and expression of positive emotions.
+
+###
+Citation: (Tobar et al., 2021) 
+Paper title: KERO-Playable Robotic Platform to Contribute to Non-verbal Communication Teaching in Children with Autism Spectrum Disorder 
+Answer:Yes. The results reported improved emotion recognition.
+
+###
+Citation: (Kim et al., 2021) 
+Paper title: Smiles as a Signal of Prosocial Behaviors Toward the Robot in the Therapeutic Setting for Children With Autism Spectrum Disorder 
+Answer:Yes. The results reported improved emotion recognition in children with ASD.
+
+###
+Citation: (Lebersfeld et al., 2018) 
+Paper title: The socially animated machine (SAM) robot: A social skills intervention for children with autism spectrum disorder 
+Answer:Yes. Both groups improved in emotion identification accuracy.
+
+###
+Citation: Lemaignan et al. (2022) 
+Paper title: It's Important to Think of Pepper as a Teaching Aid or Resource External to the Classroom: A Social Robot in a School for Autistic Children 
+Answer:Yes - Self-reported mood improvements after robot interactions
+
+###
+Citation: (Marino et al., 2020) 
+Paper title: Outcomes of a Robot-Assisted Social-Emotional Understanding Intervention for Young Children with Autism Spectrum Disorders 
+Answer:Yes. The results reported enhanced emotion comprehension and improved emotion recognition.
+
+###
+Citation: (Marzano et al., 2021) 
+Paper title: Improving Social Communication Skills in Autism Spectrum Disorders Using Programmable Toy Robots 
+Answer:Yes. The autistic adolescents showed increased positive emotions and empathy towards the robots.
+
+###
+Citation: (Miskam et al., 2013) 
+Paper title: Study on Social Interaction between Children with Autism and Humanoid Robot NAO 
+Answer:Yes. The children were able to correctly identify emotions expressed by the robot.
+
+###
+Citation: (Santos et al., 2023) 
+Paper title: Applications of Robotics for Autism Spectrum Disorder: a Scoping Review 
+Answer:Yes. The review discusses studies finding improvements in emotion recognition and comprehension.
+
+###
+Citation: Puyon & Giannopulu, 2013 
+Paper title: Emergent Emotional and Verbal Strategies in Autism are Based on Multimodal Interactions with Toy Robots in Free Spontaneous Game Play 
+Answer:Yes, children expressed positive emotions through words and verbs only during game play
+
+###
+Citation: (Qidwai & Shakir, 2013) 
+Paper title: Robotic Toys for Autistic Children: Innovative tools for teaching and treatment 
+Answer:Yes, study reported increased positive emotions and engagement
+
+###
+Citation: (Sakka & Gaboriau, 2017) 
+Paper title: A Robotic 'Puppet Master' Application to ASD Therapeutic Support 
+Answer:Yes, the study reported enhanced emotion comprehension and expression
+
+###
+Citation: Sandygulova et al., 2019 
+Paper title: Interaction design and methodology of robot-assisted therapy for children with severe ASD and ADHD 
+Answer:Yes, authors reported enhanced emotion recognition and expression
+
+###
+Citation: (Sartorato et al., 2017) 
+Paper title: Improving therapeutic outcomes in autism spectrum disorders: Enhancing social communication and sensory processing through the use of interactive robots 
+Answer:Yes, authors reported enhanced emotion recognition and comprehension
+
+###
+Citation: (Scassellati et al., 2018) 
+Paper title: Improving social skills in children with ASD using a long-term, in-home social robot 
+Answer:Yes, children showed improvements in emotion comprehension through games
+
+###
+Citation: (Silva et al., 2023) 
+Paper title: Social Stories for Promoting Social Communication with Children with Autism Spectrum Disorder Using a Humanoid Robot: Step-by-Step Study 
+Answer:Yes, the study aimed to improve emotion recognition through storytelling scenarios
+
+###
+Citation: (Tartarisco et al., 2022) 
+Paper title: Exploring behavioural and physiological interactions in a group-based emotional skill social robotic training for autism spectrum disorders 
+Answer:Yes, results showed improvements in emotional comprehension and emotional language
+
+###
+Citation: (Shahriar et al., 2021) 
+Paper title: Humanoid Robot Enhancing Social and Communicate Skills of Autistic Children: Review 
+Answer:Yes, the study reported more positive attitudes and improved emotional skills after robot interaction
+
+###
+Citation: (Yun et al., 2016) 
+Paper title: Robotic Behavioral Intervention to Facilitate Eye Contact and Reading Emotions of Children with Autism Spectrum Disorders 
+Answer:Yes, improved emotion recognition was reported
+
+###
+Citation: (Zhanatkyzy et al., 2020) 
+Paper title: Quantitative Results of Robot-Assisted Therapy for Children with Autism, ADHD and Delayed Speech Development 
+Answer:Yes, the study reported positive valence scores towards robot interaction

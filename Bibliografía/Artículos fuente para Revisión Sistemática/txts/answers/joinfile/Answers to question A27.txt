@@ -1,0 +1,322 @@
+<Question> 
+ In this study, did authors use Humanoid Robots (such as Humanoid robot NAO, Humanoid robot Kaspar, Humanoid robot Pepper, Humanoid robot Zeno, Mobile soft robot Teo, Mobile soft robot TeoG, Parrot-inspired robot KiliRo, CuDDler robot)
+
+<All Answers to this Question>
+
+Final answers statistics: A total of 63 papers answered yes to this question,  whereas 33 papers answered no. Here is the information of the papers that answered yes: 
+
+
+###
+Citation: (Abdelmohsen & Arafa, 2021) 
+Paper title: Training Social Skills of Children with ASD Through Social Virtual Robot 
+Answer:Yes. The virtual robot 'Jammo' was a humanoid robot character.
+
+###
+Citation: (Alnajjar et al., 2021) 
+Paper title: Personalized Robot Interventions for Autistic Children: An Automated Methodology for Attention Assessment 
+Answer:Yes. The study used the humanoid NAO robot.
+
+###
+Citation: (Bonarini et al., 2014) 
+Paper title: Integrating Human-Robot and Motion-Based Touchless Interaction for Children with Intellectual Disability 
+Answer:Yes. The study uses mobile robots.
+
+###
+Citation: (Brivio et al., 2021) 
+Paper title: A soft, mobile, autonomous robot to develop skills through play in autistic children 
+Answer:Yes. TeoG is described as a soft, humanoid-like robot.
+
+###
+Citation: (Bugnariu et al., 2013) 
+Paper title: Human-robot interaction as a tool to evaluate and quantify motor imitation behavior in children with Autism Spectrum Disorders 
+Answer:Yes. The study used the humanoid robot Zeno.
+
+###
+Citation: (Carlson et al., 2018) 
+Paper title: Training Autistic Children on Joint Attention Skills with a Robot 
+Answer:Yes. The CuDDler robot used in the study appears to be a humanoid robot.
+
+###
+Citation: (Cervera et al., n.d.) 
+Paper title: Playful Interaction with Humanoid Robots for Social Development in Autistic Children: a Pilot Study 
+Answer:Yes. The study used the NAO humanoid robot.
+
+###
+Citation: (Charron et al., 2017) 
+Paper title: A Robotic Therapy Case Study: Developing Joint Attention Skills With a Student on the Autism Spectrum 
+Answer:Yes. The study used the NAO humanoid robot.
+
+###
+Citation: (Chevalier et al., n.d.) 
+Paper title: "iCub says: Do my motor sounds disturb you?" Motor Sounds and Imitation with a Robot for Children with Autism Spectrum Disorder 
+Answer:Yes. The study used the humanoid robot iCub.
+
+###
+Citation: (Conti et al., 2020) 
+Paper title: An empirical study on integrating a small humanoid robot to support the therapy of children with Autism Spectrum Disorder and Intellectual Disability 
+Answer:Yes. The study used the humanoid NAO robot.
+
+###
+Citation: (Costa et al., 2013) 
+Paper title: Where is Your Nose?' - Developing Body Awareness Skills Among Children With Autism Using a Humanoid Robot 
+Answer:Yes. The study used the humanoid robot KASPAR.
+
+###
+Citation: (Costa et al., 2014) 
+Paper title: Building a Game Scenario to Encourage Children with Autism to Recognize and Label Emotions using a Humanoid Robot 
+Answer:Yes. The study used the humanoid robot ZECA.
+
+###
+Citation: (De Korte et al., 2020) 
+Paper title: Self-initiations in young children with autism during Pivotal Response Treatment with and without robot assistance 
+Answer:Yes. The study used the humanoid robot NAO.
+
+###
+Citation: (Filiou, 2022) 
+Paper title: Robotics and cbt and entertainment in the enhancement of children with asd, mental disorders, dysfunctional emotions and irrational beliefs 
+Answer:Yes. The paper mentions using humanoid robots like NAO.
+
+###
+Citation: (Che Hamid et al., 2013) 
+Paper title: Human-Robot Interaction (HRI) For Children with Autism to Augment Communication Skills 
+Answer:Yes. The study used the humanoid robot NAO.
+
+###
+Citation: (Hamzah et al., 2014) 
+Paper title: Development of Interaction Scenarios based on Pre-School Curriculum in Robotic Intervention for Children with Autism 
+Answer:Yes. The study used the humanoid robot NAO.
+
+###
+Citation: (Hong et al., 2022) 
+Paper title: Phonetic convergence of children with and without autism in robot interaction 
+Answer:Yes. The study used a social robot, though the specific model is not mentioned.
+
+###
+Citation: (Hossain et al., 2020) 
+Paper title: Human Robot Interaction System for Behavioral Improvement of Autistic Children 
+Answer:Yes. The system was a 3.5-foot tall humanoid robot.
+
+###
+Citation: (Tobar et al., 2021) 
+Paper title: KERO-Playable Robotic Platform to Contribute to Non-verbal Communication Teaching in Children with Autism Spectrum Disorder 
+Answer:Yes. KERO is described as a humanoid robot with head and upper limb movements.
+
+###
+Citation: (Kajopoulos et al., 2015) 
+Paper title: Robot-Assisted Training of Joint Attention Skills in Children Diagnosed with Autism 
+Answer:Yes. The CuDDler robot used in the study is described as a 'pet robot', which likely has some humanoid features.
+
+###
+Citation: (Kim et al., 2014) 
+Paper title: Rapid Prototyping Framework for Robot-assisted Training of Autistic Children 
+Answer:Yes. The study used the humanoid NAO robot.
+
+###
+Citation: (Kim et al., 2021) 
+Paper title: Smiles as a Signal of Prosocial Behaviors Toward the Robot in the Therapeutic Setting for Children With Autism Spectrum Disorder 
+Answer:Yes. The study used the humanoid NAO robot.
+
+###
+Citation: (Lee et al., 2014) 
+Paper title: Enhancement of the Communication Effectiveness of Interactive Robots for Autism Therapy by Using Touch and Colour Feedback 
+Answer:Yes. The study used a small humanoid robot called Palro.
+
+###
+Citation: Lemaignan et al. (2022) 
+Paper title: It's Important to Think of Pepper as a Teaching Aid or Resource External to the Classroom: A Social Robot in a School for Autistic Children 
+Answer:Yes - Used Softbank Pepper humanoid robot
+
+###
+Citation: (Li et al., 2020) 
+Paper title: Non-Participatory User-Centered Design of Accessible Teacher-Teleoperated Robot and Tablets for Minimally Verbal Autistic Children 
+Answer:Yes. The study used the humanoid Zeno robot.
+
+###
+Citation: (Marathaki et al., 2022) 
+Paper title: Deploy Social Assistive Robot to develop symbolic play and imitation skills in students with Autism Spectrum Disorder 
+Answer:Yes. The study used the humanoid NAO robot.
+
+###
+Citation: (Marino et al., 2020) 
+Paper title: Outcomes of a Robot-Assisted Social-Emotional Understanding Intervention for Young Children with Autism Spectrum Disorders 
+Answer:Yes. The study used the humanoid robot NAO.
+
+###
+Citation: (Mavadati et al., 2014) 
+Paper title: Comparing the Gaze Responses of Children with Autism and Typically Developed Individuals in Human-Robot Interaction 
+Answer:Yes. The study used the NAO humanoid robot.
+
+###
+Citation: (Miskam et al., 2013) 
+Paper title: Study on Social Interaction between Children with Autism and Humanoid Robot NAO 
+Answer:Yes. The study used the humanoid NAO robot.
+
+###
+Citation: (Nie et al., 2018) 
+Paper title: Predicting response to joint attention performance in human-human interaction based on human-robot interaction for young children with autism spectrum disorder 
+Answer:Yes. The study used a humanoid NAO robot.
+
+###
+Citation: (Santos et al., 2023) 
+Paper title: Applications of Robotics for Autism Spectrum Disorder: a Scoping Review 
+Answer:Yes. The review mentions the use of humanoid robots like NAO, KASPAR, Zeno, and others.
+
+###
+Citation: (Papadopoulou et al., 2022) 
+Paper title: Efficacy of a Robot-Assisted Intervention in Improving Learning Performance of Elementary School Children with Specific Learning Disorders 
+Answer:Yes. The study used the humanoid robot NAO.
+
+###
+Citation: (Park & Kwon, 2016) 
+Paper title: I CAN TEACH THEM: THE ABILITY OF ROBOT INSTRUCTORS TO COGNITIVE DISABLED CHILDREN 
+Answer:Yes. The study used the humanoid NAO robot.
+
+###
+Citation: (Peng et al., 2018) 
+Paper title: Music Play Using a Vibraphone with a Humanoid Robot as Interaction Training for Autistic Children 
+Answer:Yes. The study used the humanoid robot DARwIn-OP.
+
+###
+Citation: (Pennington et al., 2014) 
+Paper title: Using Robot-Assisted Instruction to Teach Students with Intellectual Disabilities to Use Personal Narrative in Text Messages 
+Answer:Yes. The study used a NAO humanoid robot.
+
+###
+Citation: (Pistoia et al., 2017) 
+Paper title: ASTRO: Autism Support Therapy by RObot Interaction 
+Answer:Yes. The study used the humanoid NAO robot.
+
+###
+Citation: (Qidwai & Shakir, 2013) 
+Paper title: Robotic Toys for Autistic Children: Innovative tools for teaching and treatment 
+Answer:Yes, study used humanoid robot Robosapien
+
+###
+Citation: (Qidwai et al., 2019) 
+Paper title: Humanoid Robot as a Teacher's Assistant: Helping Children with Autism to Learn Social and Academic Skills 
+Answer:Yes, the study used the NAO humanoid robot
+
+###
+Citation: Reardon et al., 2018 
+Paper title: Robots Can Teach Students With Intellectual Disabilities: Educational Benefits of Using Robotic and Augmented Reality Applications 
+Answer:Yes, The study used a humanoid robot (Meka Robotics M3)
+
+###
+Citation: Robles-Bykbaev et al., 2018 
+Paper title: A Hybrid Approach Based on Multi-sensory Stimulation Rooms, Robotic Assistants and Ontologies to Provide Support in the Intervention of Children with Autism 
+Answer:Yes, the system used an anthropomorphic robot with customizable appearances
+
+###
+Citation: (Sakka & Gaboriau, 2017) 
+Paper title: A Robotic 'Puppet Master' Application to ASD Therapeutic Support 
+Answer:Yes, the study used NAO humanoid robots
+
+###
+Citation: Sandygulova et al., 2019 
+Paper title: Interaction design and methodology of robot-assisted therapy for children with severe ASD and ADHD 
+Answer:Yes, authors used NAO humanoid robot
+
+###
+Citation: (Sartorato et al., 2017) 
+Paper title: Improving therapeutic outcomes in autism spectrum disorders: Enhancing social communication and sensory processing through the use of interactive robots 
+Answer:Yes, authors discussed humanoid robots like NAO, KASPAR and others
+
+###
+Citation: (Shah et al., 2023) 
+Paper title: The effect of a social robot mediator on speech characteristics of children with Autism Spectrum Disorder 
+Answer:Yes, the study used a NAO humanoid robot
+
+###
+Citation: She & Ren (2021) 
+Paper title: Enhance the Language Ability of Humanoid Robot NAO through Deep Learning to Interact with Autistic Children 
+Answer:Yes, authors used NAO humanoid robot
+
+###
+Citation: Shimaya et al., 2016 
+Paper title: Advantages of Indirect Conversation via a Desktop Humanoid Robot: Case Study on Daily Life Guidance for Adolescents with Autism Spectrum Disorders 
+Answer:Yes, the study used CommU desktop humanoid robot
+
+###
+Citation: (Shimaya et al., 2019) 
+Paper title: Communication Support via a Tele-Operated Robot for Easier Talking: Case/Laboratory Study of Individuals with/Without Autism Spectrum Disorder 
+Answer:Yes, authors used the humanoid robot CommU
+
+###
+Citation: (Silva et al., 2023) 
+Paper title: Social Stories for Promoting Social Communication with Children with Autism Spectrum Disorder Using a Humanoid Robot: Step-by-Step Study 
+Answer:Yes, the study used the humanoid robot ZECA
+
+###
+Citation: (Silvera-Tawil et al., 2018) 
+Paper title: Talk to me: The role of human-robot interaction in Improving verbal communication skills in students with Autism or Intellectual Disability 
+Answer:Yes, the study used NAO humanoid robots
+
+###
+Citation: (Taheri et al., 2016) 
+Paper title: Social Robots and Teaching Music to Autistic Children: Myth or Reality? 
+Answer:Yes, the study used the NAO humanoid robot
+
+###
+Citation: Taheri et al., 2019 
+Paper title: Teaching music to children with autism: A social robotics challenge 
+Answer:Yes, authors used the NAO humanoid robot
+
+###
+Citation: (Taheri et al., 2018) 
+Paper title: Human-Robot Interaction in Autism Treatment: A Case Study on Three Pairs of Autistic Children as Twins, Siblings, and Classmates 
+Answer:Yes, authors used NAO and Alice humanoid robots
+
+###
+Citation: (Talaei-Khoeli et al., 2017) 
+Paper title: Lean Robotic Communication for Children with Autism 
+Answer:Yes, the study used the NAO humanoid robot which is a two-foot tall humanoid robot with speech recognition, object recognition, mobility and gesturing capabilities
+
+###
+Citation: (Tartarisco et al., 2022) 
+Paper title: Exploring behavioural and physiological interactions in a group-based emotional skill social robotic training for autism spectrum disorders 
+Answer:Yes, QTrobot is a humanoid robot with 12 degrees of freedom
+
+###
+Citation: (Tuna, 2022) 
+Paper title: Inclusive Education for Young Children with Autism Spectrum Disorder: Use of Humanoid Robots and Virtual Agents to Alleviate Symptoms and Improve Skills, and A Pilot Study 
+Answer:Yes, the study used the NAO humanoid robot
+
+###
+Citation: Welch et al., 2023 
+Paper title: Using Physiological Signals and Machine Learning Algorithms to Measure Attentiveness During Robot-Assisted Social Skills Intervention: A Case Study of Two Children with Autism Spectrum Disorder 
+Answer:Yes, study used NAO humanoid robot
+
+###
+Citation: (Wood et al., 2017) 
+Paper title: Developing Child-Robot Interaction Scenarios with a Humanoid Robot to Assist Children with Autism in Developing Visual Perspective Taking Skills 
+Answer:Yes, the study used the humanoid robot Kaspar
+
+###
+Citation: (Wood et al., 2019) 
+Paper title: Developing a protocol and experimental setup for using a humanoid robot to assist children with autism to develop visual perspective taking skills 
+Answer:Yes, the study used the humanoid robot Kaspar
+
+###
+Citation: (Yin & Tung, 2013) 
+Paper title: Design and Evaluation of Applying Robots to Assisting and Inducing Children with Autism in Social Interaction 
+Answer:Yes, Robot A was a 19-axial humanoid robot
+
+###
+Citation: (Shahriar et al., 2021) 
+Paper title: Humanoid Robot Enhancing Social and Communicate Skills of Autistic Children: Review 
+Answer:Yes, the study used NAO humanoid robot
+
+###
+Citation: Yun et al., 2014 
+Paper title: A Robotic Treatment Approach to promote Social Interaction Skills for Children with Autism Spectrum Disorders 
+Answer:Yes, used iRobi humanoid robot
+
+###
+Citation: (Zhanatkyzy et al., 2020) 
+Paper title: Quantitative Results of Robot-Assisted Therapy for Children with Autism, ADHD and Delayed Speech Development 
+Answer:Yes, the study used NAO humanoid robot
+
+###
+Citation: (Simlesa et al., 2022) 
+Paper title: Imitation, focus of attention and social behaviours of children with autism spectrum disorder in interaction with robots 
+Answer:Yes, the study used NAO humanoid robot

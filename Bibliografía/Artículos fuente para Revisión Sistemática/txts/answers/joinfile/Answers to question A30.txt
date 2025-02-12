@@ -1,0 +1,97 @@
+<Question> 
+ In this study, did authors use Physical Sensors (such as EMG sensors for smile detection, Motion sensors, Tactile sensors, Accelerometers, Eye tracking devices)
+
+<All Answers to this Question>
+
+Final answers statistics: A total of 18 papers answered yes to this question,  whereas 78 papers answered no. Here is the information of the papers that answered yes: 
+
+
+###
+Citation: (Bharatharaj et al., 2018) 
+Paper title: Social engagement of children with autism spectrum disorder in interaction with a parrot-inspired therapeutic robot 
+Answer:Yes. The robot contained touch sensors and an ultrasonic sensor.
+
+###
+Citation: (Boccanfuso et al., 2016) 
+Paper title: Emotional Robot to Examine Different Play Patterns and Affective Responses of Children with and without ASD 
+Answer:Yes. The robot had an onboard accelerometer and gyroscope to measure movement.
+
+###
+Citation: (Bonarini et al., 2016) 
+Paper title: Playful interaction with Teo, a Mobile Robot for Children with Neurodevelopmental Disorders 
+Answer:Yes. Teo has tactile sensors in its body.
+
+###
+Citation: (Brivio et al., 2021) 
+Paper title: A soft, mobile, autonomous robot to develop skills through play in autistic children 
+Answer:Yes. The robot uses accelerometers and capacitive touch sensors.
+
+###
+Citation: (Costa et al., 2013) 
+Paper title: Where is Your Nose?' - Developing Body Awareness Skills Among Children With Autism Using a Humanoid Robot 
+Answer:Yes. The robot was equipped with tactile sensors (FSRs) to detect gentle vs. harsh touches.
+
+###
+Citation: (Kim et al., 2021) 
+Paper title: Smiles as a Signal of Prosocial Behaviors Toward the Robot in the Therapeutic Setting for Children With Autism Spectrum Disorder 
+Answer:Yes. The study used EMG sensors to detect facial muscle activity related to smiling.
+
+###
+Citation: (Lee et al., 2014) 
+Paper title: Enhancement of the Communication Effectiveness of Interactive Robots for Autism Therapy by Using Touch and Colour Feedback 
+Answer:Yes. The study used a three-component force sensor to measure the forces applied by children to the Touch Ball interface.
+
+###
+Citation: (Santos et al., 2023) 
+Paper title: Applications of Robotics for Autism Spectrum Disorder: a Scoping Review 
+Answer:Yes. The review mentions the use of physical sensors like motion sensors in some studies.
+
+###
+Citation: (Peng et al., 2018) 
+Paper title: Music Play Using a Vibraphone with a Humanoid Robot as Interaction Training for Autistic Children 
+Answer:Yes. The study used microphones to record sound.
+
+###
+Citation: (Pistoia et al., 2017) 
+Paper title: ASTRO: Autism Support Therapy by RObot Interaction 
+Answer:Yes. The NAO robot includes various physical sensors like ultrasonic, pressure, and touch sensors.
+
+###
+Citation: Robles-Bykbaev et al., 2018 
+Paper title: A Hybrid Approach Based on Multi-sensory Stimulation Rooms, Robotic Assistants and Ontologies to Provide Support in the Intervention of Children with Autism 
+Answer:Yes, the system used pressure sensors in the piano module
+
+###
+Citation: Sandygulova et al., 2019 
+Paper title: Interaction design and methodology of robot-assisted therapy for children with severe ASD and ADHD 
+Answer:Yes, authors used tactile sensors on the robot
+
+###
+Citation: She & Ren (2021) 
+Paper title: Enhance the Language Ability of Humanoid Robot NAO through Deep Learning to Interact with Autistic Children 
+Answer:Yes, authors used tactile sensors and microphones
+
+###
+Citation: Soleiman et al., 2014 
+Paper title: RoboParrot: A Robotic Platform for Human Robot Interaction, case of Autistic Children 
+Answer:Yes, the robot had IR sensors, touch sensors and Hall effect sensors
+
+###
+Citation: (Subramani et al., 2017) 
+Paper title: Development of a Robotic Motor Skills Assessment System for Children with Autism 
+Answer:Yes, the system used force-torque sensors and motion capture markers
+
+###
+Citation: (Tartarisco et al., 2022) 
+Paper title: Exploring behavioural and physiological interactions in a group-based emotional skill social robotic training for autism spectrum disorders 
+Answer:Yes, the study used heart rate variability monitoring through chest belts
+
+###
+Citation: Welch et al., 2023 
+Paper title: Using Physiological Signals and Machine Learning Algorithms to Measure Attentiveness During Robot-Assisted Social Skills Intervention: A Case Study of Two Children with Autism Spectrum Disorder 
+Answer:Yes, study used physiological sensors in E4 wristband (EDA, skin temperature, blood volume pulse)
+
+###
+Citation: Yun et al., 2014 
+Paper title: A Robotic Treatment Approach to promote Social Interaction Skills for Children with Autism Spectrum Disorders 
+Answer:Yes, used touch sensors and motion sensors

@@ -1,0 +1,122 @@
+<Question> 
+ In this study, did authors report having Assessment Limitations (such as Difficulty capturing behavior nuances, Limited depth of assessment, Challenges in detecting subtle changes, Problems measuring complex social interactions )
+
+<All Answers to this Question>
+
+Final answers statistics: A total of 23 papers answered yes to this question,  whereas 73 papers answered no. Here is the information of the papers that answered yes: 
+
+
+###
+Citation: (Alnajjar et al., 2021) 
+Paper title: Personalized Robot Interventions for Autistic Children: An Automated Methodology for Attention Assessment 
+Answer:Yes. The authors noted challenges in measuring complex social interactions.
+
+###
+Citation: (Bharatharaj et al., 2017) 
+Paper title: Robot-Assisted Therapy for Learning and Social Interaction of Children with Autism Spectrum Disorder 
+Answer:Yes. The study noted challenges in measuring complex social interactions.
+
+###
+Citation: (Boccanfuso et al., 2016) 
+Paper title: Emotional Robot to Examine Different Play Patterns and Affective Responses of Children with and without ASD 
+Answer:Yes. The authors noted challenges in measuring complex social interactions.
+
+###
+Citation: (Bonarini et al., 2016) 
+Paper title: Playful interaction with Teo, a Mobile Robot for Children with Neurodevelopmental Disorders 
+Answer:Yes. The authors noted challenges in measuring complex social interactions.
+
+###
+Citation: (Brivio et al., 2021) 
+Paper title: A soft, mobile, autonomous robot to develop skills through play in autistic children 
+Answer:Yes. The authors mentioned challenges in measuring complex social interactions.
+
+###
+Citation: (Costa et al., 2013) 
+Paper title: Where is Your Nose?' - Developing Body Awareness Skills Among Children With Autism Using a Humanoid Robot 
+Answer:Yes. The authors noted challenges in capturing behavior nuances and measuring complex social interactions.
+
+###
+Citation: (De Korte et al., 2020) 
+Paper title: Self-initiations in young children with autism during Pivotal Response Treatment with and without robot assistance 
+Answer:Yes. The authors reported assessment limitations including difficulty capturing behavior nuances and measuring complex social interactions.
+
+###
+Citation: (Kim et al., 2021) 
+Paper title: Smiles as a Signal of Prosocial Behaviors Toward the Robot in the Therapeutic Setting for Children With Autism Spectrum Disorder 
+Answer:Yes. The authors reported assessment limitations including difficulty capturing behavior nuances.
+
+###
+Citation: Lemaignan et al. (2022) 
+Paper title: It's Important to Think of Pepper as a Teaching Aid or Resource External to the Classroom: A Social Robot in a School for Autistic Children 
+Answer:Yes - Difficulty capturing behavior nuances noted
+
+###
+Citation: (Marino et al., 2020) 
+Paper title: Outcomes of a Robot-Assisted Social-Emotional Understanding Intervention for Young Children with Autism Spectrum Disorders 
+Answer:Yes. The authors reported assessment limitations including difficulty capturing behavior nuances and limited depth of assessment.
+
+###
+Citation: (Marzano et al., 2021) 
+Paper title: Improving Social Communication Skills in Autism Spectrum Disorders Using Programmable Toy Robots 
+Answer:Yes. The authors noted challenges in measuring complex social interactions.
+
+###
+Citation: (Nanou et al., 2021) 
+Paper title: THE SAS STRATEGY TRAINING FOR CHILDREN WITH ASD IN INCLUSIVE EDUCATIONAL ROBOTICS ACTIVITIES 
+Answer:Yes. The authors noted challenges in measuring complex social interactions.
+
+###
+Citation: (Santos et al., 2023) 
+Paper title: Applications of Robotics for Autism Spectrum Disorder: a Scoping Review 
+Answer:Yes. The review mentions assessment limitations like difficulty capturing behavior nuances in some studies.
+
+###
+Citation: (Rakhymbayeva & Sandygulova, 2021) 
+Paper title: Transfer Learning of Engagement Recognition within Robot-Assisted Therapy for Children with Autism 
+Answer:Yes, the study mentions limitations in engagement assessment due to heterogeneous data
+
+###
+Citation: Reardon et al., 2018 
+Paper title: Robots Can Teach Students With Intellectual Disabilities: Educational Benefits of Using Robotic and Augmented Reality Applications 
+Answer:Yes, The study reported difficulties in accurately perceiving student behavior
+
+###
+Citation: (Sakka & Gaboriau, 2017) 
+Paper title: A Robotic 'Puppet Master' Application to ASD Therapeutic Support 
+Answer:Yes, the study reported difficulties in capturing behavior nuances and measuring complex social interactions
+
+###
+Citation: Sandygulova et al., 2019 
+Paper title: Interaction design and methodology of robot-assisted therapy for children with severe ASD and ADHD 
+Answer:Yes, authors reported difficulty capturing behavior nuances
+
+###
+Citation: (Sartorato et al., 2017) 
+Paper title: Improving therapeutic outcomes in autism spectrum disorders: Enhancing social communication and sensory processing through the use of interactive robots 
+Answer:Yes, authors discussed difficulties in capturing behavior nuances and measuring complex interactions
+
+###
+Citation: (Scassellati et al., 2018) 
+Paper title: Improving social skills in children with ASD using a long-term, in-home social robot 
+Answer:Yes, limitations included difficulty capturing behavior nuances
+
+###
+Citation: (Shah et al., 2023) 
+Paper title: The effect of a social robot mediator on speech characteristics of children with Autism Spectrum Disorder 
+Answer:Yes, the study noted limitations in measuring complex social interactions
+
+###
+Citation: Taheri et al., 2019 
+Paper title: Teaching music to children with autism: A social robotics challenge 
+Answer:Yes, authors reported difficulties in measuring complex social interactions
+
+###
+Citation: (Taheri et al., 2018) 
+Paper title: Human-Robot Interaction in Autism Treatment: A Case Study on Three Pairs of Autistic Children as Twins, Siblings, and Classmates 
+Answer:Yes, authors reported difficulties in capturing behavior nuances
+
+###
+Citation: Zanatta et al. (2023) 
+Paper title: Combining robot-assisted therapy with virtual reality or using it alone? A systematic review on health-related quality of life in neurological patients 
+Answer:Yes, the study reported assessment limitations including challenges in measuring complex outcomes and limited depth of assessment

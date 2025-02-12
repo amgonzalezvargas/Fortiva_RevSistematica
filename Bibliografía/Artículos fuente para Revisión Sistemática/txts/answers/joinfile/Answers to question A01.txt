@@ -1,0 +1,422 @@
+<Question> 
+ In this study, did authors aim at developing or evaluating Social Communication skills (such as eye contact, social interaction, communication skills, spontaneous conversation, turn-taking, responding to social cues, social-communicative abilities, engagement) ?
+
+<All Answers to this Question>
+
+Final answers statistics: A total of 83 papers answered yes to this question,  whereas 13 papers answered no. Here is the information of the papers that answered yes: 
+
+
+###
+Citation: (Scassellati, 2018) 
+Paper title: In-home Robots Improve Social Skills in Children With Autism 
+Answer:Yes. The study aimed at developing social communication skills such as eye contact, social interaction, and responding to social cues in children with autism.
+
+###
+Citation: (Abdelmohsen & Arafa, 2021) 
+Paper title: Training Social Skills of Children with ASD Through Social Virtual Robot 
+Answer:Yes. The study aimed to enhance social skills of children with autism spectrum disorders (ASD) through a virtual robot intervention.
+
+###
+Citation: (Valadao et al., 2016) 
+Paper title: Analysis of the use of a robot to improve social skills in children with autism spectrum disorder 
+Answer:Yes. The study aimed to evaluate social communication skills such as eye contact, social interaction, and communication skills in children with autism spectrum disorder.
+
+###
+Citation: (Alnajjar et al., 2021) 
+Paper title: Personalized Robot Interventions for Autistic Children: An Automated Methodology for Attention Assessment 
+Answer:Yes. The study aimed to improve social communication skills in children with autism spectrum disorder (ASD) through robot-mediated therapy sessions focused on increasing attention and engagement.
+
+###
+Citation: (Agel et al., 2020) 
+Paper title: Development of Color Following Robot for Interaction with Autistic Children 
+Answer:Yes. The authors aimed to develop a color following robot to interact with autistic children and improve their social communication skills through interactive play.
+
+###
+Citation: (Attawibulkul et al., 2019) 
+Paper title: Using a Daily Routine Game on the BLISS Robot for Supporting Personal-Social Development in Children with Autism and Other Special Needs 
+Answer:Yes. The study aimed to develop social communication skills through a daily routine game on the BLISS robot to support personal-social development in children with autism and other special needs.
+
+###
+Citation: (Bharatharaj et al., 2017) 
+Paper title: Robot-Assisted Therapy for Learning and Social Interaction of Children with Autism Spectrum Disorder 
+Answer:Yes. The study aimed to improve social interaction abilities of children with autism spectrum disorder using a parrot-inspired robot.
+
+###
+Citation: (Bharatharaj et al., 2016) 
+Paper title: Effects of Adapted Model-Rival Method and Parrot-Inspired Robot in improving Learning and Social Interaction among Children with Autism 
+Answer:Yes. The study aimed to improve social interaction abilities of children with autism using an Adapted Model-Rival Method (AMRM) and a parrot-inspired robot.
+
+###
+Citation: (Bharatharaj et al., 2018) 
+Paper title: Social engagement of children with autism spectrum disorder in interaction with a parrot-inspired therapeutic robot 
+Answer:Yes. The study aimed to evaluate if children with autism spectrum disorder exhibit more social interaction interests when engaging with a parrot-inspired therapeutic robot compared to with another human.
+
+###
+Citation: (Binotte et al., 2017) 
+Paper title: Control Strategies for a Robot for Interaction with Children with Autism Spectrum Disorder 
+Answer:Yes. The paper describes a robot designed to interact with children with autism spectrum disorder to stimulate their social and cognitive skills.
+
+###
+Citation: (Boccanfuso et al., 2016) 
+Paper title: Emotional Robot to Examine Different Play Patterns and Affective Responses of Children with and without ASD 
+Answer:Yes. The study aimed to examine social communication skills by analyzing child-robot interactions and affective responses to an emotion-simulating robot.
+
+###
+Citation: (Bonarini et al., 2014) 
+Paper title: Integrating Human-Robot and Motion-Based Touchless Interaction for Children with Intellectual Disability 
+Answer:Yes. The study aims to develop social communication skills through game-based learning tools integrating motion-based touchless interaction and interaction with mobile robots.
+
+###
+Citation: (Bonarini et al., 2016) 
+Paper title: Playful interaction with Teo, a Mobile Robot for Children with Neurodevelopmental Disorders 
+Answer:Yes. The authors aimed to develop social communication skills such as social interaction and engagement through playful interaction with the Teo robot.
+
+###
+Citation: (Brivio et al., 2021) 
+Paper title: A soft, mobile, autonomous robot to develop skills through play in autistic children 
+Answer:Yes. The authors aimed to develop social communication skills such as social interaction and engagement through activities with the robot.
+
+###
+Citation: (Carlson et al., 2018) 
+Paper title: Training Autistic Children on Joint Attention Skills with a Robot 
+Answer:Yes. The study aimed to develop joint attention skills, which are a type of social communication skill.
+
+###
+Citation: (Cervera et al., n.d.) 
+Paper title: Playful Interaction with Humanoid Robots for Social Development in Autistic Children: a Pilot Study 
+Answer:Yes. The study aimed to develop social communication skills in autistic children through playful interaction with humanoid robots.
+
+###
+Citation: (Chaldi & Mantzanidou, 2021) 
+Paper title: IMPROVING LISTENER RESPONDING SKILL USING BEE-BOT® IN AUTISM SPECTRUM DISORDER: CASE STUDY 
+Answer:Yes. The study aimed to improve listener responding skills, which are a type of social communication skill, in a child with autism spectrum disorder.
+
+###
+Citation: (Charron et al., 2017) 
+Paper title: A Robotic Therapy Case Study: Developing Joint Attention Skills With a Student on the Autism Spectrum 
+Answer:Yes. The study aimed to develop joint attention skills, which are a form of social communication, in a student with autism spectrum disorder.
+
+###
+Citation: (Chevalier et al., n.d.) 
+Paper title: "iCub says: Do my motor sounds disturb you?" Motor Sounds and Imitation with a Robot for Children with Autism Spectrum Disorder 
+Answer:Yes. The study aimed at evaluating social communication skills through imitation games with a robot.
+
+###
+Citation: (Conti et al., 2020) 
+Paper title: An empirical study on integrating a small humanoid robot to support the therapy of children with Autism Spectrum Disorder and Intellectual Disability 
+Answer:Yes. The study aimed to develop and evaluate social communication skills, specifically imitation skills, in children with autism and intellectual disability.
+
+###
+Citation: (Costa et al., 2013) 
+Paper title: Where is Your Nose?' - Developing Body Awareness Skills Among Children With Autism Using a Humanoid Robot 
+Answer:Yes. The study aimed to develop social communication skills in children with autism, specifically teaching them to identify body parts and increase body awareness through interaction with a humanoid robot.
+
+###
+Citation: (Costa et al., 2014) 
+Paper title: Building a Game Scenario to Encourage Children with Autism to Recognize and Label Emotions using a Humanoid Robot 
+Answer:Yes. The study aimed to develop social communication skills, specifically emotion recognition and labeling, in children with autism spectrum disorders (ASD).
+
+###
+Citation: (De Korte et al., 2020) 
+Paper title: Self-initiations in young children with autism during Pivotal Response Treatment with and without robot assistance 
+Answer:Yes. The study aimed to evaluate social communication skills, specifically self-initiations, in children with autism receiving PRT with and without robot assistance.
+
+###
+Citation: (Filiou, 2022) 
+Paper title: Robotics and cbt and entertainment in the enhancement of children with asd, mental disorders, dysfunctional emotions and irrational beliefs 
+Answer:Yes. The paper discusses using robots to develop social communication skills in children with ASD, such as social interaction and communication.
+
+###
+Citation: (Giannopulu, 2013) 
+Paper title: Embedded Multimodal Nonverbal and Verbal Interactions Between a Mobile Toy Robot and Autistic Children 
+Answer:Yes. The study aimed to analyze multimodal nonverbal and verbal interactions between autistic children and a mobile toy robot, including aspects of social communication like eye contact.
+
+###
+Citation: (Giannopulu, 2013) 
+Paper title: Multimodal Cognitive Nonverbal and Verbal Interactions: the Neurorehabilitation of Autistic Children Via Mobile Toy Robots 
+Answer:Yes. The study aimed to develop social communication skills such as eye contact, social interaction, and communication skills in autistic children through interactions with mobile toy robots.
+
+###
+Citation: (Che Hamid et al., 2013) 
+Paper title: Human-Robot Interaction (HRI) For Children with Autism to Augment Communication Skills 
+Answer:Yes. The study aimed to develop teaching and learning modules on communication through question-type conversation and song-based approaches for children with autism.
+
+###
+Citation: (Hamzah et al., 2014) 
+Paper title: Development of Interaction Scenarios based on Pre-School Curriculum in Robotic Intervention for Children with Autism 
+Answer:Yes. The study aimed to develop interactive scenarios using a humanoid robot to facilitate communication and socialization skills in autistic children.
+
+###
+Citation: (Hong et al., 2022) 
+Paper title: Phonetic convergence of children with and without autism in robot interaction 
+Answer:Yes. The study aimed at evaluating social communication skills, specifically phonetic convergence in conversations between children with ASD and a social robot.
+
+###
+Citation: (Hossain et al., 2020) 
+Paper title: Human Robot Interaction System for Behavioral Improvement of Autistic Children 
+Answer:Yes. The study aimed to develop social communication skills in autistic children through interaction with a humanoid robot.
+
+###
+Citation: (Tobar et al., 2021) 
+Paper title: KERO-Playable Robotic Platform to Contribute to Non-verbal Communication Teaching in Children with Autism Spectrum Disorder 
+Answer:Yes. The study aimed to develop non-verbal communication skills in children with autism spectrum disorder (ASD) using a robotic platform named KERO.
+
+###
+Citation: (Kajopoulos et al., 2015) 
+Paper title: Robot-Assisted Training of Joint Attention Skills in Children Diagnosed with Autism 
+Answer:Yes. The study aimed at developing responding to joint attention (RJA) skills, which are a key component of social communication.
+
+###
+Citation: (Kim et al., 2014) 
+Paper title: Rapid Prototyping Framework for Robot-assisted Training of Autistic Children 
+Answer:Yes. The study aimed to develop social communication skills in children with autism through robot-assisted training using Pivotal Response Training techniques.
+
+###
+Citation: (Kim et al., 2021) 
+Paper title: Smiles as a Signal of Prosocial Behaviors Toward the Robot in the Therapeutic Setting for Children With Autism Spectrum Disorder 
+Answer:Yes. The study aimed at developing social communication skills such as social interaction and responding to social cues in children with autism spectrum disorder.
+
+###
+Citation: (Lebersfeld et al., 2018) 
+Paper title: The socially animated machine (SAM) robot: A social skills intervention for children with autism spectrum disorder 
+Answer:Yes. The study aimed to evaluate social communication skills in children with autism spectrum disorder (ASD) using a robot-based intervention.
+
+###
+Citation: (Lee et al., 2013) 
+Paper title: Robotic System for Eye Contact Training of Children with Autism 
+Answer:Yes. The study aimed to develop a robotic system for eye contact training of children with autism, which is a key social communication skill.
+
+###
+Citation: (Lee et al., 2014) 
+Paper title: Enhancement of the Communication Effectiveness of Interactive Robots for Autism Therapy by Using Touch and Colour Feedback 
+Answer:Yes. The study aimed to develop social communication skills such as social interaction and communication abilities in children with autism through robot-assisted therapy.
+
+###
+Citation: (Li et al., 2020) 
+Paper title: Non-Participatory User-Centered Design of Accessible Teacher-Teleoperated Robot and Tablets for Minimally Verbal Autistic Children 
+Answer:Yes. The study aimed to develop activities for teaching facial emotions to minimally verbal autistic children using a robot and tablet system.
+
+###
+Citation: (Lindsay, 2020) 
+Paper title: Exploring Skills Gained Through a Robotics Program for Youth With Disabilities 
+Answer:Yes. The study aimed to evaluate social communication skills, as it assessed outcomes related to teamwork, social interaction, and communication skills.
+
+###
+Citation: (Marathaki et al., 2022) 
+Paper title: Deploy Social Assistive Robot to develop symbolic play and imitation skills in students with Autism Spectrum Disorder 
+Answer:Yes. The study aimed to improve social communication skills such as eye contact, attention, and imitation in children with ASD through interaction with a NAO robot.
+
+###
+Citation: (Marino et al., 2020) 
+Paper title: Outcomes of a Robot-Assisted Social-Emotional Understanding Intervention for Young Children with Autism Spectrum Disorders 
+Answer:Yes. The study aimed to develop social communication skills such as emotional comprehension and perspective-taking.
+
+###
+Citation: (Marzano et al., 2021) 
+Paper title: Improving Social Communication Skills in Autism Spectrum Disorders Using Programmable Toy Robots 
+Answer:Yes. The study aimed to improve social communication skills in individuals with autism spectrum disorders using programmable toy robots.
+
+###
+Citation: (Mavadati et al., 2014) 
+Paper title: Comparing the Gaze Responses of Children with Autism and Typically Developed Individuals in Human-Robot Interaction 
+Answer:Yes. The study aimed to analyze gaze patterns and eye contact of children with autism spectrum disorder (ASD) compared to typically developing (TD) children when interacting with a robot.
+
+###
+Citation: (Miskam et al., 2013) 
+Paper title: Study on Social Interaction between Children with Autism and Humanoid Robot NAO 
+Answer:Yes. The study aimed to develop and evaluate social interaction skills in children with autism using a humanoid robot NAO.
+
+###
+Citation: (Moorthy & Pugazhenthi, 2017) 
+Paper title: Teaching Psychomotor Skills to Autistic Children by Employing a Robotic Training Kit: A Pilot Study 
+Answer:Yes. The study aimed to develop psychomotor skills including hand-eye coordination and palmar grasp.
+
+###
+Citation: (Nanou et al., 2021) 
+Paper title: THE SAS STRATEGY TRAINING FOR CHILDREN WITH ASD IN INCLUSIVE EDUCATIONAL ROBOTICS ACTIVITIES 
+Answer:Yes. The study aimed to develop social communication skills by fostering participation of children with autism in teamwork with peers during educational robotics activities.
+
+###
+Citation: (Nie et al., 2018) 
+Paper title: Predicting response to joint attention performance in human-human interaction based on human-robot interaction for young children with autism spectrum disorder 
+Answer:Yes. The study aimed to develop and evaluate response to joint attention (RJA) skills, which are a type of social communication skill.
+
+###
+Citation: (Santos et al., 2023) 
+Paper title: Applications of Robotics for Autism Spectrum Disorder: a Scoping Review 
+Answer:Yes. The review discusses several studies that aimed at developing or evaluating social communication skills in individuals with autism, including joint attention, social engagement, and communication skills.
+
+###
+Citation: (Peng et al., 2018) 
+Paper title: Music Play Using a Vibraphone with a Humanoid Robot as Interaction Training for Autistic Children 
+Answer:Yes. The study aimed to develop social communication skills in autistic children through music interaction with a robot.
+
+###
+Citation: (Pennington et al., 2014) 
+Paper title: Using Robot-Assisted Instruction to Teach Students with Intellectual Disabilities to Use Personal Narrative in Text Messages 
+Answer:Yes. The study aimed to teach participants to include a personal narrative statement about an activity or event they engaged in as one of the components of their text messages.
+
+###
+Citation: (Pistoia et al., 2017) 
+Paper title: ASTRO: Autism Support Therapy by RObot Interaction 
+Answer:Yes. The study aimed to develop a system to support children with autism spectrum disorders in educational and rehabilitation activities, including social communication skills.
+
+###
+Citation: (Pliasa & Fachantidis, 2021) 
+Paper title: Mobile Technologies Serious Games for the Development of Social Skills in Children with Autism Spectrum Disorders, Enhanced with Socially Assistive Robots Interventions 
+Answer:Yes. The study aimed to develop social communication skills in children with autism spectrum disorders, including social interaction and communication skills.
+
+###
+Citation: Puyon & Giannopulu, 2013 
+Paper title: Emergent Emotional and Verbal Strategies in Autism are Based on Multimodal Interactions with Toy Robots in Free Spontaneous Game Play 
+Answer:Yes, the study aimed to analyze the relationship between multimodal cognitive nonverbal and verbal interactions in autistic children
+
+###
+Citation: (Qidwai & Shakir, 2013) 
+Paper title: Robotic Toys for Autistic Children: Innovative tools for teaching and treatment 
+Answer:Yes, authors aimed at developing social communication skills through interactive scenarios with robotic toys
+
+###
+Citation: (Qidwai et al., 2019) 
+Paper title: Humanoid Robot as a Teacher's Assistant: Helping Children with Autism to Learn Social and Academic Skills 
+Answer:Yes, the study aimed at improving social interaction and communication skills in children with ASD through robot-assisted activities
+
+###
+Citation: (Rakhymbayeva & Sandygulova, 2021) 
+Paper title: Transfer Learning of Engagement Recognition within Robot-Assisted Therapy for Children with Autism 
+Answer:Yes, the study aims to evaluate social interaction through engagement recognition during robot-assisted therapy
+
+###
+Citation: Robles-Bykbaev et al., 2018 
+Paper title: A Hybrid Approach Based on Multi-sensory Stimulation Rooms, Robotic Assistants and Ontologies to Provide Support in the Intervention of Children with Autism 
+Answer:Yes, the study aimed to support psychological and therapeutic intervention for children with ASD, including development of social communication skills through robotic assistants and multi-sensory rooms
+
+###
+Citation: (Sakka & Gaboriau, 2017) 
+Paper title: A Robotic 'Puppet Master' Application to ASD Therapeutic Support 
+Answer:Yes, the study aimed at developing social communication skills through robot-mediated interactions, leading to improvements in voluntary and organized communication, sharing, focus, and social organization
+
+###
+Citation: Sandygulova et al., 2019 
+Paper title: Interaction design and methodology of robot-assisted therapy for children with severe ASD and ADHD 
+Answer:Yes, authors aimed at developing social communication skills through robot-assisted therapy applications focused on interaction, engagement and communication
+
+###
+Citation: (Sartorato et al., 2017) 
+Paper title: Improving therapeutic outcomes in autism spectrum disorders: Enhancing social communication and sensory processing through the use of interactive robots 
+Answer:Yes, authors aimed at developing social communication skills, particularly focusing on joint attention behaviors, imitation, gaze fixation, and social interactions
+
+###
+Citation: (Scassellati et al., 2018) 
+Paper title: Improving social skills in children with ASD using a long-term, in-home social robot 
+Answer:Yes, the study aimed at developing social communication skills including joint attention, social interaction, and communication abilities through robot-mediated interventions
+
+###
+Citation: (Shah et al., 2023) 
+Paper title: The effect of a social robot mediator on speech characteristics of children with Autism Spectrum Disorder 
+Answer:Yes, the study aimed at evaluating social communication skills through analysis of conversational interactions between children with ASD using a robot prompter
+
+###
+Citation: She & Ren (2021) 
+Paper title: Enhance the Language Ability of Humanoid Robot NAO through Deep Learning to Interact with Autistic Children 
+Answer:Yes, authors aimed at developing social communication skills by creating a dialogue system for NAO robot to interact with autistic children
+
+###
+Citation: Shimaya et al., 2016 
+Paper title: Advantages of Indirect Conversation via a Desktop Humanoid Robot: Case Study on Daily Life Guidance for Adolescents with Autism Spectrum Disorders 
+Answer:Yes, the study aimed to examine if robots could support verbal interaction between adolescents with ASD and their caregivers
+
+###
+Citation: (Shimaya et al., 2019) 
+Paper title: Communication Support via a Tele-Operated Robot for Easier Talking: Case/Laboratory Study of Individuals with/Without Autism Spectrum Disorder 
+Answer:Yes, authors aimed at developing social communication skills by examining how a tele-operated robot could facilitate verbal disclosure and communication between individuals with ASD and their caregivers
+
+###
+Citation: (Silva et al., 2023) 
+Paper title: Social Stories for Promoting Social Communication with Children with Autism Spectrum Disorder Using a Humanoid Robot: Step-by-Step Study 
+Answer:Yes, the study aimed to develop social communication skills through storytelling games using a humanoid robot and OPT device to promote interaction with children with ASD
+
+###
+Citation: (Silvera-Tawil et al., 2018) 
+Paper title: Talk to me: The role of human-robot interaction in Improving verbal communication skills in students with Autism or Intellectual Disability 
+Answer:Yes, the study aimed at evaluating social communication skills, particularly verbal participation and spontaneous conversation in students with autism and intellectual disabilities
+
+###
+Citation: Soleiman et al., 2014 
+Paper title: RoboParrot: A Robotic Platform for Human Robot Interaction, case of Autistic Children 
+Answer:Yes, the study aimed at developing verbal interactions and social communication skills through a parrot-like robot
+
+###
+Citation: (Taheri et al., 2016) 
+Paper title: Social Robots and Teaching Music to Autistic Children: Myth or Reality? 
+Answer:Yes, the study aimed to improve social communication skills through music-based interventions with a NAO robot, focusing on turn-taking and social interaction
+
+###
+Citation: Taheri et al., 2019 
+Paper title: Teaching music to children with autism: A social robotics challenge 
+Answer:Yes, authors aimed to improve social communication skills through active music games with robots, including turn-taking and social interaction
+
+###
+Citation: (Taheri et al., 2018) 
+Paper title: Human-Robot Interaction in Autism Treatment: A Case Study on Three Pairs of Autistic Children as Twins, Siblings, and Classmates 
+Answer:Yes, authors aimed to develop social communication skills through robot-assisted interventions focusing on joint attention, gaze-shifting, and verbal communications
+
+###
+Citation: (Talaei-Khoeli et al., 2017) 
+Paper title: Lean Robotic Communication for Children with Autism 
+Answer:Yes, the study aimed to improve social communication skills by using a humanoid robot to create basic structured communication with an autistic child
+
+###
+Citation: (Tartarisco et al., 2022) 
+Paper title: Exploring behavioural and physiological interactions in a group-based emotional skill social robotic training for autism spectrum disorders 
+Answer:Yes, the study aimed at developing social communication skills through group-based therapy with QTrobot
+
+###
+Citation: Tobar et al., 2021 
+Paper title: Portable Robotic Modular Kit for Teaching Gestures in Children with ASD 
+Answer:Yes, the study aimed to develop social communication skills through teaching gestures and non-verbal communication to children with ASD
+
+###
+Citation: (Tuna, 2022) 
+Paper title: Inclusive Education for Young Children with Autism Spectrum Disorder: Use of Humanoid Robots and Virtual Agents to Alleviate Symptoms and Improve Skills, and A Pilot Study 
+Answer:Yes, the study aimed at developing social communication skills through robot-mediated interventions to improve engagement and interaction
+
+###
+Citation: Welch et al., 2023 
+Paper title: Using Physiological Signals and Machine Learning Algorithms to Measure Attentiveness During Robot-Assisted Social Skills Intervention: A Case Study of Two Children with Autism Spectrum Disorder 
+Answer:Yes, authors aimed at developing social communication skills through robot-assisted interventions for teaching social skills to learners with ASD
+
+###
+Citation: (Wood et al., 2017) 
+Paper title: Developing Child-Robot Interaction Scenarios with a Humanoid Robot to Assist Children with Autism in Developing Visual Perspective Taking Skills 
+Answer:Yes, the study aimed to develop social communication skills through visual perspective taking tasks using the Kaspar robot
+
+###
+Citation: (Yin & Tung, 2013) 
+Paper title: Design and Evaluation of Applying Robots to Assisting and Inducing Children with Autism in Social Interaction 
+Answer:Yes, authors aimed to develop social communication skills through interactive scenarios and turn-taking activities with robots
+
+###
+Citation: (Shahriar et al., 2021) 
+Paper title: Humanoid Robot Enhancing Social and Communicate Skills of Autistic Children: Review 
+Answer:Yes, the study aimed at developing social communication skills in autistic children through interaction with NAO robot, focusing on improving their communication abilities and social integration
+
+###
+Citation: Yun et al., 2014 
+Paper title: A Robotic Treatment Approach to promote Social Interaction Skills for Children with Autism Spectrum Disorders 
+Answer:Yes, authors aimed to develop social communication skills including eye contact and social interaction through robot-assisted behavioral intervention
+
+###
+Citation: (Yun et al., 2016) 
+Paper title: Robotic Behavioral Intervention to Facilitate Eye Contact and Reading Emotions of Children with Autism Spectrum Disorders 
+Answer:Yes, authors aimed at developing social communication skills, specifically eye contact and social interaction
+
+###
+Citation: Zamin et al., 2019 
+Paper title: Jawi Alphabot: A Jawi Teaching Robot for Children with Autism 
+Answer:Yes, the study aimed at improving social interaction and communication through robotic intervention for autistic children
+
+###
+Citation: (Zhanatkyzy et al., 2020) 
+Paper title: Quantitative Results of Robot-Assisted Therapy for Children with Autism, ADHD and Delayed Speech Development 
+Answer:Yes, the study evaluated social interaction through engagement scores and eye contact measurements
